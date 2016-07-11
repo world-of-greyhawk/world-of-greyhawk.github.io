@@ -1,0 +1,80 @@
+/*zero code*/
+	
+/*site base*/
+*
+{
+}
+
+html
+{
+    box-sizing:  border-box;
+}
+
+body
+{
+    background-color:  black;
+    background-image:  url("darkerbattle.jpg");
+    font-size:  1em;
+}
+
+header, main, section, nav, footer
+{
+    border-radius:  15px;
+}
+
+header, main, footer
+{
+    width: 90%;
+    max-width: 64em;
+    margin: 1em auto;
+}
+
+header
+{
+    text-align: center;
+}
+
+footer
+{
+    background-color: black;    
+    color:  white;
+    text-align: center;
+}
+
+main
+{
+    display: flex;
+    justify-content: space-between;
+    min-height: 16em;
+}
+
+aside
+{
+    width: 10%;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 1em;
+}
+section
+{
+    width: 60%;
+    background-color: black;    
+    color:  white;
+    text-align: left;
+    padding: 1em;
+}
+
+nav
+{
+    width:  10%;
+    background-color: black;    
+    color:  white;
+    text-align: right;
+    padding: 1em;
+}
+
+.sectionheader
+{
+    color:  #cc9933;
+}
