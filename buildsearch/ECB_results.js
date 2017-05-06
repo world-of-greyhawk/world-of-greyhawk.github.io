@@ -34,16 +34,6 @@ function IsInList(item, list)
 }
 
 
-// Checks to see if:
-// 1) criterion is "any" or class_name is in class_list, and
-// 2) level is in the closed interval [min_level, max_level].
-function IsMultiMatch(class_name, level, criterion, min_level, max_level, class_list)
-{
-    return min_level <= level  &&  level <= max_level  &&
-           ( criterion == "any"  ||  IsInList(class_name, class_list) );
-}
-
-
 // Comparison function for sorting builds by author.
 function AuthorSorter(a, b)
 {
@@ -244,287 +234,95 @@ function TopicSorter(a, b)
 }
 
 
-// Constructs an object, to be used in a filter array, that is associated
-// with build. This is basically a light-weight clone of build or a true
-// clone of another filter.
-function FilterRec(build)
+// Tests a build to make sure it is not "deleted".
+// This will also handle any standardization of build values.
+// Returns true if the build is acceptable.
+function ValidBuild(build)
 {
-    this.topicNum = build.topicNum;
-    for ( var i = 1; i <= MAX_CLASS; i++ )
-    {
-        this["class" + i] = build["class" + i];
-        this["level" + i] = build["level" + i];
+    return ("" != build.author);
+}
+
+
+// Tests a build to make sure its race matches one in the provided list.
+// Returns true if the build is acceptable.
+function MatchRace(build, race_list)
+{
+    // Standard check.
+    if ( IsInList(build.race, race_list) )
+    	return true;
+
+    // See if we should check unknown races.
+    if ( IsInList("unknown", race_list)  &&  !RaceRE.test(build.race) )
+        return true;
+
+    // The build did not match race_list.
+    return false;
+}
+
+
+// Checks a class and level to a class criterion.
+// Returns true if this is a match.
+function MatchOneClass(class_name, level, min_level, max_level, goal_class, class_selection)
+{
+    // If the search is for a non-existent class:
+    if ( "none" == goal_class )
+        return ("" == class_name);
+    // If the build's class does not exist:
+    if ( "" == class_name )
+        return (min_level <= 0);
+
+    // Check for a level mismatch.
+    if ( level < min_level  ||  max_level < level )
+        return false;
+
+    // Check that the class matches.
+    if ( "any" == goal_class )
+        return true;
+    if ( "selected" == goal_class )
+        return IsInList(class_name, class_selection);
+    return (class_name == goal_class);
+}
+
+// Recursive test to see if a build matches our class criteria.
+// build, mins, maxs, classes, and class_selection are the criteria.
+// crit_num specifies which criterion set to check (first, second, up to MAX_CLASS).
+// used[1/2/3] keeps track of which of the build's classes have been used.
+function MatchNextClass(build, mins, maxs, classes, class_selection, crit_num, used)
+{
+    // The idea is that we recurse through the criteria, and at each stage we loop through
+    // the build's classes.
+    var build_class;
+    for ( build_class = 1; build_class <= MAX_CLASS; ++build_class ) {
+        // See if the build's class can match the current criterion.
+        if ( used[build_class] )
+            continue;
+        if ( !MatchOneClass(build["class" + build_class], build["level" + build_class],
+                            mins[crit_num], maxs[crit_num], classes[crit_num], class_selection) )
+            continue;
+        // This class slot matches the current criterion.
+
+        if ( crit_num == MAX_CLASS )
+            // No more criteria to check. It's a match!
+            return true;
+        // Try the rest of the criteria.
+        used[build_class] = true;
+        if ( MatchNextClass(build, mins, maxs, classes, class_selection, crit_num + 1, used) )
+        	return true;
+        // Failed to match:
+        used[build_class] = false;
     }
+    
+    // Failed to match:
+    return false;
 }
 
 
-// Removes the builds of build_list that are "deleted" and standardizes
-// "unknown" race names. Returns the resulting array.
-// The original array is unchanged.
-function ValidBuilds(build_list)
+// Tests a build to make sure its classes match the provided criteria.
+// Returns true if the build is acceptable.
+function MatchClass(build, mins, maxs, classes, class_selection)
 {
-    var new_list = new Array();
-
-    // Iterate through build_list.
-    var index = build_list.length;
-    while ( index-- > 0 )
-    {
-        var build = build_list[index];
-
-        // Skip "deleted" builds.
-        if ( "" != build.author )
-        {
-            // Standardize missing races.
-            if ( build.race != "any"  &&  !RaceRE.test(build.race) )
-                build.race = "unknown";
-
-            new_list.push(build);
-        }
-    }
-
-    return new_list;
-}
-
-
-// Removes the builds of build_list that are "deleted" and whose race
-// does not match the one in race_list. Returns the resulting array.
-// The original array is unchanged.
-function RaceBuilds(build_list, race_list)
-{
-    var new_list = new Array();
-
-    // Determine if unrecognized races are to be included.
-    var check_unknown = IsInList("unknown", race_list)
-
-    // Iterate through build_list.
-    var index = build_list.length;
-    while ( index-- > 0 )
-    {
-        var build = build_list[index];
-
-        // Skip "deleted" builds.
-        if ( "" != build.author )
-        {
-            // See if the race matches.
-            if ( check_unknown  &&  !RaceRE.test(build.race) )
-            {
-                if ( build.race != "any" )
-                    build.race = "unknown";
-                new_list.push(build);
-            }
-            else if ( IsInList(build.race, race_list) )
-                new_list.push(build);
-        }
-    }
-
-    return new_list;
-}
-
-
-// Returns a filter list (array) built from list_filter enforcing
-// class class_name has between min_level and max_level levels.
-function ClassNameFilter(list_filter, class_name, min_level, max_level)
-{
-    var new_list = new Array();
-
-    // Iterate through list_filter;
-    var index = list_filter.length;
-    while ( index-- > 0 )
-    {
-        var filter = list_filter[index];
-
-        // Check for this class being present.
-        var position = MAX_CLASS + 1;
-        while ( --position > 0 )
-            if ( class_name == filter["class" + position] )
-                break;
-
-        // If we found the class.
-        if ( position > 0 )
-        {
-            if ( min_level <= filter["level" + position]  &&
-                 filter["level" + position] <= max_level )
-            {
-                // We have a match!
-                var new_filter = new FilterRec(filter);
-                new_filter["class" + position] = "used";
-                new_list.push(new_filter);
-            }
-        }
-        // Else if no levels is a possibility.
-        else if ( min_level == 0 )
-        {
-            var new_filter = new FilterRec(filter);
-            new_list.push(new_filter);
-        }
-    }//while (index>0)
-
-    return new_list;
-}
-
-
-// Returns a filter list (array) built from list_filter enforcing the
-// "selected" and "any" criteria (if any) listed in classes (with min/max
-// level criteria supplied in mins amd maxs). The allowed classes for
-// "selected" are those in class_list.
-function ClassMultiFilter(list_filter, classes, mins, maxs, class_list)
-{
-    var criterion = "";
-    var min_level = 0;
-    var max_level = 0;
-
-    // Determine which of the MAX_CLASS criteria are "any"/"selected".
-    for ( var i = 1; i <= MAX_CLASS; i++ )
-        if ( "any" == classes[i]  ||  "selected" == classes[i] )
-        {
-            if ( criterion != "" )
-                // More than one "any"/"selected"; hand off to the 2-criteria handler.
-                return ClassMultiFilter2(list_filter, classes, mins, maxs, class_list);
-            else
-            {
-                criterion = classes[i];
-                min_level = mins[i];
-                max_level = maxs[i];
-            }
-        }
-    // Do nothing if no "any"/"selected" criterion found.
-    if ( criterion == "" )
-        return list_filter;
-
-    // Iterate through list_filter.
-    var index = list_filter.length;
-    while ( index-- > 0 )
-    {
-        var filter = list_filter[index];
-        var class_tracker = new Object();  // For tracking which classes have more than zero levels.
-        var found = 0;
-
-        // Look for a potential match.
-        for ( var i = 1; i <= MAX_CLASS  &&  0 == found; i++ )
-        {
-            var class_name = filter["class" + i];
-
-            // Ignore used and non-existent class slots.
-            if ( class_name  &&  class_name != "used"  &&  class_name != "" )
-            {
-                // Track this.
-                class_tracker[class_name] = true;
-                // Try to match this against the criterion.
-                if ( IsMultiMatch(class_name, filter["level" + i],
-                         criterion, min_level, max_level, class_list) )
-                    // A match!
-                    found = i;
-            }
-        }
-        // Maybe try to match having zero levels of an acceptable class?
-        if ( 0 == found  &&  min_level == 0 )
-        {
-            if ( criterion == "selected" )
-            {
-                // Look for an unused class from the list.
-                var i = class_list.length;
-                while ( i-- > 0  &&  0 == found )
-                    if ( !class_tracker[class_list[i]] )
-                        found = i;
-            }
-            else // criterion == "any"
-                // Look for an unused class slot.
-                for ( var i = 1; i <= MAX_CLASS  &&  0 == found; i++ )
-                    if ( filter["class" + i] == "" )
-                        found = i;
-        }
-
-        // Did we find a match of some sort?
-        if ( found > 0 )
-        {
-            var new_filter = new FilterRec(filter);
-            new_filter["class" + found] = "used";
-            new_list.push(new_filter);
-        }
-    }//while (index)
-
-    return new_list;
-}
-
-
-/// STILL NEED:
-function ClassMultiFilter2(list_filter, classes, mins, maxs, class_list);
-
-
-// Returns a filter list (array) whose elements correspond to those builds
-// in build_list that have at most class_limit classes.
-// These elements will be marked as having consumed an appropriate
-// number of classes within this search algorithm.
-function ClassNumFilter(build_list, class_limit)
-{
-    var filter_array = new Array();
-
-    // Sanity/efficiency checks
-    if ( class_limit < 1 )
-        // Cannot match this criteria.
-        return filter_array;
-    if ( class_limit >= MAX_CLASS )
-    {
-        // All builds match this; no classes consumed.
-        var index = build_list.length;
-        while ( index-- > 0 )
-            filter_array.push(new FilterRec(build_list[index]));
-        return filter_array;
-    }
-
-    // Determine which field to check.
-    // (In build_list, class<x> == "" implies class<x+1> == "".)
-    var prop_name = "class" + (class_limit + 1);
-
-    // Iterate through build_list.
-
-    var index = build_list.length;
-    while ( index-- > 0 )
-        // Make sure there are few enough classes.
-        if ( build_list[index][prop_name] == "" )
-        {
-            var filter = new FilterRec(build_list[index]);
-            // Mark used classes.
-            for ( var i = class_limit + 1; i <= MAX_CLASS; i++ )
-                filter["class" + i] = "used";
-            filter_array.push(filter);
-        }
-
-    return filter_array;
-}
-
-
-// Produces a subarray of list that contains only the elements referenced in
-// filters. In this case, "referencing" means "having the same topicNum field.
-// The supplied filters and list will be sorted in the process.
-function ApplyFilter(filters, list)
-{
-    var new_list = new Array();
-
-    // Sort the arrays.
-    filters.sort(TopicSorter);
-    list.sort(TopicSorter);
-
-    // Iterate through the arrays.
-    var list_index = list.length - 1;
-    var filt_index = filters.length - 1;
-    while ( list_index >= 0  &&  filt_index >= 0 )
-    {
-        // Skip what should be used or duplicate filters.
-        while ( filt_index >= 0  &&
-                filters[filt_index].topicNum > list[list_index].topicNum )
-            filt_index--;
-
-        // If list's element is in the filter, add it to the new list.
-        if ( filt_index >= 0  &&
-             filters[filt_index].topicNum == list[list_index].topicNum )
-            new_list.push(list[list_index]);
-
-        // Update the loop.
-        list_index--;
-    }
-
-    return new_list;
+    var used = new Array(MAX_CLASS + 1);
+    return MatchNextClass(build, mins, maxs, classes, class_selection, 1, used)
 }
 
 
@@ -587,37 +385,15 @@ function WriteList(build_list, Sorter, grouping)
    document.writeln("</div>");
 }
 
-
-// Parses the URL parameters, performs a search, and writes the results.
-function ParseParams()
+// Extracts the raw parameters from the URL, decoding special characters.
+// Returns the parameters as a string.
+function ParametersFromURL()
 {
-    // The criteria
-    var class_selection = new Array();
-    var race_selection = new Array();
-    var all_race = false;
-    var mins = new Array(MAX_CLASS+1);    // 1-based array
-    var maxs = new Array(MAX_CLASS+1);    // 1-based array
-    var classes = new Array(MAX_CLASS+1); // 1-based array
-    var sortby = "";
-    var i = 0;      // Used to iterate small loops.
-    var tmp = null; // Storage for a value that will be used in the next statement.
-
-    // Initialize arrays.
-    for ( i = 1; i <= MAX_CLASS; i++ )
-    {
-        mins[i] = 0;
-        maxs[i] = 0;
-        classes[i] = "none"
-    }
-
-
-    // ********* URL decoding *********
-
     // Find the relevant part of the URL.
-    var url_params = "";
     var token_index = document.URL.indexOf("?");
-    if ( token_index >= 0 )
-        url_params = document.URL.substring(token_index + 1);
+    if ( token_index < 0 )
+    	return "";
+    var url_params = document.URL.substring(token_index + 1);
 
     // Un-encode spaces.
     url_params = url_params.replace(/\+/g, " ");
@@ -625,10 +401,18 @@ function ParseParams()
     // Safety measure -- legit searches should not have these characters anyway.
     url_params = url_params.replace(/</, "&lt;");
     url_params = url_params.replace(/>/, "&gt;");
+    
+    return url_params;
+}
 
-    // Convert the URL tail into an array of associations.
-    var param_list = url_params.split("&");
-    // Iterate the array.
+// Extracts the parameters from the URL, converting them to internal format.
+// Returns true if at least one valid parameter was found.
+function DecodeURL(mins, maxs, classes, class_selection, race_selection, flags)
+{
+	var which_class;  // Used inside some case clauses, where variables cannot be declared.
+    // Convert the URL parameters into an array of associations.
+    var param_list = ParametersFromURL().split("&");
+    // Iterate over the array.
     var criteria_found = false;
     var index = param_list.length;
     while ( index-- > 0 )
@@ -637,61 +421,65 @@ function ParseParams()
         var param = param_list[index].split("=", 2);
         if ( param.length == 2 )
         {
-            var valid_param = true;
+            var valid_param = false;
             // Set the appropriate variable.
             switch ( param[0].substring(0, 3) )
             {
                 case "min":
-                        tmp = Number(param[0].substring(3));
-                        if ( 0 < tmp  &&  tmp <= MAX_CLASS )
-                            mins[tmp] = FiniteNumber(param[1]);
-                        else
-                            valid_param = false;
+                        which_class = Number(param[0].substring(3));
+                        if ( 0 < which_class  &&  which_class <= MAX_CLASS ) {
+                            mins[which_class] = FiniteNumber(param[1]);
+                            valid_param = true;
+                        }
                         break;
 
                 case "max":
-                        tmp = Number(param[0].substring(3));
-                        if ( 0 < tmp  &&  tmp <= MAX_CLASS )
-                            maxs[tmp] = FiniteNumber(param[1]);
-                        else
-                            valid_param = false;
+                        which_class = Number(param[0].substring(3));
+                        if ( 0 < which_class  &&  which_class <= MAX_CLASS ) {
+                            maxs[which_class] = FiniteNumber(param[1]);
+                            valid_param = true;
+                        }
                         break;
 
                 case "cla":
-                        tmp = Number(param[0].substring(5));
-                        if ( 0 < tmp  &&  tmp <= MAX_CLASS  &&  "ss" == param[0].substring(3,5))
-                            classes[tmp] = param[1].length > 0 ? param[1] : "none";
-                        else
-                            valid_param = false;
+                        which_class = Number(param[0].substring(5));
+                        if ( 0 < which_class  &&  which_class <= MAX_CLASS  &&
+                             "ss" == param[0].substring(3,5) ) {
+                            classes[which_class] = param[1].length > 0 ? param[1] : "none";
+                            valid_param = true;
+                        }
                         break;
 
                 default: // The non-indexed parameters.
+                    valid_param = true;
                     switch ( param[0] )
                     {
                         case "selclass": class_selection.unshift(param[1]);   break;
                         case "selrace" : race_selection.unshift(param[1]);    break;
-                        case "sortby":   sortby = param[1];                   break;
-                        case "allrace":  all_race = param[1].length > 0    &&
-                                           param[1].toLowerCase() != "no"  &&
+                        case "sortby":   flags.sortby = param[1];             break;
+                        case "allrace":  flags.all_race = param[1].length > 0  &&
+                                           param[1].toLowerCase() != "no"      &&
                                            param[1].toLowerCase() != "false"; break;
 
                         default: valid_param = false;
                     }
             }//switch
             criteria_found = criteria_found || valid_param;
-        }
+        }//if param.length
     }//while (index)
-    if ( !criteria_found )
-        // No query found.
-        return document.writeln('<p class="error">No valid query supplied.</p>');
+    
+    return criteria_found;
+}
 
-
-    // ********* Criteria feedback ********* 
-
+// Writes a human-readable interpretaion of the parameters to the document.
+function WriteCriteria(mins, maxs, classes, class_selection, race_selection, flags)
+{
+	var i;
+	
     document.write('<p class="criteria">Builds with ');
 
     // Classes
-    for ( i = 1; i <= MAX_CLASS; i++ )
+    for ( i = 1; i <= MAX_CLASS; ++i )
     {
         if ( i == MAX_CLASS )
             document.write("and ");
@@ -700,6 +488,7 @@ function ParseParams()
         else
         {
             document.write(mins[i] + " to " + maxs[i] + " levels of " + classes[i]);
+            // Two valid values for classes[i] need a bit of prettification.
             if ( "any" == classes[i] )
                 document.write(" class");
             else if ( "selected" == classes[i] )
@@ -717,32 +506,30 @@ function ParseParams()
         if ( class_selection.length == 0 )
             document.writeln('<span class="warn">No classes were selected.</span><br />');
         else
-            document.writeln("The selected classes are " +
+            document.writeln("The selected classes are: " +
                              class_selection.join(", ") + ".<br />");
     }
 
     // Races
-    if ( all_race  ||  race_selection.length == 0 )
+    if ( flags.all_race  ||  race_selection.length == 0 )
         document.writeln("All races are included.<br />");
     else
-        document.writeln("The included races are " + race_selection.join(", ") + ".<br />");
+        document.writeln("The included races are: " + race_selection.join(", ") + ".<br />");
 
     // Sort order.
-    document.writeln("Builds are sorted by " +
-        ("classlevel" == sortby ? "class and level" : sortby) + ".</p>");
+    if ( "" == flags.sortby )
+        document.writeln("Builds are not sorted.</p>");
+    else
+        document.writeln("Builds are sorted by " +
+            ("classlevel" == flags.sortby ? "class and level" : flags.sortby) + ".</p>");
+}
 
-
-    // ********* Searching ********* 
-
-    // Expand the race list to allow a question mark at the end.
-    for ( i = race_selection.length - 1; i >= 0; i-- )
-        race_selection.push(race_selection[i] + "?");
-
-    // Get the list of builds.
-    var list_source = null;
-    var list_text = null;
+// Retrieves the (textual) list of builds.
+function GetBuildsAsText()
+{
+    var list_text = "";
     try {
-        list_source = parent.document.getElementById("listsource");
+        var list_source = parent.document.getElementById("listsource");
         if ( list_source.contentDocument )
             // Most browsers.
             list_source = list_source.contentDocument.body;
@@ -758,42 +545,49 @@ function ParseParams()
             list_text = list_source.outerText;
     }
     catch (e) {
-        return document.writeln('<p class="error">No database found.</p>');
+        document.writeln('<p class="error">No database found.</p>');
     }
-    var build_list = LoadList(list_text); // Will always be a valid array.
+    
+    return list_text;
+}
 
+// Performs the actual search of builds.
+function DoSearch(mins, maxs, classes, class_selection, race_selection, all_race)
+{
+	var i, index;
+	var match_list = new Array();
+	
+    // Expand the race list to allow a question mark at the end.
+	var race_list = new Array();
+    for ( i = 0; i < race_selection.length; ++i ) {
+        race_list.push(race_selection[i]);
+        race_list.push(race_selection[i] + "?");
+    }
 
-    // Apply the straight-forward criteria.
-    if ( all_race  ||  race_selection.length == 0 )
-        build_list = ValidBuilds(build_list);
-    else
-        build_list = RaceBuilds(build_list, race_selection);
+    // Loop over the list of known builds.
+    var build_list = LoadList(GetBuildsAsText()); // Will always be a valid array.
+    for ( index = 0; index < build_list.length; ++index ) {
+        var build = build_list[index];
 
+        // Continue with the next build if the current one fails to match our crtieria.
+        if ( !ValidBuild(build) )
+            continue;
+        if ( !all_race )
+            if ( !MatchRace(build, race_list) )
+                continue;
+        if ( !MatchClass(build, mins, maxs, classes, class_selection) )
+            continue;
 
-    // First, handle the specific classes.
-    for ( i = 1; i <= MAX_CLASS; i++ )
-        if ( "none" != classes[i]  &&  "any" != classes[i]  &&  "selected" != classes[i] )
-            list_filter = ClassNameFilter(list_filter, classes[i], mins[i], maxs[i]);
+        // We found a match!
+        match_list.push(build);
+    }
 
-    // Second, handle the "selected" and "any" classes.
-    list_filter = ClassMultiFilter(list_filter, classes, mins, maxs, class_selection);
+    return match_list;
+}
 
-    // Finally, weed out the builds with excess classes.
-    // (Implies either a "none" class specified or a class allowing 0 levels.)
-///
-    var class_limit = MAX_CLASS;
-    for ( i = 1; i <= MAX_CLASS; i++ )
-
-        if ( "none" == classes[i] )
-            class_limit--;
-    var list_filter = ClassNumFilter(build_list, class_limit);
-
-    // Apply the filter to the list to get the search results.
-    build_list = ApplyFilter(list_filter, build_list);
-
-
-    // ********* Sorting and display ********* 
-
+// Writes the list of builds to the document.
+function WriteResults(build_list, sortby)
+{
     document.writeln('<span class="matches">Matches found: ' +
                       build_list.length + '</span><br />');
 
@@ -814,3 +608,38 @@ function ParseParams()
         default: WriteList(build_list, TopicSorter, 1);
     }
 }
+
+// Parses the URL parameters, performs a search, and writes the results.
+function ParseParams()
+{
+    // The criteria
+    var class_selection = new Array();
+    var race_selection = new Array();
+    var mins = new Array(MAX_CLASS+1);    // 1-based array
+    var maxs = new Array(MAX_CLASS+1);    // 1-based array
+    var classes = new Array(MAX_CLASS+1); // 1-based array
+    var flags = { all_race:false, sortby:"" };
+
+    // Initialize arrays.
+    for ( i = 1; i <= MAX_CLASS; i++ )
+    {
+        mins[i] = 0;
+        maxs[i] = 0;
+        classes[i] = "none"
+    }
+
+
+    // Get the search parameters.
+    if ( !DecodeURL(mins, maxs, classes, class_selection, race_selection, flags) ) {
+        // No query found.
+        alert("No valid query supplied.");
+        return document.writeln('<p class="error">No valid query supplied.</p>');
+	}
+    WriteCriteria(mins, maxs, classes, class_selection, race_selection, flags);
+
+    // Search
+    var build_list = DoSearch(mins, maxs, classes, class_selection, race_selection, flags.all_race);
+    // Display the results.
+    WriteResults(build_list, flags.sortby)
+}
+
