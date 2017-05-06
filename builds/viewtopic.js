@@ -23,13 +23,12 @@ function PrintPageTop(ForumType, Build, NumPosts, NumViews)
     document.writeln('    <div id="menu">');
     document.writeln('        <a href="../guild.html" class="buttonlink">Guild Archive</a>');
     document.writeln('        <a href="../' + ForumFile + '" class="buttonlink">' + ForumName + '</a>');
-    document.writeln('        <a href="../../buildsearch/" class="buttonlink">Build Search</a>');
+    document.writeln('        <a href="../../buildsearch/index.html" class="buttonlink">Build Search</a>');
     document.writeln('        <span class="menuspacer"></span>');
-    document.writeln('        <a href="http://nwn.bioware.com/guilds_registry/" class="buttonlink">BioWare Guilds</a>');
-    document.writeln('        <a href="../../woghome.htm" class="buttonlink">WoG Home</a>');
+    document.writeln('        <a href="../../index.html" class="buttonlink">WoG Home</a>');
     document.writeln('    </div>');
     document.writeln('');
-    document.writeln('    <img src="../../images/build title.png" alt="Epic character builds" class="title">');
+    document.writeln('    <img src="../../images/build_title.png" alt="Epic character builds" class="title">');
     document.writeln('');
 
     // Having this statement fail is bad for presentation, so just in case, catch exceptions.
