@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Gear and Shifting - Epic Character Builder's Guild</title>
+
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="../viewtopic.css" />
+    <style type="text/css" id="mystyle"><!-- Intentionally empty; set dynamically. --></style>
+
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript" src="../viewtopic.js"></script>
+</head>
+
+<body>
+    <noscript>
+        <p class="warn">Due to the lack of server-side scripting, javascript is required to view builds
+        with nice formatting here. Sorry.</p>
+    </noscript>
+
+    <script type="text/javascript"><!--
+        PrintPageTop("general", "Gear and Shifting", 3, 72);
+
+        PrintPostTop(0, 2013344, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Thursday, 04 October 2007 10:06PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+This topic began with the following comments:<br><br><br><!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 10/04/07 16:57 (GMT) -- WhiZard<br><br><br><!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 10/03/07 19:14 (GMT) -- Kail Pendragon<br><br><!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 10/03/07 01:48 (GMT) -- WhiZard<br>Note that the items were never unequipped but rather the inventory was replaced.</div></blockquote><!-- BBCode Quote End -->Gear is unequipped and then reequipped (the gear that merges, that is) when you shift. In fact, you end up "losing" bonus spells from a gear enhanced casting stat when you shift.</div></blockquote><!-- BBCode Quote End -->My point was that the inventory being replaced is the cause of the momentary stat decrease and not an action of unequipping.  Once you get your new inventory the properties  are then applied to the skin, but there is no reequipping of gear while shifted as many items have their properties converged to one item (the skin) and the ability increase acts as if it were one item rather than many items reequipped.<br><br>Of course this is all technical jargon. Your point about a momentary loss of item properties is correct.</div></blockquote><!-- BBCode Quote End --><!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 10/04/07 19:24 (GMT) -- Bromium<br><br>I also agree with Kail. I suspect (have not tested this theory) that any OnEquipp() script on those items would fire if you shift and unshift while it's equipped.</div></blockquote><!-- BBCode Quote End --><br>What has been established:<br><br>Equipped item properties on eligible equipment are copied onto the skin and weapon (if applicable).<br>Pertinent item properties of the shifted form only are found on weapon, claw, and skin properties.<br>Item properties are lost momentarily while shifting.<br><br>Possibilities under consideration:<br><br>When unshifting the onequip is fired for regular gear.<br>When shifting the onequip is fired for regular gear.<br>When shifting the onequip is fired for the form's weapon, claw, and skin.<br>When shifting the onequip is fired for bracers, gloves, gauntlets, offhand weapon, and torch.<br>When unshifting the onequip is fired for bracers, gloves, gauntlets, offhand weapon, and torch.<br>...and the negation of each.
+    <script type="text/javascript"><!--
+        PrintPostEnd(0, 2013344, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Thursday, 04 October 2007 10:06PM");
+
+        PrintPostTop(1, 2013648, "Thaxll'ssyllia", "<span class=\"smallertext\">Joined: 05 Oct 2005<br>From: You really don't want to know...<br></span>", "Friday, 05 October 2007 05:11PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I don't know how it works nor I care much, but I know one thing that could perhaps help on this (since it wasn't mentioned above): Notice that when you shift, save, and then load, when you load your character is already shifted (there is no re-shift action), so all your merging items are not counted, it's like if you had no equipment at all (I hate that because I always lose my Haste from my armor when I load). I think you do get the merging items "re-equipped" from the action of shifting, and thus when loading an already shifted character the action of shifting is never performed and the action of equipping isn't either, and when it tries to read again if there are items equipped the game finds none. I wouldn't really know how is the process of merging the magical abilities from equipment, frankly, it doesn't matter.<br><br>Hope that helps.<br>_________________<br>"My name is Thaxll'ssyllia, but you simians may refer to me merely as "Sir", if you prefer a less... syllable intensive workout."<br><br>Edwin Odesseiron - Baldur's Gate II: Shadows of Amn<p><i><span class="editby">Edited By Thaxll'ssyllia on 10/05/07 17:20</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(1, 2013648, "Thaxll'ssyllia", "<span class=\"smallertext\">Joined: 05 Oct 2005<br>From: You really don't want to know...<br></span>", "Friday, 05 October 2007 05:11PM");
+
+        PrintPostTop(2, 2013734, "Bromium", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Jun 2002</span>", "Friday, 05 October 2007 08:22PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+if you are shifted and die, always always always re-equip your items (or shift and unshift).
+    <script type="text/javascript"><!--
+        PrintPostEnd(2, 2013734, "Bromium", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Jun 2002</span>", "Friday, 05 October 2007 08:22PM");
+
+        PrintPageEnd("general", "Gear and Shifting", 3, 72); // -->
+    </script>
+
+</body>
+
+</html>

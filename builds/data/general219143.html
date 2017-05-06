@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Improved WW attack. - Epic Character Builder's Guild</title>
+
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="../viewtopic.css" />
+    <style type="text/css" id="mystyle"><!-- Intentionally empty; set dynamically. --></style>
+
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript" src="../viewtopic.js"></script>
+</head>
+
+<body>
+    <noscript>
+        <p class="warn">Due to the lack of server-side scripting, javascript is required to view builds
+        with nice formatting here. Sorry.</p>
+    </noscript>
+
+    <script type="text/javascript"><!--
+        PrintPageTop("general", "Improved WW attack.", 9, 226);
+
+        PrintPostTop(0, 1572037, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Friday, 04 November 2005 08:27PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+You have a halfling with a bucket of stealth, and a barrel loaded with sneak damage. You sneak into a group and unleash spinning madness.<br>Would you hit more enemies if you got Improved Whirlwind attack over Whirlwind attack?<br><br>The build uses Short sword. The description says that Improved WWA extends to weapon range, but does any weapons have more than the 5 feet WWA gives? And does short sword give more than 5 feet range?<br><br>In short, is it any use at all to take IWWA for a halfling with short sword?<br><br>phew <img src="../../images/smiles/icon_cool.gif">
+    <script type="text/javascript"><!--
+        PrintPostEnd(0, 1572037, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Friday, 04 November 2005 08:27PM");
+
+        PrintPostTop(1, 1572352, "Xylophone", "<span class=\"smallertext\">Joined: 08 May 2004</span>", "Saturday, 05 November 2005 01:08AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I thought WWA was 5 feet and IWWA was 10... not sure though, but I think I heard that's how NWN's engine handles it rather than giving individual weapons different distances they can reach.<br><br>Probably will have to test it though to find out for sure <img src="../../images/smiles/icon_frown.gif"><br>_________________<br>Experience is the mother of good judgement; bad judgement is the father of experience.
+    <script type="text/javascript"><!--
+        PrintPostEnd(1, 1572352, "Xylophone", "<span class=\"smallertext\">Joined: 08 May 2004</span>", "Saturday, 05 November 2005 01:08AM");
+
+        PrintPostTop(2, 1572358, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Saturday, 05 November 2005 01:16AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+That makes some sense, but it's not what the Grimo says. I have tried testing it, but it is not the easiest test to make......
+    <script type="text/javascript"><!--
+        PrintPostEnd(2, 1572358, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Saturday, 05 November 2005 01:16AM");
+
+        PrintPostTop(3, 1572367, "Xylophone", "<span class=\"smallertext\">Joined: 08 May 2004</span>", "Saturday, 05 November 2005 01:46AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Well, WWA says 5 feet in the grimoire... I think the range of all weapons is 10 feet in the game which is where IWWA gets its bonus.<br><br>I popped open the spells 2da, then opened the whirlwind attack script in the toolset... but it calls a function that is part of the game's base so I can't see precisely what it's doing.<br><br>The comments in the script x2_s2_whirl that I -was- able to view indicate that improved whirlwind attack has a 10 foot range though.  I have no idea how accurate this is or how to get at the DoWhirlwindAttack function that this script calls unfortunately.<br>_________________<br>Experience is the mother of good judgement; bad judgement is the father of experience.
+    <script type="text/javascript"><!--
+        PrintPostEnd(3, 1572367, "Xylophone", "<span class=\"smallertext\">Joined: 08 May 2004</span>", "Saturday, 05 November 2005 01:46AM");
+
+        PrintPostTop(4, 1578608, "D O'Brien123", "<span class=\"smallertext\">Joined: 01 Apr 2005<br>From: Oz<br></span>", "Saturday, 12 November 2005 03:30PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+It seems that if you hotkey WWA/IWWA and click it repeatedly it works the first time but no further actions are queued and you just stand there as if still attacking something. <br><br>Seems like it might be bugged I think, but does anyone know for certain if this can be used against sneak attacks so you are not caught flatfooted?
+    <script type="text/javascript"><!--
+        PrintPostEnd(4, 1578608, "D O'Brien123", "<span class=\"smallertext\">Joined: 01 Apr 2005<br>From: Oz<br></span>", "Saturday, 12 November 2005 03:30PM");
+
+        PrintPostTop(5, 1580164, "Bad213Boy", "<span class=\"smallertext\">Joined: 24 Jan 2005</span>", "Monday, 14 November 2005 07:05PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+if this happens when you are using whirlwind, look up in the top left corner and you'll see your action icons. click on the latest action which will be located in the far left top corner. by clicking on this you will cancel the action. then continue to press the quick slot fuction for whirlwind.<br><br>the range of your weapon has no effect of the ablility of whirlwind. you get the 10 range no matter what. one combo ive been wanting to try is using a shadow dancer and attack from a distance using improved whirlwind. after connecting hit the quick slot hide and do this all over. i know how much of a pain trying to hit a shadow dancer is and i was wondering if this would add to the headache.
+    <script type="text/javascript"><!--
+        PrintPostEnd(5, 1580164, "Bad213Boy", "<span class=\"smallertext\">Joined: 24 Jan 2005</span>", "Monday, 14 November 2005 07:05PM");
+
+        PrintPostTop(6, 1580229, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Monday, 14 November 2005 08:25PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Check out my tiny reaper build, bad boy.<br><br>As for IWWA and tapping the quickslot, you have to wait until the last WWA icon disappears from the action queue, then press it once again. Repeat. Don't know why you can't put more than 1 in line but......
+    <script type="text/javascript"><!--
+        PrintPostEnd(6, 1580229, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Monday, 14 November 2005 08:25PM");
+
+        PrintPostTop(7, 1580410, "Bad213Boy", "<span class=\"smallertext\">Joined: 24 Jan 2005</span>", "Tuesday, 15 November 2005 12:29AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+alrighty, ill check it out. sounds like a fun build to try. has it been perfected?<br><br>hey i looked but couldnt find it. perhaps they didnt post it in the build search?<p><i><span class="editby">Edited By Bad213Boy on 11/15/05 00:44</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(7, 1580410, "Bad213Boy", "<span class=\"smallertext\">Joined: 24 Jan 2005</span>", "Tuesday, 15 November 2005 12:29AM");
+
+        PrintPostTop(8, 1580734, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Tuesday, 15 November 2005 12:14PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+It was built this month so it has not been entered into the list yet. Here is a link.<br><script type="text/javascript">PrintAnchor("viewtopic.html", "8061", "13423", "219251", "", "", ' target="_blank"');</script>Click Here</a>
+    <script type="text/javascript"><!--
+        PrintPostEnd(8, 1580734, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Tuesday, 15 November 2005 12:14PM");
+
+        PrintPageEnd("general", "Improved WW attack.", 9, 226); // -->
+    </script>
+
+</body>
+
+</html>

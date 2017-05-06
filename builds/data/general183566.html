@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>How to calculate saves - Epic Character Builder's Guild</title>
+
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="../viewtopic.css" />
+    <style type="text/css" id="mystyle"><!-- Intentionally empty; set dynamically. --></style>
+
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript" src="../viewtopic.js"></script>
+</head>
+
+<body>
+    <noscript>
+        <p class="warn">Due to the lack of server-side scripting, javascript is required to view builds
+        with nice formatting here. Sorry.</p>
+    </noscript>
+
+    <script type="text/javascript"><!--
+        PrintPageTop("general", "How to calculate saves", 6, 74);
+
+        PrintPostTop(0, 1332651, "kipski", "<span class=\"smallertext\">Joined: 05 Oct 2004</span>", "Thursday, 03 March 2005 11:27AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Hi, I have been readinga lot of builds, and have been working on some of my own, but I cant figure out how to calculate the lvl 40 saves that a given character will have,  short of acutally testing the build out in NWN using the cheat codes.  Is there another way to do this?  Thanks for helping a noob!<br><br>Kipski
+    <script type="text/javascript"><!--
+        PrintPostEnd(0, 1332651, "kipski", "<span class=\"smallertext\">Joined: 05 Oct 2004</span>", "Thursday, 03 March 2005 11:27AM");
+
+        PrintPostTop(1, 1332708, "Mithdradates", "<span class=\"smallertext\">Joined: 04 Jul 2002</span>", "Thursday, 03 March 2005 12:41PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+You should test before you post, but here is how you do it:<br><br>1) You find the pre-epic levels your build has of each class. On page 86 of the HotU manual there is list of the major and minor saves associated with each class.<br>2) You now calculate the saves of each class and add them together.  <br>The major saves are 2+floor(class level/2)<br>The minor saves are floor(class level/3)<br>(There is a table on p. 90 of the HotU manual as well)<br>3) You add +1 to all saves for every 2 epic levels your character has.  For a level 40 character you would add 10 to all saves (20/2).<br>4) You now adjust your saves for attribute modifiers. You add your constitution modifier to your fortitude save, your dexterity modifier to your reflex save and your wisdom modifier to your will save. If you have the divine grace feat (paladin lvl 1) or dark blessing feat (blackguard lvl 2) you add your charisma modifier to all saves.<br>5) You now add in bonuses from save boosting feats. Luck of Heroes, Strong Soul, Iron Will, Lightning Reflexes, Great fortitude, Epic Will, Epic Reflexes, Epic Fortitude, Sacred Defense (CoT) etc.<br><br>Now that you have done all of this you have your base level 40 saving throws (a caveat about Sacred Defense; its bonuses are counted towards the +20 save increase cap).  If you want, you can also add in a +1 to all saves vs. spells from every 5 ranks of the spellcraft skill you have (though this should be noted as against spells).<br>_________________<br>Two wrongs don't make a right but three lefts do.
+    <script type="text/javascript"><!--
+        PrintPostEnd(1, 1332708, "Mithdradates", "<span class=\"smallertext\">Joined: 04 Jul 2002</span>", "Thursday, 03 March 2005 12:41PM");
+
+        PrintPostTop(2, 1332709, "Agifem", "<span class=\"smallertext\">Joined: 16 May 2002<br>From: France<br></span>", "Thursday, 03 March 2005 12:41PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+To calculate the saves, you need to know the levels in each class, and the dex, con and wisdom of the char.<br><br>Each class has a strong or weak in each save. Monks are strong in each, fighter are strong in fortitude and weak in reflex and will, etc.<br><br>Once you know that, the formula is (N/2)+2 for strong saves, and (N/3) for weak saves, N being the level in the class. If you are multiclassed, you add the numbers you just calculated. This is only valid for the 20 first character levels.<br><br>For epic levels, you just add +1 on all saves for each 2 levels, regardless of the class.<br><br>Finally, you add the dex modifier to reflex saves, con modifier to fortitude saves and wisdom modifier to will saves.<br><br><br>So for a fighter 10 / wizard 30 ( fighter 10 / wizard 10 at level 20) with con 14, dex 30 and wisdom 8, you get :<br><br>Fortitude = (10/2)+2 (fighter 10) + (10/3) (wizard 10) + 10 (epic levels) + 2 (constitution modifier) = 7 + 3 + 10 + 2 = 22<br><br>Reflex = (10/3) (fighter 10) + (10/3) (wizard 10) + 10 (epic levels) + 10 (dexterity modifier) = 3 + 3 + 10 + 10 = 26<br><br>Will = (10/3) (fighter 10) + (10/2)+2 (wizard 10) + 10 (epic levels) - 1 (wisdom modifier) = 3 + 7 + 10 - 1 = 19<br><br>Any question ?<br><br>[EDIT] D'oh ! Too slow ! But at least, mine has an example <img src="../../images/smiles/icon_razz.gif"><br>_________________<br>If you call IGMS, Harm, Mestil's acid shield, the Bigby hands or Devastating Critical balanced in your post, don't expect me to like you.<br><br>I'm sorry about my bad english, I'm french.<br>In every lie lies a part of truth.<p><i><span class="editby">Edited By Agifem on 03/03/05 12:45</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(2, 1332709, "Agifem", "<span class=\"smallertext\">Joined: 16 May 2002<br>From: France<br></span>", "Thursday, 03 March 2005 12:41PM");
+
+        PrintPostTop(3, 1332742, "syrath1001", "<span class=\"smallertext\">Joined: 21 Mar 2004</span>", "Thursday, 03 March 2005 01:51PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+COT gets +1 to saves every second level just to add to either of the excellent posts above ). So a 7paladin/3blackguard/30 COT with a high CHA would have rather good saves.<br><br>Syrath
+    <script type="text/javascript"><!--
+        PrintPostEnd(3, 1332742, "syrath1001", "<span class=\"smallertext\">Joined: 21 Mar 2004</span>", "Thursday, 03 March 2005 01:51PM");
+
+        PrintPostTop(4, 1333298, "yrtsns", "<span class=\"smallertext\">Joined: 09 Aug 2004</span>", "Thursday, 03 March 2005 10:57PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I think the grimoire has a good breakdown of pre-epic saves for the various classes. I think, though I'm not sure, that you should just be able to scroll down to the appropriate column for each of your pre-epic classes, add it all up, and then toss in 10 for post-epic, and any other feats or bonuses like saving grace.<br>_________________<br>Have I mentioned I hate IGMS?
+    <script type="text/javascript"><!--
+        PrintPostEnd(4, 1333298, "yrtsns", "<span class=\"smallertext\">Joined: 09 Aug 2004</span>", "Thursday, 03 March 2005 10:57PM");
+
+        PrintPostTop(5, 1333521, "kipski", "<span class=\"smallertext\">Joined: 05 Oct 2004</span>", "Friday, 04 March 2005 02:39AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Wow, <br><br>thanks for the great replies!  With regards to testing builds, is there are reliable trainer out there or do people just use the single player?  If there is a good trainer, does someone have a link?<br><br>thanks again!  these posts are really helpful!
+    <script type="text/javascript"><!--
+        PrintPostEnd(5, 1333521, "kipski", "<span class=\"smallertext\">Joined: 05 Oct 2004</span>", "Friday, 04 March 2005 02:39AM");
+
+        PrintPageEnd("general", "How to calculate saves", 6, 74); // -->
+    </script>
+
+</body>
+
+</html>

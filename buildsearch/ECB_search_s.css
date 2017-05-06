@@ -1,0 +1,61 @@
+/* Formatting for specific elements */
+
+
+/* The search results frame */
+iframe#resultsframe {
+    height:       75ex;
+    margin-top:    2ex;
+    margin-bottom: 2ex;
+
+    width:         90%;
+    margin-left:    5%;
+    margin-right:   5%;
+
+    display: none;
+}
+
+
+/* The search criteria form */
+
+form#criteria { 
+    width: 46em;
+}
+
+fieldset#classset {
+    width:        43em;
+    margin-left:   1em;
+    margin-right:  1em;
+    margin-bottom: 0ex;
+
+    display: none;
+}
+
+fieldset#raceset {
+    width:          20em;
+    margin-left:     2em;
+    margin-right:    4em;
+    margin-top:      2ex;
+    margin-bottom:   1ex;
+    float:left;
+}
+
+button#searchbutton {
+    display:       block;
+
+    margin-left:   0.0em;
+    margin-right:  0.0em;
+    margin-top:    3.0ex;
+    margin-bottom: 2.0ex;
+    padding: 1.5ex 1.5em;
+}
+
+fieldset#sortset {
+    width:        15.0em;
+    margin-left:   0.0em;
+    margin-right:  0.0em;
+    margin-top:    2.5ex;
+    margin-bottom: 1.5ex;
+}
+fieldset#sortset legend {
+    text-align:   center;
+}

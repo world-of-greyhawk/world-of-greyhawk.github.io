@@ -1,0 +1,2034 @@
+10/07/29 10:48 
+117044: Anuis: elf?: druid 22 / monk 8 / shadowdancer 10: Leviathan the Dragon
+117047: Anuis: human: fighter 10 / weapon master 9 / champion of Torm 21: Beowulf the Slayer
+117329: Lockindal: elf: fighter 6 / wizard 11 / arcane archer 23: Expert Marksman
+117330: Torias: human: fighter 8 / champion of Torm 10 / weapon master 22: General purpose combat character
+117332: Lockindal: dwarf: monk 15 / dwarven defender 18 / weapon master 7: DWARVEN KENSAI
+117333: Urgos: human: bard 16 / fighter 14 / red dragon disciple 10: (Bard 16/FTR 14/RDD 10)
+117336: Torias: human: fighter 8 / paladin 6 / champion of Torm 26: Divine Warrior
+117339: Salviati: dwarf: druid 5 / shifter 17 / dwarven defender 18: Damage Sink Build
+117340: Lockindal: human: barbarian 17 / fighter 16 / weapon master 7: The Thundering Barbarian
+117344: Lockindal: dwarf: fighter 14 / dwarven defender 19 / weapon master 7: Dwarven War General
+117345: Stephen Hawking: dwarf: druid 5 / shifter 17 / dwarven defender 18: Tank build
+117346: Ffard: human?: fighter 20 / rogue 13 / weapon master 7: Epic Marauder
+117348: traversc: human?: fighter 10 / weapon master 7 / wizard 23: Spellsword
+117350: Fallout386: elf?: druid 5 / shifter 17 / fighter 18: Druid/Shifter build
+117351: Fallout386: human?: bard 16 / champion of Torm 14 / red dragon disciple 10: Celestial Champion
+117355: Fallout386: gnome?: fighter 32 / weapon master 8: (FTR 32/WM 8)
+117356: Fallout386: gnome?: fighter 10 / champion of Torm 30: build
+117357: cdualepp: human?: fighter 4 / wizard 6 / pale master 30: build
+117359: Fallout386: halfling: fighter 10 / rogue 8 / shadowdancer 22: Halfling Shadowdancer
+117410: d3myz3: elf: monk 29 / fighter 6 / weapon master 5: (Monk 29/FTR 6/WM 5)
+117411: o0ophrostbyteo0o: halfling: rogue 15 / shadowdancer 25: Stealthy Halfling
+117464: cdualepp & SBully: human?: druid 15 / monk 2 / wizard 23: Puff the Magic Dragon v.3.0
+117465: Kreigar: human: cleric 32 / fighter 4 / monk 4: Divine Archer
+117468: Teekoon: elf: wizard 3 / monk 7 / pale master 30: elven
+117471: TekRice: dwarf: fighter 10 / weapon master 15 / dwarven defender 15: (FTR 10/WM 15/DwD 15)
+117473: CheesesLovesYou: human?: druid 17 / shifter 17 / monk 6: Druid 17 /Shifter 17 /Monk 6
+117474: reggemS: elf: rogue 13 / bard 1 / arcane archer 26: Elven Bounty Hunter
+117475: Mithdradates: human?: paladin 16 / monk 7 / druid 17: Sir Smokesalot
+117476: Mithdradates: human: ranger 25 / cleric 11 / fighter 4: Wilderness Preacher variant 1
+117476#: Mithdradates: human: ranger 21 / cleric 15 / fighter 4: Wilderness Preacher variant 2
+117478: o0ophrostbyteo0o: dwarf: fighter 13 / dwarven defender 26: Fighter 13 / DwD 26
+117479: Mithdradates: human?: ranger 25 / cleric 11 / fighter 4: Preacher of the Wilderness
+117480: Jushak Brimstone: human?: barbarian 25 / druid 15: Dragon Fear
+117481: Dwarf22: elf: cleric 15 / wizard 1 / arcane archer 24: Divine Archer
+117482: Torias: human?: cleric 20 / fighter 10 / champion of Torm 10: Battle Cleric
+117484: Mithdradates: human?: fighter 14 / monk 9 / druid 17: Dragon Druid
+117485: Wildeyes: human: druid 20 / wizard 8 / shifter 12: Rakshasa
+117486: Wildeyes: human: cleric 12 / blackguard 20 / weapon master 8: (CLC 12/BG 20/WM 8)
+117487: Wildeyes: human: rogue 10 / assassin 29 / shadowdancer 1: Scourge Master
+117488: Wildeyes: dwarf: fighter 10 / dwarven defender 30: Blockhead
+117490: Lockindal: human?: rogue 17 / fighter 16 / weapon master 7: (Rogue 17/FTR 16/WM 7)
+117491: Mithdradates: elf: bard 10 / fighter 14 / pale master 16: Shar's Skald
+117492: Mithdradates: elf?: ranger 35 / fighter 4 / monk 1: The Vegomatic
+117493: Mithdradates: human?: ranger 32 / fighter 6 / rogue 2: The Cleaver
+117494: Wildeyes: halfling: bard 14 / red dragon disciple 10 / pale master 16: Revised Avatar of Ruin
+117495: HolyBeef: elf?: ranger 20 / weapon master 10 / assassin 10: Sninobi No Oni
+117496: Shadowlure: human: sorcerer 36 / paladin 4: (SOR 36/PAL 4)
+117497: cdualepp & SBully: human?: druid 14 / wizard 7 / pale master 19: Puff the Magic Dragon v.1.0
+117498: Wildeyes: human: cleric 16 / sorcerer 23 / monk 1: Planar Guardian
+117499: Toadbat: half-elf?: druid 5 / shifter 17 / monk 18: Long Death/Old Order Shifter
+117500: Herbie Shimmer: elf: bard 8 / shadowdancer 10 / arcane archer 22: (Bard 8/SD 10/AA 22)
+117502: Mithdradates: halfling: rogue 25 / fighter 14 / shadowdancer 1: Halfling (Rogue 25/FTR 14/SD 1)
+117503: Mithdradates: elf: rogue 25 / fighter 14 / shadowdancer 1: Elven Rogue
+117504: Wildeyes: human: bard 10 / red dragon disciple 10 / pale master 20: Original Avatar of Ruin
+117506: MorningLightMountain: dwarf: monk 9 / fighter 1 / dwarven defender 30: Overboard Tank
+117510: S-Priest: elf?: cleric 26 / wizard 1 / arcane archer 13: (CLC 26/WIZ 1/AA 13)
+117511: FenrisWulf74: human?: sorcerer 39 / paladin 1: (SOR 39/PAL 1)
+117512: BattleRaptor: human: cleric 35 / fighter 4 / paladin 1: Spellslinger
+117515: Fenriswulf74: elf: rogue 13 / shadowdancer 1 / assassin 26: Sneaky Assassin Variant
+117516: Shadowlure: human: sorcerer 28 / paladin 4 / champion of Torm 8: (SOR 28/PAL 4/CoT 8)
+117517: Jushak Brimstone: human?: paladin 7 / bard 5 / pale master 28: (PAL 7/Bard 5/PM 28)
+117518: Dwarf22: half-orc: fighter 7 / cleric 23 / blackguard 10: (FTR 7/CLC 23/BG 10)
+117519: Syrsuro: human?: ranger 5 / shadowdancer 13 / assassin 22: (RGR 5/SD 13/Assn 22)
+117520: Ryu no Tasogare: elf: monk 13 / wizard 7 / arcane archer 20: Lightning Shot
+117521: CrispyCritter: half-elf: wizard 17 / cleric 17 / arcane archer 6: Wiz 17 / Cleric 17 / AA 6
+117522: oli84: human: fighter 8 / champion of Torm 10 / weapon master 22: Fighter 8 / CoT 10 / WM 22
+117524: o0ophrostbyteo0o: dwarf: fighter 10 / dwarven defender 30: The Dwarven Wall
+117526: revzot: human: fighter 12 / rogue 6 / weapon master 7: Fighter/Rogue/WM
+117530: Sbully: human: monk 3 / cleric 12 / weapon master 25: (Monk 3/CLC 12/WM 25)
+117531: Spooky222: human?: fighter 28 / bard 2 / red dragon disciple 10: Dragon Warrior
+117533: Cesious: human?: druid 5 / shifter 11 / fighter 24: Risen Lord Shifter
+117538: da_magic_one: halfling: rogue 19 / bard 17 / blackguard 4: (Rogue 19/Bard 17/BG 4)
+117542: trulez: dwarf: druid 18 / monk 6 / dwarven defender 16: Dragon
+117543: MauvaisGuillame: human?: bard 11 / pale master 10 / blackguard 19: Ultimate Maximum Doom Lord
+117547: CrispyCritter: human: rogue 10 / monk 12 / cleric 18: Rogue 10 / Monk 12 / Cleric 18
+117549: Darshue: human?: fighter 8 / sorcerer 22 / red dragon disciple 10: True Dragon Knight
+117550: Tulians: dwarf: barbarian 26 / dwarven defender 14: (BBN 26/DwD 14)
+117551: o0ophrostbyteo0o: human?: cleric 13 / monk 27: Mongo the Divine Gropemaster
+117552: Herbie Shimmer: dwarf: wizard 10 / dwarven defender 14 / pale master 16: (WIZ 10/DwD 14/PM 16)
+117554: BRIAN FELLOW: elf: fighter 10 / wizard 1 / arcane archer 29: Fighter/Wiz/AA
+117555: Grm_Rpr: human: bard 4 / red dragon disciple 10 / pale master 26: Grim Reaper
+117556: godfreyhk: human?: sorcerer 23 / red dragon disciple 10 / champion of Torm 7: Sorc 23 / RDD 10 / CoT 7
+117558: cdualepp: elf?: cleric 15 / champion of Torm 20 / weapon master 5: (CLC 15/CoT 20/WM 5)
+117559: Hyral: dwarf: wizard 8 / dwarven defender 22 / pale master 10: (WIZ 8/DwD 22/PM 10)
+117561: Tulians: elf: bard 5 / red dragon disciple 10 / arcane archer 25: Devastating Arcane Archer
+117562: Cow Art: halfling: monk 9 / shadowdancer 5 / assassin 26: Monk 9 / SD 5 / Assassin 26
+117563: Bran Blackboon: halfling: bard 4 / pale master 26 / red dragon disciple 10: Bard 4 / PM 26 / RDD 10
+117564: Tal Rasha: any: bard 4 / red dragon disciple 10 / pale master 10: (Bard 4/RDD 10/PM 10)
+117567: kulto: human?: druid 5 / shifter 10 / monk 25: Defender Z
+117568: Shadowlure: elf?: rogue 13 / shadowdancer 20 / weapon master 7: (Rogue 13/SD 20/WM 7)
+117569: BRIAN FELLOW: elf: rogue 15 / champion of Torm 18 / weapon master 7: Born-Again Champion
+117576: AidonX: human?: monk 29 / sorcerer 1 / red dragon disciple 10: Monk 29 / Sorc 1 / RDD 10
+117577: Trekari: human: monk 25 / sorcerer 1 / red dragon disciple 14: (Monk 25/SOR 1/RDD 14)
+117578: -JimDandy: dwarf?: fighter 6 / barbarian 27 / weapon master 7: Battlerager
+117579: jwilkins: elf: fighter 23 / champion of Torm 10 / weapon master 7: The Improved Fighter
+117581: BRIAN FELLOW: human?: bard 6 / pale master 20 / red dragon disciple 14: Freak of Nature
+117582: cdualepp: elf?: paladin 17 / champion of Torm 18 / weapon master 5: (PAL 17/CoT 18/WM 5)
+117583: Nayonaq: human: fighter 7 / paladin 12 / weapon master 21: Witchblade Character
+117585: Sewer Bird: human?: fighter 19 / wizard 21: (FTR 19/WIZ 21)
+117588: PoweredIC: elf?: rogue 32 / champion of Torm 8: The Divine Rogue
+117589: o0ophrostbyteo0o: elf: rogue 35 / fighter 5: Rogue/Fighter
+117591: andymax: elf?: ranger 9 / assassin 30 / shadowdancer 1: (RGR 9/Assn 30/SD 1)
+117593: liquid-siphon: human?: cleric 16 / sorcerer 17 / red dragon disciple 7: Divine Axe Finger Wriggler
+117596: Herbie Shimmer: human: bard 14 / red dragon disciple 10 / pale master 16: (Bard 14/RDD 10/PM 16)
+117597: Nythrun: half-orc?: fighter 10 / weapon master 29 / wizard 1: (FTR 10//WM 29/WIZ 1)
+117599: BobHund_no: dwarf: fighter 8 / dwarven defender 26 / champion of Torm 6: Fighter 8 / DwD 26 / CoT 6
+117600: Dray'Gon: human: druid 23 / shifter 16 / monk 1: (Druid 23/Shifter 16/Monk 1)
+117601: ThornHawk: human?: ranger 23 / rogue 10 / shadowdancer 7: (RGR 23/Rogue 10/SD 7)
+117602: cdualepp: human?: fighter 5 / cleric 15 / champion of Torm 20: (FTR 5/CLC 15/CoT 20)
+117603: o0ophrostbyteo0o: elf: fighter 12 / rogue 27 / shadowdancer 1: Fighter 12 / Rogue 27 / SD 1
+117606: Nhoun Manslayer: elf?: monk 26 / sorcerer 1 / red dragon disciple 13: Draconic Monk
+117607: Speccer: dwarf: monk 16 / druid 18 / dwarven defender 6: The Dragon Defender
+117608: o0ophrostbyteo0o: dwarf: fighter 10 / dwarven defender 30: Ultimate Dwarven Champion
+117621: cdualepp: human: druid 15 / cleric 15 / monk 10: Puff the Magic Dragon v.2.0
+117650: Jushak Brimstone: human?: sorcerer 5 / red dragon disciple 10 / weapon master 25: (SOR 5/RDD 10/WM 25)
+117653: o0ophrostbyteo0o: human: sorcerer 5 / red dragon disciple 10 / weapon master 25: The One-Hit Wonder
+117654: o0ophrostbyteo0o: human: paladin 33 / weapon master 7: Paladin 33 / WM 7
+117655: Toturi Sezaru: elf: paladin 13 / champion of Torm 22 / weapon master 5: (PAL 13/CoT 22/WM 5)
+117657: dragon78: elf: bard 11 / arcane archer 15 / weapon master 14: Amazon
+117659: Firestar Rogue: any: fighter 20 / cleric 20: (FTR 20/CLC 20)
+117661: dragon78: human: monk 20 / weapon master 7 / cleric 13: Samurai
+117661#: dragon78: human: monk 20 / weapon master 7 / druid 13: Samurai
+117663: Aenigma Herudin: dwarf: fighter 28 / dwarven defender 5 / weapon master 7: Fighter 28 / DwD 5 / WM 7
+117664: Jushak Brimstone: half-elf?: ranger 9 / wizard 31: Sparring Mage
+117665: Lancer347: human?: rogue 32 / fighter 6 / shadowdancer 2: (Rogue 32/FTR 6/SD 2)
+117666: Aerdoan: half-orc?: sorcerer 3 / pale master 27 / red dragon disciple 10: Sorc 3 / PM 27 / RDD 10
+117667: o0ophrostbyteo0o: dwarf: monk 30 / dwarven defender 10: Dwarven Unarmed Combat Expert
+117668: : none: : 
+117669: Lockindal: elf?: ranger 25 / fighter 8 / weapon master 7: The Foe Hunter
+117671: Lockindal: human?: monk 10 / cleric 23 / weapon master 7: The Acolyte of Invisible Death
+117673: o0ophrostbyteo0o: halfling: rogue 13 / shadowdancer 1 / assassin 26: Sneak Attack Master
+117676: Toturi Sezaru: human: barbarian 2 / monk 38: (BBN 2/Monk 38)
+117677: NYCfarmkid: human?: bard 26 / red dragon disciple 10 / blackguard 4: (Bard 26/RDD 10/BG 4)
+117679: Aquion Charlemagne: elf: rogue 17 / wizard 1 / arcane archer 22: Rogue 17 / Wiz 1 / AA 22
+117681: CrusaderOfGod451: dwarf: barbarian 18 / fighter 4 / dwarven defender 18: Barbarian 18 / Fighter 4 / DwD 18
+117682: Stephen Hawking: dwarf: bard 16 / red dragon disciple 10 / dwarven defender 14: (Bard 16/RDD 10/DwD14)
+117686: cdualepp: human?: cleric 16 / bard 14 / red dragon disciple 10: (CLC 16/Bard 14/RDD 10)
+117687: Tluhdatsi: halfling?: bard 11 / red dragon disciple 10 / champion of Torm 4: (Bard 11/RDD 10/CoT 4)
+117688: Lockindal: human?: druid 7 / shifter 11 / weapon master 22: (Druid 7/Shifter 11/WM 22)
+117689: Herbie Shimmer: human: paladin 10 / champion of Torm 22 / cleric 8: (PAL 10/CoT 22/CLC 8)
+117691: o0ophrostbyteo0o: human: bard 5 / red dragon disciple 10 / weapon master 25: Draconic Spearman
+117692: trulez: elf: monk 10 / wizard 1 / arcane archer 29: Arcane Run N Gun Archer
+117693: Draco Spirit: elf: rogue 7 / wizard 32 / shadowdancer 1: (Rogue 7/WIZ 32/SD 1)
+117694: Yar StarDawg: human: bard 20 / red dragon disciple 10 / champion of Torm 10: (Bard 20/RDD 10/CoT 10)
+117696: HolyBeef: human?: barbarian 15 / blackguard 25: (BBN 15/BG 25)
+117701: Quezi: human?: paladin 20 / champion of Torm 20: (PAL 20/CoT 20)
+117703: Gray the Grayte: human?: paladin 13 / weapon master 7 / champion of Torm 20: Holy Avenger Warrior
+117704: traversc: dwarf?: druid 28 / shifter 11 / monk 1: Rakshasa Shifter
+117706: Nythrun: human?: cleric 13 / sorcerer 23 / red dragon disciple 4: (CLC 13/SOR 23/RDD 4)
+117707: Draco Spirit: human: bard 26 / red dragon disciple 10 / barbarian 4: Barbaric Champion Bard
+117709: chndragon: human?: sorcerer 23 / cleric 13 / red dragon disciple 4: (SOR 23/CLC 13/RDD 4)
+117710: ZelleQyllvan: human: druid 6 / shifter 17 / rogue 17: The Scamp
+117711: CoolRMM: dwarf: cleric 10 / dwarven defender 22 / fighter 8: The Dwarven Clanfather
+117712: SharpDog: elf?: druid 20 / monk 12 / rogue 8: (Druid 20/Monk 12/Rogue 8)
+117713: Jacques de Mailly: human?: barbarian 22 / fighter 18: (BBN 22/FTR 18)
+117716: Piowtrpolo: human: fighter 6 / cleric 4 / champion of Torm 30: (FTR 6/CLC 4/CoT 30)
+117717: NicolasBergeron: elf?: rogue 29 / bard 1 / red dragon disciple 10: (Rogue 29/Bard 1/RDD 10)
+117720: HolyBeef: human?: wizard 17 / pale master 16 / weapon master 7: (WIZ 17/PM 16/WM 7)
+117721: Pazuzu: human?: rogue 19 / champion of Torm 14 / shadowdancer 7: The Champion Backstabber
+117723: Jushak Brimstone: elf?: paladin 3 / shadowdancer 10 / rogue 27: Divine Backstabber
+117725: HolyBeef: elf: bard 17 / blackguard 23: (Bard 17/BG 23)
+117726: HolyBeef: half-orc?: barbarian 25 / sorcerer 5 / red dragon disciple 10: (BBN 25/SOR 5/RDD 10)
+117727: Saxom: human?: sorcerer 27 / paladin 3 / red dragon disciple 10: Battle-Sorceror/ess
+117729: Pazuzu: human?: rogue 20 / fighter 13 / shadowdancer 7: The Backstabber
+117731: JStarsmore: human?: fighter 1 / cleric 26: Battlecaster Cleric
+117733: AntonTD: human?: druid 20 / monk 10 / champion of Torm 10: The Dragon Druid
+117736: Nivik23: human: paladin 28 / bard 2 / red dragon disciple 10: (PAL 28/Bard 2/RDD 10)
+117737: HolyBeef: elf: monk 25 / wizard 5 / pale master 10: (Monk 25/WIZ 5/PM 10)
+117738: Jushak Brimstone: elf?: monk 10 / wizard 1 / arcane archer 29: Ki Archer Samurai
+117740: Darth Baenre: human?: paladin 26 / champion of Torm 10 / fighter 4: (PAL 26/CoT 10/FTR 4)
+117741: Combustion: human?: monk 18 / cleric 22: Monk 18/Cleric 22
+117742: Machiavelli_IUB: human?: barbarian 15 / blackguard 25: The Doom Knight
+117743: Esizzlo: human: fighter 6 / cleric 17 / druid 17: (FTR 6/CLC 17/Druid 17)
+117749: Ffard: elf: rogue 13 / bard 1 / arcane archer 26: Elven Bounty Hunter
+117750: Draco Spirit: human: ranger 38 / paladin 2: Divine Slayer
+117754: dethwing6: elf: rogue 16 / fighter 15 / shadowdancer 9: or (Rogue 15/FTR 16/SD 9)
+117755: Ffard: elf: bard 5 / assassin 9 / arcane archer 26: Drow Hunter Assassin
+117756: Bytewaste: human: cleric 22 / champion of Torm 17 / monk 1: (CLC 22/CoT 17/Monk 1)
+117840: Kamiryn: elf?: rogue 20 / shadowdancer 8 / Harper scout 5: Master of Defense
+117841: Kamiryn: elf?: monk 16 / rogue 19 / Harper scout 5: Monk of the Defense Order
+117842: o0ophrostbyteo0o: dwarf: barbarian 34 / fighter 6: Dwarven Barbarian that Won't Die
+117843: o0ophrostbyteo0o: human: barbarian 25 / rogue 5 / weapon master 10: Conan the Barbarian
+118077: cdualepp: human: cleric 15 / druid 15 / monk 10: Puff the Magic Dragon v.2.0
+118095: cdualepp: human: druid 14 / cleric 4 / champion of Torm 22: (Druid 14/CLC 4/CoT 22)
+118097: JennaGrrl: human?: rogue 24 / shadowdancer 16: Stealthy Pirate
+118099: Wildeyes: human: rogue 4 / cleric 12 / blackguard 14: (Rogue 4/CLC 12/BG 14)
+118100: Lockindal: human?: fighter 14 / wizard 10 / pale master 16: The Undead Gladiator
+118101: Dwarf22: elf: cleric 15 / wizard 1 / arcane archer 24: (CLC 15/WIZ 1/AA 24)
+118105: Darkrok: human: monk 20 / barbarian 20: Drunken Master
+118106: CoolRMM: human: paladin 1 / cleric 17 / champion of Torm 22: Devotee of Torm
+118910: Mithdradates: dwarf: fighter 12 / dwarven defender 26 / rogue 2: The Anvil
+118911: Mithdradates: elf?: wizard 22 / fighter 18: Battle Sage
+118912: Mithdradates: human?: paladin 23 / cleric 15 / monk 2: The Divine Blender
+118913: Mithdradates: elf?: fighter 24 / cleric 15 / monk 1: The Cuisinart
+118914: Mithdradates: human?: fighter 10 / rogue 2 / weapon master 28: The Enforcer
+118915: Mithdradates: human?: fighter 10 / champion of Torm 28 / rogue 2: The Generalist
+118917: Mithdradates: elf?: rogue 17 / champion of Torm 22 / shadowdancer 1: The Church's Secret
+118918: Mithdradates: human: paladin 10 / blackguard 28 / shadowdancer 2: King of Pain
+118920: Mithdradates: human?: rogue 19 / monk 20 / shadowdancer 1: Fur Vitae
+118921: Mithdradates: human?: rogue 19 / monk 20 / shadowdancer 1: Death's Hand
+118922: Mithdradates: human?: fighter 12 / weapon master 22 / bard 6: Musashi's Disciple
+118924: Mithdradates: elf?: ranger 30 / fighter 8 / shadowdancer 2: Stalker of the Magical
+118925: Mithdradates: half-orc?: fighter 10 / paladin 2 / weapon master 28: Heartseeker
+118926: Mithdradates: human?: ranger 21 / paladin 15 / fighter 4: Undead Hunter
+119179: fempai: elf?: ranger 23 / wizard 1 / arcane archer 16: Ranger23/Wiz1/AA16
+119180: Draco Spirit: human: druid 34 / monk 6: Nature's Guardian
+119181: Bwookie: halfling: wizard 11 / pale master 19 / shadowdancer 10: Wiz11/PM19/SD10
+119182: Spooky222: human?: fighter 5 / cleric 35: Undead Hunter
+120624: Hediyoshi: halfling?: rogue 32 / shadowdancer 1 / weapon master 7: Shire Ninja
+120627: Hediyoshi: human?: druid 5 / shifter 7 / blackguard 28: Kiss of Death
+122020: AeroBLASTER: elf: monk 20 / assassin 19 / shadowdancer 1: Silent Death
+122021: Bwookie: human: paladin 29 / sorcerer 1 / red dragon disciple 10: Paladin29/Sorc1/RDD10
+122023: Stephen Hawking: dwarf: bard 16 / red dragon disciple 10 / dwarven defender 14: Dwarven Skald
+122042: Herbie Shimmer: human: paladin 6 / cleric 12 / champion of Torm 22: Disciple of Torm
+122043: Herbie Shimmer: elf: ranger 10 / shadowdancer 25 / Harper scout 5: Orcblood Harper Elf
+122045: Icasaracht: elf?: sorcerer 22 / fighter 8 / red dragon disciple 10: The Arcane Warrior
+122048: KuyaDJ: elf: fighter 12 / monk 6 / weapon master 22: Fighter12/Monk6/WM22
+122063: Lego_90: dwarf: fighter 8 / rogue 14 / dwarven defender 18: Elite Battle Dwarf
+122064: BRIAN FELLOW: elf?: rogue 19 / champion of Torm 20 / shadowdancer 1: The Disappearing Champion
+122070: Shadowlure: human?: sorcerer 29 / paladin 4 / champion of Torm 7: The Battlemage
+122072: Jushak Brimstone: dwarf: druid 17 / shifter 13 / dwarven defender 10: Harvester of War
+122082: Stephen Hawking: dwarf: wizard 23 / rogue 3 / dwarven defender 14: Wiz23/Rogue3/DwD14
+122085: Stephen Hawking: gnome?: ranger 21 / wizard 15 / fighter 4: Ranger21/Wiz15/Fighter4
+122087: Torias: half-orc?: monk 40: Ultimate Monk
+122088: Sbully: human?: druid 5 / wizard 24 / shifter 11: Druid5/Wiz24/Shifter11
+122092: Urgos: human: fighter 8 / weapon master 7 / blackguard 25: The Black Knight
+122094: Sathias Nefrazal: human: druid 8 / shifter 10 / weapon master 22: Undead Scythemaster
+122096: Teon G: dwarf: druid 5 / shifter 17 / fighter 18: Kobold Enforcer
+122098: Torias: human: cleric 40: The Sacred Exorcist
+122106: HolyBeef: elf: sorcerer 8 / paladin 4 / arcane archer 28: Divination Archer
+122124: o0ophrostbyteo0o: elf?: ranger 25 / weapon master 15: Ranger 25 / WM 15
+122127: Mithdradates: dwarf: wizard 12 / dwarven defender 18 / pale master 10: Wiz12/DwD18/PM 10
+122129: MauvaisGuillame: human?: ranger 20 / pale master 11 / wizard 9: Revised Ultimate Maximum Doom Lord
+122131: oli84: elf: sorcerer 23 / red dragon disciple 10 / weapon master 7: Sorc 23 / RDD 10 / WM 7
+122136: Herbie Shimmer: elf?: ranger 21 / fighter 6 / rogue 13: Ranger21/Fighter6/Rogue13
+122138: bnarve: half-orc: barbarian 21 / fighter 6 / assassin 13: Barbarian21/Fighter6/Assassin13
+122139: Lok-SG: dwarf: fighter 7 / rogue 3 / dwarven defender 30: Fighter7/Rogue3/DwD30
+122140: Zhoreb: elf: rogue 19 / wizard 2 / arcane archer 19: Rogue19/Wizard2/AA19
+122142: Ironhart: elf: bard 23 / champion of Torm 10 / weapon master 7: Bard23/CoT10/WM 7
+122144: Wanax: human?: druid 32 / monk 6 / shadowdancer 2: Druid32/Monk6/SD2
+122146: Mithdradates: elf: bard 10 / shadowdancer 2 / arcane archer 28: Bard10/SD2/AA28
+122148: Herbie Shimmer: elf: bard 8 / shadowdancer 10 / arcane archer 22: Elven Sniper
+122152: Mithdradates: human: ranger 21 / fighter 16 / rogue 3: The Lone Ranger
+122164: BuffmanComic: elf: wizard 1 / cleric 24 / arcane archer 15: Fierce Archer Spellcaster
+122166: MauvaisGuillame: halfling: bard 26 / red dragon disciple 10 / shadowdancer 4: Shire Shadow Shooter
+122167: Peridan Night: elf: fighter 11 / weapon master 10 / assassin 19: Angel of Death
+122168: Rhuel: human: rogue 13 / cleric 17 / fighter 10: Shadow Cleric
+122170: Mongoose22: human: barbarian 29 / bard 1 / red dragon disciple 10: Beast of War
+122171: Xan433: human?: sorcerer 22 / red dragon disciple 10 / fighter 8: Sorceror22/RDD10/Fighter8
+123418: Mithdradates: elf: bard 5 / red dragon disciple 10 / rogue 25: Silent Dragon
+123419: Mithdradates: human: fighter 4 / paladin 17 / weapon master 19: Slashing Dervish
+123420: Mithdradates: elf: ranger 21 / assassin 17 / shadowdancer 2: Shadow of the Underdark V.1
+123420#: Mithdradates: elf: ranger 21 / rogue 17 / shadowdancer 2: Shadow of the Underdark V.2
+123968: Hediyoshi: halfling: monk 9 / shadowdancer 1 / assassin 30: Snake Eyes
+123970: Hediyoshi: human: monk 22 / fighter 6 / champion of Torm 12: Enter the Jade Empire
+123971: Hediyoshi: half-orc: fighter 12 / bard 10 / pale master 18: Orcish Undead Hornblower
+123972: Hediyoshi: human: ranger 21 / bard 3 / pale master 16: Undead Ranger
+124393: sobebop: elf: ranger 38 / monk 1 / shadowdancer 1: Ranger 38 / Monk 1 / SD 1
+124460: Hediyoshi: dwarf: fighter 6 / cleric 12 / dwarven defender 22: Dwarven Retaliation
+124634: Nirrudn: elf: rogue 31 / fighter 8 / shadowdancer 1: Warden of Shadows
+125164: WildMustang: elf: monk 36 / assassin 3 / wizard 1: Corvette - MageHunter
+125504: Blaze_007_: any: barbarian 23 / weapon master 7 / fighter 10: The Slayer
+125565: Anuis: human: druid 15 / cleric 1 / monk 24: Mysterious One
+125719: Lockindal: human: rogue 5 / fighter 7 / weapon master 28: The Ravaging Conquerer
+125736: MauvaisGuillame: gnome: champion of Torm 27 / monk 7 / paladin 6: Revised Gnomish Templar
+127134: Sire Of The Shadow: half-orc?: fighter 10 / weapon master 28 / wizard 2: Sword Saint
+127341: Hediyoshi: elf: wizard 15 / assassin 15 / shadowdancer 10: Shadowblade
+127346: Hediyoshi: human?: monk 6 / fighter 6 / weapon master 28: Blademaster
+127375: Hediyoshi: human?: monk 6 / champion of Torm 10 / fighter 24: Samurai Archer
+127556: Rayne111: dwarf: dwarven defender 23 / weapon master 7 / fighter 10: Master Defender of the Clan
+127654: Sire Of The Shadow: human?: fighter 9 / monk 6 / weapon master 25: Parry Master
+128082: Hobbitt_62: human?: ranger 15 / shadowdancer 20 / Harper scout 5: Warden of the Northern Marshes
+128400: ChristianJock007: dwarf?: fighter 10 / weapon master 28 / rogue 2: Fighter10/WM28/Rogue2
+128666: Mithdradates: elf: bard 1 / monk 38 / shadowdancer 1: Mage Bane
+128669: Mithdradates: elf: fighter 10 / paladin 5 / ranger 25: War Scout of Correllon
+128672: Mithdradates: human: barbarian 24 / fighter 6 / champion of Torm 10: Chosen of Tempos
+128675: Mithdradates: human: bard 20 / cleric 17 / sorcerer 3: Ancilla
+128676: Mithdradates: human: bard 16 / fighter 14 / red dragon disciple 10: The Irksome Wonder
+128677: Mithdradates: human: champion of Torm 10 / fighter 10 / weapon master 20: Master of Melee
+128679: Mithdradates: elf: fighter 14 / paladin 6 / shadowdancer 20: Shadow Knight
+128693: CheesesLovesYou: gnome: wizard 32 / rogue 8: Gnome Adventurer
+129706: Zhoreb: halfling: fighter 12 / weapon master 25 / rogue 3: Halfling Daggermaster
+129836: Zhoreb: any: bard 14 / red dragon disciple 10 / pale master 16: Grim Bard
+130386: Velior: dwarf: druid 5 / shifter 13 / dwarven defender 22: Risen Defender
+130844: Soul Reaper: human: paladin 15 / cleric 15 / champion of Torm 10: Pius Custos
+131061: Mithdradates: human: cleric 15 / fighter 8 / rogue 17: Harbinger of Chaos
+132025: evo_dragon: human: cleric 20 / champion of Torm 18 / paladin 2: True Champion of Torm
+132030: evo_dragon: human: paladin 7 / blackguard 3 / champion of Torm 30: Max Possible Saves Build
+132282: Gonij: elf: druid 5 / shifter 10 / champion of Torm 25: Spawn
+132370: evo_dragon: human?: sorcerer 36 / paladin 3 / rogue 1: Sorcerer With 80ac
+133259: Mithdradates: human: fighter 5 / rogue 25 / wizard 10: Ferromancer
+136128: The Simbul: human: wizard 40: The Simbul's standard
+136716: Mithdradates: human: champion of Torm 10 / fighter 8 / wizard 22: Magical Marauder
+136799: izock: dwarf: fighter 11 / weapon master 7 / dwarven defender 22: Classic Dwarven Tank
+136889: izock: elf: monk 9 / wizard 2 / arcane archer 29: Archer
+137020: Zhoreb: half-orc: fighter 10 / weapon master 28 / rogue 2: Gnarlic the Brute
+137093: Emrill: human?: bard 5 / pale master 19 / blackguard 16: Bad to the Bone (pun fully intended)
+138160: avado: human?: druid 5 / monk 6 / shifter 29: i would love shifter advice
+138266: Zhoreb: elf: sorcerer 37 / blackguard 2 / bard 1: Arcane Blackguard of Vhaeraun
+138667: Kevan_Best: human?: cleric 15 / blackguard 16 / assassin 9: (CLC 15/BG 16/Assn 9)
+138926: Halston Vega: human: cleric 20 / bard 4 / pale master 16: Combat Medic
+139460: Dimundome: elf: bard 6 / red dragon disciple 11 / arcane archer 23: Power Archer
+139482: kreestopearq: elf?: bard 5 / pale master 16 / weapon master 19: Undead Fencer
+139688: Mithdradates: human: bard 2 / fighter 16 / weapon master 22: Master of Melee V. 2
+140326: TyrPaladin: human?: fighter 10 / weapon master 30: Knight Build
+140388: Zhoreb: halfling: fighter 11 / weapon master 28 / rogue 1: Revised Halfling Daggermaster
+140490: kreestopearq: gnome: monk 16 / druid 11 / shifter 13: Construct Shifter (Techgnomonk)
+141175: jjellison: elf?: bard 8 / red dragon disciple 10 / shadowdancer 22: Dazzling Dervish
+141194: kreestopearq: human?: bard 5 / pale master 16 / blackguard 19: V 2.0 -- Undead Fencer
+141309: evo_dragon: human?: bard 16 / pale master 16 / fighter 8: Undeath's Eternal Champion
+141382: Emrill: halfling: rogue 17 / barbarian 21 / shadowdancer 2: Master of scare tactics
+141904: Darchen: human: monk 6 / blackguard 2 / sorcerer 32: Defiler Of The Silt Sea
+142196: Diesel, Vin Diesel: elf: rogue 12 / fighter 11 / wizard 17: Versatile Spellsword
+142349: Cinnabar Din: human?: sorcerer 34 / rogue 3 / blackguard 3: Accursed Magus
+142549: sketchy_c: human?: druid 22 / bard 8 / red dragon disciple 10: Morphea Draca
+142631: kreestopearq: human?: wizard 12 / pale master 16 / champion of Torm 12: Speed-casting Tank
+142661: Belesarius: human?: ranger 20 / champion of Torm 19 / shadowdancer 1: build
+142793: kreestopearq: dwarf?: wizard 20 / pale master 16 / champion of Torm 4: V 2.0 -- Casting Tank (minus the Speed)
+142972: sketchy_c: half-orc?: barbarian 25 / rogue 8 / weapon master 7: Psycho Killer
+143196: JSchimmy: human: cleric 23 / fighter 2 / champion of Torm 15: Help with
+143344: brainles: elf: bard 11 / weapon master 7 / arcane archer 22: Battle Elf
+143461: syrath1001: human?: fighter 14 / weapon master 7 / shadowdancer 19: The not so dashing swashbuckler
+143522: Ithacan: half-elf?: rogue 4 / paladin 4 / sorcerer 32: Holy Nuker
+143555: Nitricity: human: cleric 21 / champion of Torm 16 / rogue 3: The Cleric of Meb
+143562: jjellison: elf?: bard 8 / red dragon disciple 10 / shadowdancer 22: Dazzling Dervish ver 2
+143606: kreestopearq: human?: fighter 14 / weapon master 7 / shadowdancer 19: Shadow Avenger
+143621: juicyplasma: human: monk 34 / fighter 6: Street Fighting Monk
+143755: kreestopearq: human?: monk 8 / blackguard 16 / shadowdancer 16: Kama Ghost
+143916: kreestopearq: human?: monk 6 / assassin 15 / shadowdancer 19: V 2.0 -- Kama Ghost
+144016: syrath1001: elf?: bard 8 / arcane archer 16 / shadowdancer 16: Shadow Archer
+144083: Anuis: half-orc: fighter 5 / barbarian 35: The Screaming Barbarian
+144136: syrath1001: dwarf: fighter 8 / dwarven defender 10 / shadowdancer 22: Invisible Wall
+144171: kreestopearq: half-elf: sorcerer 1 / cleric 17 / arcane archer 22: Holy Archer
+144177: Diesel, Vin Diesel: dwarf: fighter 10 / rogue 4 / dwarven defender 26: Versatile wall
+144405: Kelrynn: human: paladin 4 / sorcerer 18 / champion of Torm 18: 4 Paladin/18 Sorcerer/18 CoT
+144433: juicyplasma: human: monk 36 / fighter 4: Street Fighting Monk (v.2)
+144809: georgel: dwarf: sorcerer 8 / red dragon disciple 10 / dwarven defender 22: Dragon Defender
+145234: Diesel, Vin Diesel: elf?: rogue 14 / fighter 9 / wizard 17: Versatile spellsword
+145351: Dimundome: gnome: wizard 38 / shadowdancer 2: Sneaky Evoker
+145613: sketchy_c: human?: bard 4 / fighter 8 / pale master 28: Grim Reaper
+145643: Diesel, Vin Diesel: dwarf?: fighter 12 / weapon master 13 / cleric 15: Divine Weaponmaster
+145664: jjellison: human: ranger 22 / cleric 12 / monk 6: Ranger 22/Cleric 12/Monk 6
+146043: XyberKnight: human: sorcerer 29 / paladin 1 / red dragon disciple 10: My Draconic Avenger
+146109: sketchy_c: dwarf: druid 6 / shifter 16 / dwarven defender 18: Stonewall Jackson
+146279: Cinnabar Din: human: rogue 29 / shadowdancer 7 / barbarian 4: Outrageous Sneak
+146434: syrath1001: human?: rogue 8 / shadowdancer 10 / assassin 22: The Tormented Assassin
+146543: kreestopearq: halfling?: bard 20 / red dragon disciple 10 / shadowdancer 10: The Imp
+146637: Emrill: human: monk 12 / assassin 23 / shadowdancer 5: 12 Monk/23 Assassin/5 Shadowdancer
+146826: TyrPaladin: dwarf: fighter 14 / weapon master 7 / dwarven defender 19: Fifur Gest
+146828: TyrPaladin: human: cleric 29 / champion of Torm 10 / monk 1: Soldier of Light
+146830: TyrPaladin: dwarf: cleric 39 / monk 1: Battle Dwarven Cleric
+146833: TyrPaladin: human: paladin 14 / champion of Torm 26: Avatar of Torm
+146835: TyrPaladin: elf: bard 16 / Harper scout 5 / arcane archer 19: Battle Archer
+146839: TyrPaladin: human: monk 9 / fighter 12 / weapon master 19: Discipline Knight
+146904: kreestopearq: halfling?: fighter 14 / rogue 13 / blackguard 13: Master Thrower
+147408: CrispyCritter: dwarf: rogue 13 / fighter 12 / cleric 15: Infernal Thug
+147570: TyrPaladin: elf: monk 10 / wizard 1 / arcane archer 29: Ultimate Archer
+148006: syrath1001: dwarf: fighter 8 / dwarven defender 22 / shadowdancer 10: Movable Wall
+148021: XyberKnight: human: paladin 1 / red dragon disciple 10 / sorcerer 29: Updated:; Draconic Avenger
+148057: Cinnabar Din: dwarf: rogue 25 / bard 1 / red dragon disciple 14: Reducing Rogue
+148219: MA Sword: human: druid 14 / shifter 19 / shadowdancer 7: Shadow Shifter
+148250: Tilbono: human: cleric 20 / pale master 16 / bard 4: Archer Cleric
+148343: sgtslayerVT: half-orc?: monk 28 / bard 2 / red dragon disciple 10: Heavy  Metal
+148351: Lockindal: human?: rogue 19 / fighter 14 / weapon master 7: Shadow Knight
+148630: yrtsns: elf: monk 18 / wizard 3 / arcane archer 19: Versatile Archer
+148890: yrtsns: dwarf: druid 7 / shifter 11 / dwarven defender 22: Juggernaut
+148919: Emrill: elf: druid 5 / shifter 19 / assassin 16: Shaper of Death
+149212: syrath1001: human?: monk 20 / fighter 10 / rogue 10: The Acrobat
+149236: syrath1001: elf?: fighter 17 / champion of Torm 10 / shadowdancer 13: Buccaneer of Torm
+149273: yrtsns: elf: monk 15 / wizard 2 / arcane archer 23: Pesky Mosquito
+149281: yrtsns: elf: monk 15 / wizard 2 / arcane archer 23: Iron Pesky Mosquito
+149400: Emrill: dwarf: paladin 8 / dwarven defender 22 / champion of Torm 10: Defending Champion
+150088: Tengudor_t: elf: bard 3 / cleric 12 / arcane archer 25: Enlightened Archer
+150360: Tengudor_t: human: wizard 23 / cleric 17: Red Mage
+150588: XyberKnight: human?: druid 6 / shifter 11 / blackguard 23: BlackGuard Of Hades
+151185: CrispyCritter: halfling: rogue 13 / monk 12 / cleric 15: The Crippler
+151262: CrispyCritter: halfling: rogue 13 / cleric 12 / wizard 15: Mystic Fencer
+151303: CrispyCritter: dwarf: rogue 13 / fighter 8 / cleric 19: Infernal Fencer
+151343: Falconhurst: human: rogue 11 / blackguard 28 / shadowdancer 1: Shadow Slayer
+151345: Falconhurst: human: fighter 6 / sorcerer 24 / red dragon disciple 10: Spellsword
+151350: Emrill: human: ranger 23 / bard 7 / red dragon disciple 10: Dragonbane
+151360: CrispyCritter: dwarf: cleric 12 / dwarven defender 22 / fighter 6: Divine Defender
+151582: CrispyCritter: halfling: rogue 13 / ranger 21 / fighter 6: Sneaky Avenger
+151681: Myrdyr: human: bard 29 / barbarian 3 / champion of Torm 8: Adroit Minstrel
+151695: riwipe: elf?: monk 35 / shadowdancer 5: Shadowfist
+151705: yrtsns: dwarf: fighter 16 / cleric 14 / shadowdancer 10: Quicksliver
+151849: riwipe: human?: monk 12 / fighter 6 / shadowdancer 22: Monk 12/Fighter 6/SD 22
+151895: yrtsns: elf: wizard 15 / arcane archer 15 / shadowdancer 10: Fading Archer
+151930: XyberKnight: elf: bard 7 / pale master 10 / arcane archer 23: Undead Archer
+152024: Tengudor_t: dwarf: wizard 18 / pale master 20 / fighter 2: Dwarf of Steel
+152292: DarkStar27909: halfling: monk 9 / fighter 6 / shadowdancer 25: Halfling Ninja Variant
+152327: CrispyCritter: dwarf: cleric 11 / fighter 8 / wizard 21: Dwarven Battlemage
+152342: CrispyCritter: halfling: rogue 13 / wizard 21 / fighter 6: Arcane Trickster
+152521: CrispyCritter: human: bard 12 / cleric 12 / pale master 16: Cantor of the Dead
+152600: CrispyCritter: human: rogue 13 / druid 20 / monk 7: Dragon Slinger
+152640: CrispyCritter: human: wizard 11 / pale master 16 / blackguard 13: Elder Vampire
+153094: yrtsns: elf: ranger 9 / shadowdancer 10 / wizard 21: Phase-Kill
+153183: ctasemelka: elf?: wizard 40: Pure lvl
+153275: Herbie Shimmer: human: cleric 12 / champion of Torm 22 / paladin 6: Disciple of Torm, v3.0
+153573: syrath1001: human?: fighter 9 / rogue 3 / shadowdancer 28: Iconic Shadowdancer
+154143: : none: : 
+154182: Kyriani Agrivar: elf: cleric 35 / monk 2 / rogue 3: The Evasive All-Seeing Phae
+154205: georgel: elf?: wizard 17 / assassin 21 / shadowdancer 2: Nightblade
+154287: Diesel, Vin Diesel: human: rogue 13 / monk 9 / cleric 18: the Divine Crippler
+155342: Ajatar: human?: fighter 6 / cleric 28 / monk 6: Battle priestess
+156066: MauvaisGuillame: elf?: pale master 16 / champion of Torm 15 / bard 9: Haunted Hymnsinger of Torm
+157213: Johansmu: human: barbarian 12 / weapon master 25 / wizard 3: The Raging PvP
+157410: Agifem: human: wizard 23 / cleric 17: Mystic Theurge
+157553: MauvaisGuillame: human?: paladin 18 / monk 12 / champion of Torm 10: Sardonic Savior
+157565: Agifem: human: fighter 6 / weapon master 7 / wizard 27: Eldritch Knight
+157874: DeathScytheDuo: human?: cleric 26 / rogue 13 / monk 1: Dodgy McDodge
+159197: ReallyTwisted: human: fighter 18 / weapon master 7 / barbarian 15: AxeMaster
+159258: Ahriman Dragonhand: human: monk 20 / shadowdancer 5 / rogue 15: Stealthy
+160101: Aligory: human: monk 20 / Harper scout 5 / fighter 5: Harper Blademaster
+160483: Storm6: human: fighter 7 / weapon master 7 / wizard 26: Gandalf Build
+160651: Tilbono: elf: monk 10 / wizard 1 / arcane archer 29: I suck with naming
+160882: Tengudor_t: human: fighter 10 / wizard 23 / weapon master 7: Arcane Knight
+161026: Werithe: elf?: cleric 23 / monk 13 / fighter 4: First Attempt
+161037: Iron Ranger: human?: paladin 3 / monk 2 / sorcerer 35: Defender of Good
+161210: _Ferahgo_: elf: cleric 15 / bard 5 / pale master 20: Devine Deathsinger
+161211: Iron Ranger: elf?: rogue 13 / wizard 8 / arcane archer 19: Archer of Lothlorien
+161214: Amzard: human?: monk 13 / fighter 2 / weapon master 25: Blade Monk
+161394: avado: elf?: druid 5 / shifter 17 / champion of Torm 18: suggestions on shifter/cot build
+161468: Anuis: human: paladin 9 / cleric 7 / champion of Torm 24: Death Hunter
+162070: Thorsson64: elf?: bard 7 / red dragon disciple 10 / arcane archer 23: The Real True Ultimate Archer
+162218: Aligory: elf: fighter 14 / wizard 1 / arcane archer 15: Amazing Archer
+162321: Amzard: human?: monk 14 / fighter 4 / weapon master 22: Spirit Warrior
+162720: WarriorCleric: half-orc?: barbarian 23 / weapon master 7 / fighter 10: Eastern Warrior
+162727: WarriorCleric: half-elf?: druid 18 / monk 18 / champion of Torm 4: Order of the Dragon
+162846: Kaliban99: elf: monk 25 / wizard 5 / pale master 10: Undead Monk
+163279: Diesel, Vin Diesel: dwarf?: druid 17 / cleric 17 / monk 6: Divine Dragon
+163915: Herbie Shimmer: half-orc?: bard 16 / champion of Torm 14 / red dragon disciple 10: The Avatar of Torm's Righteous Strength
+164299: Herbie Shimmer: human?: cleric 17 / fighter 16 / weapon master 7: Divine Kukri
+164310: Herbie Shimmer: human: cleric 11 / weapon master 7 / blackguard 22: Infernal Scimitar Master
+164532: WarriorCleric: human?: druid 24 / cleric 9 / monk 7: Order of the Divine Dragon
+164585: Proyo: elf: paladin 15 / monk 6 / weapon master 19: Rightous Dexer
+164802: Herbie Shimmer: human: monk 19 / wizard 5 / pale master 16: Pale Kama Monk
+164883: Iron Ranger: human?: cleric 20 / bard 16 / barbarian 4: Support X-Bow Master
+164914: Mick Dagger: human?: paladin 29 / monk 9 / shadowdancer 2: Stealthy paladin
+164994: Werithe: elf: cleric 20 / fighter 14 / monk 6: Elven Cleric 20/Fighter 14/Monk 6
+164998: Dy' irath Dy' enea: human?: monk 20 / cleric 17 / assassin 3: War Cleric
+165232: Iron Ranger: dwarf?: barbarian 24 / pale master 10 / wizard 6: Undead Battlerager
+165678: Anoikis: elf?: druid 28 / wizard 3 / arcane archer 9: The Biohazard Bowman
+165736: Diesel, Vin Diesel: human?: cleric 14 / bard 16 / red dragon disciple 10: Angelic Avenger
+166364: Wendrae_Trebor: human?: druid 5 / shifter 12 / wizard 23: Druid5 Shifter12 Wizard23
+166519: Mick Dagger: human?: paladin 10 / sorcerer 20 / red dragon disciple 10: The Transcending Knight
+166734: Herbie Shimmer: elf?: sorcerer 11 / red dragon disciple 10 / arcane archer 19: Devastatingly  Charming Archer
+166797: Zyn248: elf: rogue 13 / cleric 15 / monk 12: Rogue Disciple - Elven
+167094: Nimueh_Leafbow: elf: fighter 14 / monk 21 / shadowdancer 5: Diamond Blade
+167438: jjjhhhlll: human?: cleric 36 / monk 1 / rogue 3: divine caster crook
+167506: GiddieGoanna: elf?: fighter 17 / monk 18 / shadowdancer 5: Fighter 17/monk 18/sd 5
+168205: bpirkle: human: rogue 30 / assassin 5 / Harper scout 5: Reformed Backstabber
+168701: Eindride: human?: fighter 20 / bard 4 / pale master 16: Fighter 20 / Bard 4 / PM 16
+169450: bpirkle: half-elf: bard 30 / rogue 5 / ranger 5: The Versatile Songmaster
+169589: Bobz713: dwarf: monk 13 / shadowdancer 5 / dwarven defender 22: Ultamate Tank
+169656: Kaliban99: human: bard 8 / pale master 16 / blackguard 16: Undead Fiend
+169658: Kaliban99: human: bard 14 / red dragon disciple 10 / blackguard 16: The Black Jester
+169671: avado: elf?: druid 13 / champion of Torm 10 / shifter 17: 3 Shape Shifter:; Risen lord/Epic Drow/ Rakasha
+169727: AXN: human?: monk 16 / sorcerer 21 / paladin 3: The FLAMECASTER
+169812: Aligory: human: ranger 31 / Harper scout 5 / fighter 4: Harper Ranger
+170330: bpirkle: human: fighter 16 / weapon master 7 / barbarian 17: The Dismemberer
+170358: Lockindal: halfling?: fighter 10 / weapon master 28 / shadowdancer 2: The Hidden Axe
+171023: realm of shadow: dwarf: druid 6 / shifter 11 / dwarven defender 23: Minotaur Defender
+171270: Zhoreb: human: monk 20 / cleric 15 / shadowdancer 5: Shadow Cleric
+171369: Herbie Shimmer: human: paladin 2 / cleric 12 / champion of Torm 26: Disciple of Torm v4
+171627: Pendragon2u: elf: wizard 33 / fighter 4 / rogue 3: The Expert Wizard
+172317: Xeroyne: elf: monk 9 / wizard 4 / arcane archer 27: The Zen-like Archer
+172361: SlimReaper: human: fighter 28 / bard 2 / red dragon disciple 10: The Draconic Warrior
+172443: Ralkain17: elf: pale master 24 / red dragon disciple 10 / bard 6: Pale Drake
+172574: Mithdradates: human: champion of Torm 14 / cleric 18 / paladin 8: Self-Righteous Bastard
+173156: Denigrade: halfling: fighter 24 / bard 16: Halfling Bard
+173164: Kaliban99: dwarf: fighter 8 / champion of Torm 4 / dwarven defender 28: The Wizard's Bulwark
+173402: Kaliban99: elf: rogue 21 / champion of Torm 10 / wizard 9: Elven Champion Spellsword
+173507: pmbrennen: elf?: rogue 33 / fighter 6 / shadowdancer 1: Battle Hardened Assasin
+174026: Sidious Fell: halfling?: monk 20 / champion of Torm 13 / rogue 7: monk20/COT13/rogue7
+174260: jjjhhhlll: human?: cleric 24 / bard 2 / red dragon disciple 14: draconic divine cleric
+174667: Firestar Rogue: human: fighter 6 / cleric 15 / weapon master 19: Hannibal
+174943: Aligory: human: druid 37 / rogue 1 / shadowdancer 2: Witch
+175079: Xeroyne: human?: monk 21 / sorcerer 9 / red dragon disciple 10: Monk 21/ Sorc 9/ RDD 10
+175309: WarriorCleric: elf: druid 5 / shifter 17 / wizard 18: Drow Devistator
+175380: Xeroyne: human: monk 35 / fighter 5: Devestating Monk of the Short Death
+175457: KingHarbromm: dwarf: fighter 8 / monk 2 / dwarven defender 30: The Epitome of Defense
+175655: Slimcea: gnome: wizard 35 / monk 3 / shadowdancer 2: Sneaky Wizard
+175977: TsiZ: human: monk 12 / blackguard 6 / weapon master 22: Black Double
+176438: bpberryWRC: human?: fighter 7 / ranger 26 / weapon master 7: Fighter 7/Ranger 26/WM 7
+176476: Xeroyne: human: wizard 15 / pale master 12 / weapon master 13: The Grim Reaper
+176860: Eluvan: human: cleric 21 / fighter 12 / weapon master 7: The Blade Apostle
+177032: Kaliban99: halfling: bard 14 / red dragon disciple 10 / blackguard 16: The Halfling from Hell
+177749: Denigrade: halfling: bard 16 / fighter 17 / weapon master 7: Revised Halfling Bard
+178092: Xeroyne: half-orc: barbarian 18 / rogue 15 / weapon master 7: Shady Half-Orc Berzerker
+178106: yrtsns: gnome?: sorcerer 29 / pale master 10 / paladin 1: Grim Conjurer
+178574: Yar Stardawg: elf: fighter 18 / weapon master 19 / assassin 3: The Faerie Tornado
+178671: Mithdradates: human: champion of Torm 10 / fighter 8 / wizard 22: Magical Marauder V. 2
+178675: Mithdradates: dwarf: wizard 40: Arcane Trebuchet
+178861: CrispyCritter: elf: wizard 21 / pale master 10 / arcane archer 9: Deathless Archer
+178865: CrispyCritter: human: fighter 14 / wizard 23 / shadowdancer 3: Pseudo-Assassin
+178869: CrispyCritter: human: rogue 17 / paladin 20 / shadowdancer 3: Inquisitive Idiot
+178870: CrispyCritter: halfling: monk 6 / assassin 18 / blackguard 16: Shao-lin Assassin
+178937: CrispyCritter: elf: wizard 23 / cleric 12 / arcane archer 5: Mystic Archer
+178949: CrispyCritter: human: fighter 18 / cleric 20 / shadowdancer 2: Shadow Enforcer
+178958: CrispyCritter: human: paladin 15 / wizard 15 / pale master 10: Ancient Avenger
+178960: CrispyCritter: human: sorcerer 23 / red dragon disciple 10 / blackguard 7: Draconic Destroyer
+179051: yrtsns: human: bard 10 / pale master 10 / champion of Torm 20: Twisted Templar
+179145: CrispyCritter: human: rogue 17 / champion of Torm 8 / cleric 15: Sacred Swordsman
+179166: Yar Stardawg: elf: fighter 22 / weapon master 13 / assassin 5: Fairie Tornado  *corrected from original*
+179167: Yar Stardawg: dwarf: fighter 24 / weapon master 13 / rogue 3: Dwarven Whirlwind
+179168: Yar Stardawg: human: fighter 18 / weapon master 19 / rogue 3: The Ginsu Master
+179208: CrispyCritter: human: druid 20 / cleric 18 / shadowdancer 2: Shadow Druid
+179427: Aligory: human: druid 33 / fighter 5 / monk 2: Nice Forest Guy
+179627: xitooner: dwarf: rogue 20 / fighter 10 / champion of Torm 10: Martial Rogue
+179629: xitooner: human?: paladin 11 / sorcerer 24 / red dragon disciple 5: Seer of Torm
+179635: xitooner: elf?: rogue 13 / fighter 7 / wizard 20: Very Versatile Kensai
+179636: xitooner: elf?: rogue 14 / wizard 3 / arcane archer 23: TrueStrike Rogue
+179688: syrath1001: human?: fighter 8 / shadowdancer 10 / champion of Torm 22: Arcani
+179807: SirGunky: halfling: bard 17 / pale master 13 / red dragon disciple 10: Mini-Dracolich
+179884: dvxz: dwarf?: monk 3 / druid 14 / barbarian 23: Raging Dragon
+179901: dvxz: human?: monk 3 / druid 14 / barbarian 23: Raging Dragon (II)
+180301: King Ubu: elf?: bard 30 / shadowdancer 10: Pacifistic Minstrel
+180449: King Ubu: elf?: paladin 5 / sorcerer 5 / arcane archer 30: Divine Strike Bowman
+180451: yrtsns: elf: bard 5 / pale master 16 / arcane archer 19: Pale Archer
+180565: Kalmar_Oxin: halfling: fighter 18 / rogue 19 / druid 3: Lonely Wacko
+180764: CrispyCritter: human: rogue 10 / cleric 15 / druid 15: Dragon Slinger v2.0
+180773: CrispyCritter: elf: rogue 16 / wizard 15 / arcane archer 9: Apparition Archer
+180792: CrispyCritter: human: wizard 21 / pale master 10 / cleric 9: Deathless Master
+180937: King Ubu: elf?: bard 6 / red dragon disciple 4 / arcane archer 30: Devastating Longbowman
+181022: Herbie Shimmer: human?: wizard 21 / shadowdancer 10 / ranger 9: Sneaky Wizard of the Woods
+181165: CrispyCritter: gnome: monk 2 / cleric 15 / wizard 23: Mystic Master
+181195: lala_truthsayer: human: cleric 18 / druid 5 / shifter 17: Divine Shifter
+181417: Kill A Lot A Crap: elf?: rogue 19 / fighter 20 / shadowdancer 1: The Epic Killer
+181432: cakerj: human: monk 18 / fighter 21 / rogue 1: The Ugly FastFingers
+181495: Elor Yanlend: human: sorcerer 24 / paladin 6 / red dragon disciple 10: There is always another possibility
+181962: Aligory: human: bard 21 / fighter 14 / Harper scout 5: Harper Bard (melee)
+181971: M1ke47: human?: fighter 6 / rogue 9 / weapon master 25: Adaptable Weapon Master
+182088: Grzech_U.pl: human: cleric 15 / blackguard 4 / rogue 21: The universal archer
+182163: lala_truthsayer: human: paladin 29 / sorcerer 1 / red dragon disciple 10: Divine Paladin
+182429: Elor Yanlend: dwarf: barbarian 24 / fighter 6 / champion of Torm 10: The true barbarian
+182680: DaMouse404: elf?: monk 25 / sorcerer 5 / red dragon disciple 10: Red Dragon Monk
+182723: Nukenin: dwarf: barbarian 40: Thundering Terror
+182729: Nukenin: elf: fighter 33 / weapon master 7: Greatsword Master
+183105: Yar Stardawg: human: cleric 26 / monk 9 / shadowdancer 5: Priest of the Shadows
+183236: uanime: human: bard 4 / pale master 12 / red dragon disciple 24: Dracolich Avatar
+183375: dvxz: human: monk 40: Lightning monk
+184227: dvxz: elf: wizard 1 / arcane archer 21: Sniper of Wisdom cleric18
+184261: Hardwynn: human: fighter 10 / weapon master 8 / champion of Torm 22: Guardian of Tyr
+184758: : none: : 
+185049: Nukenin: dwarf?: fighter 6 / monk 34: Hammer Fist
+185051: Nukenin: dwarf: dwarven defender 22 / monk 18: Hammer Wall
+185055: Nukenin: halfling?: rogue 24 / monk 16: Hin Fist
+185166: Nukenin: elf: fighter 12 / weapon master 28: Greatsword Master v2
+185671: lala_truthsayer: human: druid 16 / shifter 17 / blackguard 7: Divine Shifter V2
+185735: psychospaz: dwarf: druid 17 / monk 13 / champion of Torm 10: Divine Wyrm
+185784: M1ke47: human?: rogue 35 / blackguard 4 / assassin 1: A nasty piece of work
+186217: Aligory: dwarf: wizard 35 / Harper scout 5: Harper Wizard
+186260: MartinJHolm: elf: bard 9 / shadowdancer 2 / arcane archer 29: Basic Elven Combat Archer
+186636: nw113: human?: sorcerer 24 / paladin 16: Sorcerer 24 / Paladin 16
+186693: GoVols: human?: paladin 23 / weapon master 7 / champion of Torm 10: The Smiting Knight of Vor
+186741: Sarlak: unknown: fighter 29 / bard 1 / red dragon disciple 10: Dragoon Cavalier
+186865: Herbie Shimmer: human?: cleric 23 / paladin 3 / champion of Torm 14: Dazzling Battle Cleric
+187089: MartinJHolm: dwarf: druid 38 / monk 1 / fighter 1: Iconic Druid (sorta)
+187185: Banshe: halfling: ranger 2 / rogue 25 / weapon master 13: Woodsman - A Version
+187706: m_beaubien: human: ranger 35 / fighter 4 / monk 1: Bane of All
+187837: m_beaubien: human: paladin 35 / fighter 4 / Harper scout 1: Exhaulted Harper
+187984: Stephen Hawking: human?: bard 20 / red dragon disciple 10 / fighter 10: Singing meleer
+188063: M1ke47: human: rogue 35 / blackguard 4 / assassin 1: nasty dual wielder dex based
+188068: Notthesmartmark: human?: bard 4 / druid 20 / pale master 16: Witch
+188324: uanime: human: monk 25 / barbarian 15: Super Saiyan
+188349: jjjhhhlll: human?: barbarian 16 / bard 23 / cleric 1: terrifying troubadour
+188424: ZelleQyllvan: human: druid 22 / shifter 17 / monk 1: Nature's Faces
+189147: Neverko: human: paladin 8 / sorcerer 18 / red dragon disciple 14: Divine meleer
+189148: Killerpudel: human: sorcerer 38 / paladin 1 / monk 1: high DC sorc
+189233: lala_truthsayer: human: bard 26 / blackguard 4 / red dragon disciple 10: Banshee
+189242: reggemS: dwarf: fighter 8 / weapon master 20 / shadowdancer 12: Dwarven Kukri Master
+189768: M1ke47: elf: monk 4 / blackguard 4 / rogue 32: Nasty evil monk
+190030: ManOWarr: human?: druid 23 / barbarian 16 / monk 1: Nature's Wrath
+190312: M1ke47: human: barbarian 20 / druid 17 / monk 3: Raging Dragon
+190519: Aretal: elf: monk 10 / wizard 1 / arcane archer 29: Asetic Archer
+190589: Sir Nahme: elf: bard 8 / red dragon disciple 10 / arcane archer 22: Draconic Archer
+190992: Alandrian: human: rogue 24 / champion of Torm 10 / fighter 6: Drowkiller
+191205: Lorethian: dwarf: monk 18 / fighter 4 / dwarven defender 18: The Kung-Fu Wall
+191493: Avendesora84: human: fighter 12 / weapon master 22 / monk 6: Ko'di Blademaster
+191887: K'orwyn: human: paladin 6 / monk 34: Spell-Resistant Paladin
+191908: ManOWarr: human: bard 11 / barbarian 19 / red dragon disciple 10: Berserker Skald
+191956: Anglashell: human: fighter 10 / cleric 23 / weapon master 7: Nature's crusader
+192106: Giantevilhead: elf: bard 12 / red dragon disciple 10 / arcane archer 18: The Vanquisher
+192353: Drallimer: elf: rogue 35 / champion of Torm 4 / shadowdancer 1: Elven Response
+192709: M1ke47: dwarf: rogue 12 / shadowdancer 10 / dwarven defender 18: Dwarven Scout
+192785: avado: elf?: cleric 30 / champion of Torm 10: Wise Elvish Priest
+192858: RocsFlight: half-elf: arcane archer 28 / fighter 8 / bard 4: Arcane Archer Build
+193126: Master Goodheart: human: cleric 26 / champion of Torm 10 / paladin 4: 26 cleric/10 CoT/4 paladin
+193180: avado: human?: monk 32 / cleric 1 / blackguard 7: Evil Spell Smasher
+193194: Deltutammatre: elf: monk 37 / fighter 2 / bard 1: Speedy Delivery
+193246: DaMouse404: human?: druid 25 / champion of Torm 6 / monk 9: Christophs Dragon of Torm
+193429: grizzled_dwarflord: dwarf: bard 5 / red dragon disciple 10 / dwarven defender 25: Dwarven Warmonger
+193459: Giantevilhead: human: fighter 8 / blackguard 25 / shadowdancer 7: Unholy Shadowlord
+193474: Anglashell: human: bard 20 / red dragon disciple 16 / blackguard 4: The singer of despair
+194007: cakerj: human: monk 33 / fighter 6 / rogue 1: The Ugly Fastfingers Gold Edition
+194033: MartinJHolm: dwarf: barbarian 24 / fighter 6 / champion of Torm 10: Raging Dwarf
+194184: syrath1001: elf: bard 8 / shadowdancer 16 / arcane archer 16: Shadow Archer V2
+194348: grizzled_dwarflord: halfling: rogue 19 / ranger 9 / monk 12: Rogue Tiger
+194751: avado: dwarf: cleric 15 / fighter 6 / weapon master 19: The Miserable Devastating Dwarf
+194764: InsaneShadow: human?: monk 20 / rogue 10 / shadowdancer 10: Monk 20/Rogue 10/SD 10
+194769: InsaneShadow: elf?: rogue 19 / fighter 20 / shadowdancer 1: Epic Katana Ninja
+194782: Anglashell: elf: ranger 23 / shadowdancer 16 / bard 1: The Lothlorien's scout
+194790: TeoDeathDealer: dwarf: druid 28 / monk 2 / dwarven defender 10: Natures Wall
+194854: sketchy_c: human?: ranger 10 / shadowdancer 10 / weapon master 20: Swift Breath
+194892: grizzled_dwarflord: halfling: rogue 25 / fighter 10 / Harper scout 5: Harper Negotiator
+194971: aalexandre: elf: cleric 17 / champion of Torm 4 / wizard 19: Elf Arcanist Sword
+195057: Stravinsky00: elf?: rogue 19 / fighter 20 / shadowdancer 1: Hidden Death
+195058: Sir Nahme: half-orc: rogue 21 / fighter 14 / Harper scout 5: Half-Orc Battle-Strategist
+195370: Joeri1989: human: fighter 7 / wizard 26 / weapon master 7: Kukri Wizard
+195593: Mithdradates: human: cleric 17 / champion of Torm 6 / druid 17: Sylvan Justice
+195827: Mithdradates: human: bard 16 / fighter 14 / red dragon disciple 10: Irksome Wonder V.2
+195838: Stravinsky00: elf?: rogue 16 / wizard 2 / arcane archer 22: Hidden Arrow
+195839: Stravinsky00: dwarf: cleric 12 / fighter 10 / dwarven defender 18: Clangeddin's Blade
+196057: Stravinsky00: human?: cleric 15 / champion of Torm 4 / barbarian 21: Torm's Terrifying Wrath
+196069: Dennis05: halfling?: druid 14 / monk 1 / rogue 25: Shadowy Dragon
+196070: syrath1001: human: fighter 11 / blackguard 10 / shadowdancer 19: Dark Hero
+196205: Mithdradates: elf: arcane archer 11 / bard 16 / blackguard 13: Lolth's Sting
+196206: Mithdradates: elf: arcane archer 15 / paladin 4 / sorcerer 21: Correllon's Spear
+196232: grizzled_dwarflord: human?: ranger 28 / bard 2 / red dragon disciple 10: Brood of the Mountains
+196360: Mithdradates: elf: monk 36 / paladin 4: Mage Bane V. 2
+196723: Kaliban99: human: bard 20 / red dragon disciple 10 / champion of Torm 10: Draconic Champion Bard
+196773: tvs gene shalit: human: sorcerer 20 / paladin 16 / red dragon disciple 4: Sorcerer 20 / Paladin 16 / RDD 4
+196779: tvs gene shalit: human: fighter 26 / weapon master 13 / monk 1: Fighter 26 / WM 13 / Monk 1
+196784: Ithacan: half-orc?: rogue 17 / paladin 15 / fighter 8: Avenging Commando
+196786: Ithacan: half-orc?: rogue 17 / paladin 15 / champion of Torm 8: Avenging Champion Commando
+197058: tvs gene shalit: elf: bard 14 / red dragon disciple 10 / shadowdancer 16: Bard 14 / RDD 10 / SD 16
+197098: aluka: human: ranger 30 / rogue 3 / weapon master 7: Efficient Hunter
+197137: aluka: elf?: ranger 35 / monk 3 / assassin 2: Evil Hunter
+197247: Kaliban99: human: ranger 23 / monk 7 / shadowdancer 10: Kama Fury
+197283: Mithdradates: human: ranger 26 / rogue 13 / shadowdancer 1: Blade of the Wilderness
+197418: cakerj: elf: rogue 29 / sorcerer 1 / red dragon disciple 10: The Untouchable
+197547: Kaliban99: human: ranger 25 / monk 10 / shadowdancer 5: Kama Fury ver. 2
+197595: Mithdradates: human: cleric 20 / fighter 4 / weapon master 16: Bone Breaker
+197647: cakerj: elf: rogue 28 / bard 2 / red dragon disciple 10: Untouchable Gold Edition
+197661: aardnebby: dwarf: bard 8 / pale master 10 / dwarven defender 22: Pale Defender
+198041: Stravinsky00: elf?: monk 20 / rogue 19 / shadowdancer 1: The Acolyte of Shadows
+198047: fernandooa: half-elf?: bard 9 / barbarian 2 / arcane archer 29: Solid Archer
+198055: fernandooa: human?: fighter 11 / weapon master 28 / bard 1: Improved Kukri Master
+198081: fernandooa: human?: rogue 32 / blackguard 7 / monk 1: Blood frenzied rogue
+198165: Cinnabar Din: human?: rogue 19 / cleric 13 / champion of Torm 8: Blessed Sneak
+198191: pulse cap: human: sorcerer 21 / fighter 8 / red dragon disciple 11: Buff Disciple
+198410: grizzled_dwarflord: human?: bard 14 / shadowdancer 10 / weapon master 16: Libertine Defender
+198416: Cinnabar Din: human?: rogue 19 / cleric 15 / champion of Torm 6: Blessed Sneak Mk II
+198473: Ithacan: elf: monk 20 / rogue 16 / champion of Torm 4: Planar Scout
+198477: Stravinsky00: human?: fighter 6 / wizard 26 / champion of Torm 8: Arcane Blade of Torm
+198507: Mithdradates: human: barbarian 24 / champion of Torm 10 / fighter 6: Chosen of Tempos V. 2
+198552: grizzled_dwarflord: elf?: monk 25 / shadowdancer 5 / champion of Torm 10: Zen Guardian
+198687: Drallimer: dwarf: cleric 11 / dwarven defender 22 / weapon master 7: Divine Wall
+198702: jjjhhhlll: dwarf: bard 16 / red dragon disciple 10 / dwarven defender 14: Dwarven Dragon Skald
+198936: Rooker1963: dwarf: fighter 10 / dwarven defender 14 / weapon master 16: Dwarven War Master
+198954: Mithdradates: elf: fighter 22 / rogue 13 / shadowdancer 5: Shadow Warrior
+198956: Mithdradates: elf: fighter 22 / paladin 2 / rogue 16: Fearless Cavalier
+198965: pulse cap: elf: rogue 29 / monk 1 / blackguard 10: Sneaky bastard
+199235: Dennis05: half-orc?: druid 29 / bard 1 / red dragon disciple 10: A Quite (devastating) Critical Dragon
+199272: Cinnabar Din: human?: bard 24 / fighter 6 / red dragon disciple 10: The Skillful Minstrel  (no Dev Crit)
+199333: Mithdradates: human: champion of Torm 10 / fighter 10 / paladin 20: Heculean Knight
+199385: Dj.Star: human: fighter 2 / paladin 16 / champion of Torm 22: holy Star of Thom
+199442: Cinnabar Din: human?: rogue 28 / barbarian 8 / blackguard 4: Brutal Thug
+199637: shaggy2047: human: fighter 6 / weapon master 28 / monk 6: Generic Master
+199696: Mithdradates: human: bard 16 / fighter 8 / pale master 16: Doom Skald
+199699: Mithdradates: dwarf: fighter 20 / pale master 16 / wizard 4: Soldier of Death
+199875: fernandooa: human?: rogue 19 / fighter 11 / blackguard 10: The Abuser
+199917: grizzled_dwarflord: human: bard 21 / fighter 6 / blackguard 13: The Bastard
+199975: Marcus Whitewolf: human?: cleric 15 / rogue 3 / assassin 22: cleric 15/rogue 3/assassin 22
+200033: jonyb2: human: druid 15 / monk 6 / rogue 19: The Equalizer
+200048: Mithdradates: human: assassin 22 / fighter 14 / rogue 4: Lethal Mercenary
+200316: Cinnabar Din: dwarf?: fighter 4 / rogue 10 / champion of Torm 26: Favored of Moradin
+200342: Mithdradates: elf: assassin 20 / ranger 10 / shadowdancer 10: Dark Slayer
+200533: grizzled_dwarflord: dwarf?: bard 12 / red dragon disciple 10 / fighter 18: Avatar of the Forge
+200549: avado: human?: monk 23 / fighter 9 / paladin 8: The Internal Martial Artist
+200590: pulse cap: human: druid 23 / monk 7 / champion of Torm 10: Caster Dragon
+200637: aluka: human: cleric 23 / druid 16 / monk 1: The Wise One
+200682: Mithdradates: human: bard 16 / fighter 8 / weapon master 16: Saga Skald
+200743: Grimnir77: dwarf: cleric 14 / champion of Torm 4 / dwarven defender 22: Dwarven warpriest
+200874: Ithacan: elf?: rogue 11 / paladin 14 / cleric 15: Divine Commando
+200989: Mithdradates: human: bard 1 / fighter 20 / weapon master 19: Master Fencer
+200991: fernandooa: human?: fighter 10 / champion of Torm 10 / cleric 20: Crusader of Torm
+201065: Ithacan: human?: rogue 11 / cleric 15 / paladin 14: Reworked Divine Commando
+201068: Cinnabar Din: human?: cleric 27 / champion of Torm 8 / Harper scout 5: Harper Protector
+201081: ManOWarr: human?: monk 20 / rogue 10 / champion of Torm 10: Ninja of Torm!!
+201215: Mick Dagger: dwarf: fighter 30 / champion of Torm 10: Feat Master
+201263: Ithacan: elf: monk 20 / rogue 16 / champion of Torm 4: Reworked Planar Scout
+201265: grizzled_dwarflord: dwarf?: rogue 16 / fighter 8 / barbarian 16: Savage Corsair
+201395: Cinnabar Din: human?: barbarian 22 / bard 8 / red dragon disciple 10: Raging Skald
+201538: Mithdradates: elf: arcane archer 11 / bard 16 / rogue 13: Generic Support Archer
+201744: Sontyr: elf: rogue 10 / cleric 12 / assassin 18: Slayer of Lolth
+201795: Nimueh_Leafbow: elf: rogue 21 / wizard 1 / arcane archer 18: Awesome Archer //Variant
+201842: Mithdradates: elf: cleric 16 / fighter 8 / rogue 16: Ultimate Dex Ranger
+201898: Nimueh_Leafbow: elf?: wizard 12 / arcane archer 10 / assassin 18: Blackbow
+202161: Mithdradates: human: fighter 6 / monk 18 / weapon master 16: Ferocious Man-Chicken of Doom
+202302: Herbie Shimmer: human?: druid 17 / monk 6 / shifter 17: PW Shifter
+202355: grizzled_dwarflord: human?: fighter 14 / wizard 10 / pale master 16: Deathless Pariah
+202424: Nimueh_Leafbow: human?: rogue 16 / fighter 5 / assassin 19: Smackdown Sneaker
+202562: ManOWarr: human?: druid 13 / ranger 10 / shifter 17: Nature's avenger
+202816: pulse cap: human: druid 26 / monk 6 / champion of Torm 8: Shapeshifting Druid
+202887: lendorallen: halfling?: sorcerer 21 / cleric 14 / Harper scout 5: Sorcerer 21, Cleric 14, Harper Scout 5
+202938: sheffnaster: human?: cleric 26 / monk 4 / champion of Torm 10: The Wise Guy
+202966: Cinnabar Din: dwarf?: fighter 22 / bard 8 / red dragon disciple 10: Master of Resistance
+203009: Grimnir77: human?: bard 14 / red dragon disciple 10 / pale master 16: Black Widow
+203029: jedi1: human: paladin 4 / champion of Torm 10 / cleric 26: Divine Spellcaster
+203030: lendorallen: halfling: bard 21 / rogue 13 / fighter 6: The Halfling Mousquetaire
+203196: Ithacan: elf?: bard 16 / cleric 14 / red dragon disciple 10: Divine Dragon Herald
+203226: Mithdradates: human: fighter 14 / rogue 10 / weapon master 16: Pillager
+203383: grizzled_dwarflord: dwarf?: fighter 14 / wizard 12 / assassin 14: The GrimBlade
+203409: Kaliban99: dwarf: cleric 17 / dwarven defender 18 / assassin 5: Duergar Crusader
+203520: Nimueh_Leafbow: elf: bard 7 / red dragon disciple 10 / arcane archer 23: Drakebow
+203579: Ithacan: elf?: paladin 8 / champion of Torm 16 / weapon master 16: Knight of the Sword
+203621: pulse cap: human: fighter 8 / cleric 11 / sorcerer 21: The Ultimate Reality
+203664: Cinnabar Din: dwarf?: fighter 12 / wizard 10 / assassin 18: The Hatchet
+203676: Cinnabar Din: dwarf?: bard 12 / fighter 12 / pale master 16: Deathless Skald
+203787: SovranSpecific: human?: fighter 16 / weapon master 19 / rogue 5: Twinblade
+203792: jjjhhhlll: dwarf?: cleric 20 / bard 4 / pale master 16: The Robust Reanimator
+203884: neenex: elf?: monk 20 / shadowdancer 10 / champion of Torm 10: Torm's Kama Spy
+203926: Dexterity: elf?: monk 9 / wizard 7 / arcane archer 24: Death
+204002: Kaliban99: human: fighter 10 / weapon master 28 / rogue 2: The Two-Fisted Weaponmaster
+204058: Cinnabar Din: human?: ranger 30 / fighter 4 / rogue 6: The Banestalker
+204076: mphacon: dwarf?: monk 20 / assassin 15 / shadowdancer 5: The Inquisitor
+204080: mphacon: dwarf: fighter 8 / dwarven defender 22 / champion of Torm 10: The Doorman
+204089: jjellison: human?: paladin 6 / bard 16 / champion of Torm 18: Judge Singer
+204106: christian.schnabel: human?: ranger 35 / bard 3 / shadowdancer 2: Strategic Warrior
+204167: Mithdradates: dwarf: dwarven defender 14 / fighter 10 / weapon master 16: Dwarven Landslide
+204241: grizzled_dwarflord: dwarf?: rogue 16 / wizard 14 / champion of Torm 10: The Professional
+204250: Ithacan: elf?: monk 10 / wizard 7 / arcane archer 23: Ohm Archer
+204523: Kaliban99: dwarf: monk 9 / shadowdancer 5 / dwarven defender 26: Tempered Steel
+204552: grizzled_dwarflord: elf?: rogue 17 / fighter 10 / shadowdancer 13: Stygian Knight
+204642: Ithacan: elf?: cleric 17 / champion of Torm 10 / rogue 13: Divine Commando of Torm
+204853: christian.schnabel: dwarf: monk 18 / dwarven defender 22: Resilient Flurry
+204876: fernandooa: human?: ranger 33 / fighter 4 / assassin 3: Versatile Ranger
+204889: neenex: human?: rogue 25 / fighter 14 / shadowdancer 1: Hestor Lighthand
+205016: Mithdradates: human: champion of Torm 8 / rogue 13 / wizard 19: Arcane Scout
+205255: M1ke47: halfling: druid 8 / shifter 10 / shadowdancer 22: Hidden Lord
+205297: Ithacan: elf: monk 13 / wizard 20 / shadowdancer 7: Serene Shadow Mage
+205611: Ithacan: elf?: monk 12 / cleric 17 / champion of Torm 11: Walks with God (and Big Sword)
+205673: KingHarbromm: dwarf?: fighter 8 / monk 2 / assassin 30: Stonedeath
+205681: darkfire_arrow01: elf: ranger 29 / bard 1 / red dragon disciple 10: Dual Dever
+205716: grizzled_dwarflord: human: barbarian 19 / wizard 5 / pale master 16: The Revenant
+205810: christian.schnabel: human: fighter 18 / rogue 7 / wizard 15: Undecided Spellblade
+205816: Mithdradates: human: champion of Torm 14 / paladin 16 / rogue 10: Generalist V. 2
+205820: KingHarbromm: dwarf: fighter 8 / monk 2 / dwarven defender 30: Moradin's Shield
+205934: WebShaman: elf?: ranger 21 / arcane archer 17 / bard 2: Banebow
+205982: kemkons: human?: fighter 5 / monk 28 / weapon master 7: Kama Master
+206071: darkfire_arrow01: elf?: wizard 40: Merlin
+206125: Kaliban99: dwarf: monk 9 / fighter 6 / assassin 25: Dwarven Mafia
+206145: avado: dwarf: fighter 10 / weapon master 7 / assassin 23: Dwarf assasin's Whip Master
+206200: jjellison: half-orc: barbarian 28 / bard 2 / red dragon disciple 10: Musclehead
+206224: TeoDeathDealer: dwarf: druid 26 / monk 2 / dwarven defender 12: Nature's Wall - V 2
+206331: Kaliban99: dwarf: monk 10 / fighter 6 / assassin 24: Shifty Shiv
+206474: Jehoshua: human?: wizard 38 / shadowdancer 2: Dark Wizard
+206501: grizzled_dwarflord: dwarf: fighter 6 / champion of Torm 14 / rogue 20: The Incredible Fighting Rogue of War
+206734: darkfire_arrow01: halfling: rogue 29 / fighter 10 / shadowdancer 1: Kukris Sting
+206744: Nimueh_Leafbow: elf: bard 7 / shadowdancer 13 / arcane archer 20: (Bard 7/SD 13/AA 20)
+206803: SovranSpecific: human: fighter 10 / weapon master 28 / bard 2: Humming Hurricane of Horror
+206857: SovranSpecific: human: fighter 11 / weapon master 28 / bard 1: Humming Hurricane of Horror v2
+207097: pulse cap: halfling: rogue 29 / fighter 10 / shadowdancer 1: Sneaky Sniper
+207238: Mithdradates: halfling: fighter 8 / rogue 13 / weapon master 19: Shin Slasher
+207368: grizzled_dwarflord: dwarf?: rogue 20 / fighter 10 / shadowdancer 10: The Black Blade of Moradin
+207590: FinneousPJ: human: bard 16 / blackguard 8 / pale master 16: Paragon of Vice
+207622: Abadname: dwarf: monk 20 / dwarven defender 14 / fighter 6: Gutsy Monk
+207643: Kamiryn: human?: monk 13 / fighter 8 / weapon master 19: The Kensai
+207678: chsmi: dwarf: monk 9 / cleric 15 / dwarven defender 16: Self-Reliant
+207821: fernandooa: human?: fighter 12 / rogue 10 / cleric 18: Disciple of mask
+207863: chsmi: dwarf: monk 15 / cleric 15 / champion of Torm 10: Self-Reliant Monk V2
+207879: Ithacan: human?: sorcerer 21 / monk 9 / red dragon disciple 10: Walks with Dragon and Big Sword (v.1)
+207926: Master Goodheart: dwarf: monk 20 / dwarven defender 14 / fighter 6: Monk of the Gollem Order {Modified Gutsy Monk}
+207941: christian.schnabel: human?: fighter 16 / bard 8 / shadowdancer 16: Shadowsong Knight
+207983: Ithacan: human?: sorcerer 21 / monk 9 / red dragon disciple 10: Walks with Dragon and Big Sword (v.2)
+208015: TeoDeathDealer: dwarf: rogue 24 / dwarven defender 14 / shadowdancer 2: Sneaky Defender
+208029: grizzled_dwarflord: dwarf?: fighter 8 / rogue 2 / assassin 30: The DeathStroke
+208115: Anglashell: human: paladin 20 / cleric 16 / Harper scout 4: The Holy Negotiator
+208139: dmuzzy: human?: cleric 22 / bard 8 / red dragon disciple 10: WarPriest of the Dragonlords
+208249: Mithdradates: human: bard 17 / fighter 10 / rogue 13: Raucous Raider
+208450: grizzled_dwarflord: human?: rogue 5 / fighter 10 / blackguard 25: His Infernal Mistress
+208475: Stravinsky00: dwarf?: fighter 6 / cleric 15 / assassin 19: Duergar Divine Assassin of Cyric
+208540: Krsboss: dwarf: bard 6 / red dragon disciple 20 / champion of Torm 14: (The Baron)
+208634: harl3quin: dwarf: fighter 7 / dwarven defender 10 / champion of Torm 10: Fighter 7 / DwD 10 / CoT 10
+208636: harl3quin: halfling?: rogue 10 / ranger 25 / shadowdancer 5: Rogue 10 / Ranger 25 / Shadow Dancer 5
+208726: hads78: human?: ranger 14 / sorcerer 16 / red dragon disciple 10: Ranger 14 / Sorc 16 / RDD 10
+208798: TeoDeathDealer: dwarf: rogue 25 / dwarven defender 14 / shadowdancer 1: Sneaky Dodgy Defender
+208915: Edyukated: dwarf: fighter 10 / monk 20 / dwarven defender 10: fighter 10/Monk 20/ DwarvenDefender 10
+208957: pulse cap: human: druid 28 / monk 2 / shifter 10: Rakshasa Druid
+209008: Amazon Queen: human: druid 5 / shifter 17 / assassin 18: Nature's Dark Avenger
+209021: Fonzdude: gnome: barbarian 16 / blackguard 24: Abused Garden Gnome
+209052: IppyDip: dwarf: fighter 8 / champion of Torm 6 / dwarven defender 26: The Resistant Wall
+209262: Kalmar_Oxin: human: monk 30 / fighter 5 / shadowdancer 5: Master of Evasion
+209339: ragnaroque: halfling: rogue 19 / druid 5 / shifter 16: The Grifter
+209541: christian.schnabel: human?: rogue 15 / cleric 15 / champion of Torm 10: Divine Swords of Torm
+209708: christian.schnabel: human?: bard 32 / red dragon disciple 4 / paladin 4: Draconic Bard
+209811: Ithacan: human?: bard 22 / fighter 8 / red dragon disciple 10: Sings with Dragon (and Big Sword)
+209844: grizzled_dwarflord: human: bard 16 / fighter 2 / blackguard 22: The Shrike
+209861: MayhemST: human: ranger 20 / monk 1 / blackguard 19: Ranger20/Monk1/Blackguard19
+209866: Stravinsky00: human?: cleric 26 / monk 6 / champion of Torm 8: The Divine Dervish of Torm
+209899: Kaliban99: human: cleric 27 / champion of Torm 10 / monk 3: Robed Disciple of Light
+209923: Ithacan: human?: champion of Torm 8 / bard 22 / red dragon disciple 10: True Dragon Knight Herald
+209952: SovranSpecific: dwarf: monk 9 / shadowdancer 5 / dwarven defender 26: Dwarven Brick
+209984: Kaliban99: human: monk 10 / blackguard 25 / shadowdancer 5: Wicked Acolyte
+210002: Krsboss: human: bard 6 / red dragon disciple 10 / weapon master 24: Spear of Destiny
+210131: christian.schnabel: dwarf: dwarven defender 22 / rogue 18: The Melee Void
+210148: Dropbear1967: dwarf: druid 14 / dwarven defender 22 / monk 4: Dragon Defender
+210267: FinneousPJ: elf: bard 16 / arcane archer 20 / paladin 4: The Spoken Horns of Desolation~
+210313: Sirfin: elf: rogue 19 / fighter 14 / weapon master 7: Epic StealthBlade
+210371: Kalisman77: elf: rogue 16 / fighter 14 / weapon master 10: Elven Duelist
+210415: lendorallen: elf: monk 9 / shadowdancer 5 / assassin 26: The Drow Assassin
+210513: DaMouse404: gnome: wizard 28 / pale master 10 / shadowdancer 2: Magical Mystical Skeletal Shadowdancer Dude!
+210679: christian.schnabel: human?: paladin 17 / sorcerer 18 / Harper scout 5: Harper Spellsword
+210698: Cinnabar Din: dwarf: fighter 10 / bard 8 / weapon master 22: Dwarven Hammersong
+210802: Kaliban99: dwarf: rogue 20 / fighter 6 / champion of Torm 14: The Thug of Torm
+210847: Cinnabar Din: human?: bard 15 / cleric 15 / blackguard 10: Black Skald
+210868: christian.schnabel: halfling?: ranger 31 / fighter 4 / Harper scout 5: Rogue's Companion
+210888: Kalisman77: halfling: rogue 21 / fighter 12 / weapon master 7: Halfling Duelist
+210948: Krsboss: dwarf: rogue 14 / dwarven defender 18 / fighter 8: Dodgy Defender
+210982: FinneousPJ: gnome: barbarian 28 / bard 2 / red dragon disciple 10: The Mighty And Terrifying And Thundering Gnomish Barbarian
+210983: Ithacan: human?: cleric 19 / bard 11 / red dragon disciple 10: Holy Dragon Song
+210994: Drallimer: halfling?: bard 8 / shadowdancer 10 / assassin 22: The Hypocritical Songmistress
+211013: nw113: human: cleric 16 / blackguard 13 / rogue 11: The Anti-Paladin
+211138: Ithacan: human: paladin 16 / champion of Torm 8 / weapon master 16: Knight of the Sword Rebuild (v.2)
+211147: Jehoshua: human?: druid 15 / monk 6 / shifter 19: Dragon Lord
+211167: grizzled_dwarflord: human?: ranger 11 / monk 10 / weapon master 19: The Preying Mantis
+211231: Cinnabar Din: human?: rogue 25 / fighter 10 / Harper scout 5: Ultimate Rogue
+211260: Amazon Queen: human: monk 6 / paladin 15 / shadowdancer 19: A Disgrace to the Family
+211370: Talamier: human?: monk 21 / sorcerer 1 / red dragon disciple 18: The Disciple of Health
+211377: Talamier: dwarf: fighter 14 / weapon master 7 / dwarven defender 19: Dwarven Biting Wall
+211416: Faign: human: monk 20 / wizard 4 / pale master 16: Immunizer
+211432: Faign: human?: paladin 21 / red dragon disciple 10 / sorcerer 9: Wrath of God
+211456: Aldaelyn: elf?: rogue 25 / wizard 5 / pale master 10: Death Rogue
+211497: Krsboss: gnome: wizard 38 / paladin 1 / monk 1: Gnomish Mage of Death
+211533: grizzled_dwarflord: human?: ranger 10 / fighter 4 / assassin 26: The Huntress
+211607: Ithacan: human?: monk 12 / cleric 18 / champion of Torm 10: Walks with God Rebuild
+211675: dmuzzy: human?: bard 16 / weapon master 8 / pale master 16: Vlaahd the Impaler
+211779: Cinnabar Din: human?: ranger 23 / cleric 12 / Harper scout 5: Harper Lumberjack
+211821: PfhorAiur: dwarf?: monk 23 / druid 17: fighting dragon
+211824: Grimnir77: dwarf: rogue 4 / fighter 8 / blackguard 28: Charismatic dwarf v.1
+211825: Grimnir77: dwarf: bard 5 / red dragon disciple 10 / blackguard 25: Charismatic dwarf v.2
+211851: mphacon: human?: paladin 4 / monk 6 / champion of Torm 30: The Right Hand of Torm
+211853: Rooker1963: dwarf: fighter 10 / dwarven defender 14 / weapon master 16: Dwarven War Master II
+211862: mphacon: human?: barbarian 16 / bard 16 / champion of Torm 8: The Banshee
+211929: Do0mRo: dwarf: monk 20 / wizard 4 / pale master 16: Undead Dwarf
+211992: mphacon: dwarf?: barbarian 17 / assassin 10 / rogue 13: Eidolon
+212002: Cinnabar Din: human?: paladin 17 / champion of Torm 18 / Harper scout 5: Harper's Champion
+212029: Cinnabar Din: human?: barbarian 16 / fighter 2 / blackguard 22: Rage Against the Light
+212114: Sirfin: elf: rogue 17 / fighter 16 / weapon master 7: Quirky Kurki
+212244: grizzled_dwarflord: human: fighter 14 / shadowdancer 1 / assassin 25: The Assassin King
+212315: Kaliban99: elf: fighter 14 / assassin 25 / shadowdancer 1: Drow Slayer  (Dex-Based)
+212319: Talamier: elf?: cleric 20 / wizard 1 / arcane archer 19: Cleric of the Bow
+212333: christian.schnabel: human?: bard 14 / pale master 16 / champion of Torm 10: Shadow's Bane
+212389: FinneousPJ: gnome: bard 16 / paladin 14 / red dragon disciple 10: Gnome Paladin
+212426: Arfra: halfling: bard 20 / rogue 19 / ranger 1: Sound of Silence
+212521: Jennalee: elf: monk 10 / wizard 3 / arcane archer 27: The Wise and Alert Archer
+212559: Cinnabar Din: human?: fighter 13 / Harper scout 5 / champion of Torm 22: The Guardsman
+212595: ChaoticBlades: human?: cleric 34 / champion of Torm 6: Cleric34/CoT6
+212624: Cinnabar Din: half-orc?: fighter 16 / Harper scout 5 / weapon master 19: Harper's Vengeance
+212627: Cinnabar Din: dwarf: fighter 16 / Harper scout 5 / weapon master 19: Harper's Vengeance, Dwarf Version
+212657: Bruce Lee 72: human: bard 6 / red dragon disciple 10 / pale master 24: Palemaster tank
+212690: fernandooa: human?: ranger 23 / rogue 13 / fighter 4: Veteran Ranger
+212705: Cinnabar Din: human?: ranger 26 / shadowdancer 7 / weapon master 7: The Baneblade
+212733: Sikk: dwarf: fighter 8 / shadowdancer 10 / dwarven defender 22: CrashTest Dummy 1a
+212750: Jennalee: elf: ranger 21 / champion of Torm 18 / monk 1: Bane of Sneaky Types
+212801: aquamoeba: human?: bard 10 / red dragon disciple 10 / fighter 20: The Great Wyrm
+212877: Cinnabar Din: dwarf: fighter 10 / wizard 12 / dwarven defender 18: The Mystic Wall
+212903: Sikk: dwarf: monk 17 / shadowdancer 5 / dwarven defender 18: CrashTest Dummy 2a
+212945: I...Samphus: human?: bard 26 / fighter 4 / red dragon disciple 10: Taloned Wandering Minstrel
+213050: grizzled_dwarflord: human?: barbarian 16 / shadowdancer 1 / assassin 23: Heart of Darkness
+213089: Cinnabar Din: human?: bard 15 / cleric 15 / red dragon disciple 10: Scion of the Wyrm
+213200: Jennalee: human: rogue 29 / ranger 10 / shadowdancer 1: The Trapmaster
+213272: Jehoshua: human?: fighter 6 / sorcerer 4 / red dragon disciple 30: Red Dragon Knight
+213292: Talamier: elf?: wizard 38 / monk 1 / rogue 1: The Evasive Wizard of Death
+213362: christian.schnabel: human?: ranger 17 / paladin 18 / Harper scout 5: Forest Order of the Tiny Blade
+213417: Krsboss: elf?: bard 11 / pale master 10 / weapon master 19: The Pale Weapon Master
+213438: Robles: elf?: fighter 12 / weapon master 13 / cleric 15: Tweek Build
+213506: Ithacan: human?: monk 9 / sorcerer 21 / red dragon disciple 10: Serene Draco-Nuker
+213518: pulse cap: human: bard 6 / fighter 12 / weapon master 22: Veteran Soldier
+213627: Jennalee: human: druid 32 / fighter 4 / champion of Torm 4: Warden of the Forest
+213646: Grimnir77: human?: ranger 26 / assassin 14: Adventurer's Bane
+213759: theshadow0015: human: bard 15 / cleric 15 / champion of Torm 10: Diva of the Goddess
+213783: Talamier: human?: fighter 14 / weapon master 20 / monk 6: The Humble Samurai
+213793: aluka: human?: cleric 23 / weapon master 16 / rogue 1: Cleric Vagabond
+213833: I...Samphus: human: bard 4 / cleric 20 / pale master 16: Priestess of the Damned
+213848: TeoDeathDealer: elf?: druid 13 / wizard 1 / arcane archer 26: Natures Bowman
+213860: Talamier: human?: fighter 12 / weapon master 19 / monk 9: The Humble Samurai v2
+213875: grizzled_dwarflord: dwarf?: rogue 24 / fighter 6 / champion of Torm 10: Death's Rival
+214007: Kail Pendragon: dwarf: rogue 16 / dwarven defender 22 / fighter 2: Concealed Wall
+214141: Kaliban99: human: bard 12 / barbarian 20 / champion of Torm 8: The Siren of the Steppes
+214152: Cinnabar Din: dwarf?: fighter 24 / bard 8 / red dragon disciple 8: The Dualist
+214324: chsmi: human?: barbarian 4 / blackguard 16 / druid 20: The Vengeful, Wicked Spirit
+214385: Defunc7: human?: ranger 21 / shadowdancer 10 / assassin 9: Fellwood Lurker
+214402: Notthesmartmark: human?: wizard 23 / cleric 11 / fighter 6: Red Mage!!
+214587: Jennalee: human: druid 28 / fighter 4 / champion of Torm 8: Warden of the Forest (ranged, casting version)
+214597: Xylophone: halfling: cleric 38 / monk 1 / shadowdancer 1: Death From Below
+214634: Xylophone: human: monk 16 / rogue 19 / Harper scout 5: Harper Ninja
+214700: Cinnabar Din: human: paladin 15 / cleric 15 / champion of Torm 10: Champion Protector
+214892: hads78: elf?: wizard 19 / arcane archer 9 / fighter 12: Wizard 19 / Arcane Archer 9 / Fighter 12
+215026: fernandooa: elf?: rogue 9 / wizard 2 / arcane archer 29: Arcane Sniper
+215056: Kaliban99: human?: fighter 11 / weapon master 7 / assassin 22: Death Becomes You
+215105: Jennalee: elf: rogue 17 / fighter 16 / weapon master 7: Elven Bladedancer
+215133: Xylophone: human?: monk 21 / wizard 3 / pale master 16: Master of the Long Death
+215152: DarkInfernoo: halfling: druid 7 / monk 3 / assassin 30: Forest Imp
+215154: DarkInfernoo: dwarf: druid 5 / shifter 10 / bard 25: True Liches Lyrics
+215165: Talamier: human?: rogue 8 / fighter 12 / shadowdancer 20: The Shadow Tank
+215245: theshadow0015: human: fighter 14 / bard 16 / red dragon disciple 10: The Tendorizing Tenor
+215251: DarkInfernoo: elf?: bard 21 / paladin 4 / arcane archer 15: Singing Bow
+215254: DarkInfernoo: gnome: wizard 28 / pale master 10 / shadowdancer 2: Waagh the Goblin
+215271: KingHarbromm: dwarf?: barbarian 32 / fighter 8: Kuldjargh
+215308: christian.schnabel: human: ranger 23 / champion of Torm 10 / weapon master 7: Ranging Slayer
+215334: Jennalee: human: monk 12 / fighter 6 / blackguard 22: Infernal Mantis
+215377: Xylophone: dwarf: fighter 4 / cleric 26 / dwarven defender 10: Dwarven Warpriest
+215642: Bromium: half-orc?: barbarian 24 / bard 3 / pale master 13: Undead Terror
+215664: Cinnabar Din: halfling?: rogue 17 / wizard 18 / Harper scout 5: Mystic Mosquito
+215720: SomeElvenDude: human: bard 20 / red dragon disciple 10 / champion of Torm 10: Dance the Jig of Death
+215721: SomeElvenDude: gnome: sorcerer 38 / cleric 1 / monk 1: Monastic Mage Madness
+215724: SomeElvenDude: dwarf: paladin 20 / bard 4 / pale master 16: Undead Death Dealer
+215728: SomeElvenDude: elf: arcane archer 29 / monk 6 / bard 5: Run and Gun
+215735: Pendragon2u: human?: bard 9 / pale master 16 / weapon master 15: Undead Wall
+215742: FinneousPJ: human: bard 16 / blackguard 19 / Harper scout 5: Unholy Harper
+215845: Faign: human: fighter 20 / bard 4 / pale master 16: DeathDozer
+215866: Grimnir77: half-orc?: fighter 6 / champion of Torm 6 / weapon master 28: Trollborn Asgardian
+215900: grizzled_dwarflord: dwarf: fighter 8 / champion of Torm 10 / dwarven defender 22: The Hearth Guard
+215951: Almalith: elf: paladin 23 / fighter 12 / Harper scout 5: Holy IKDer
+215953: Krsboss: halfling: fighter 22 / Harper scout 5 / shadowdancer 13: Harper's Shadow
+215957: Saosin777: human: paladin 19 / rogue 16 / Harper scout 5: Valiant Scout
+215985: FinneousPJ: human: fighter 12 / paladin 15 / rogue 13: Dexterity Paladin
+216003: dmuzzy: human?: ranger 36 / shadowdancer 4: Balanced Ranger
+216035: DragonLady75: human?: cleric 26 / monk 13 / shadowdancer 1: Obsidia the Healer
+216038: FinneousPJ: human: ranger 21 / paladin 15 / Harper scout 4: Mighty Warrior of the North
+216100: Xylophone: dwarf: fighter 12 / dwarven defender 10 / assassin 18: Iron Blood Assassin
+216179: Xylophone: human?: monk 20 / fighter 7 / weapon master 13: Master of the Whirling Blades
+216273: Wi11oW: elf?: bard 14 / red dragon disciple 10 / pale master 16: The Singing Kukri's
+216295: christian.schnabel: dwarf: ranger 21 / dwarven defender 18 / shadowdancer 1: Defending Archer
+216369: Xylophone: half-elf?: barbarian 21 / bard 2 / arcane archer 17: The Angry Archer
+216405: dmuzzy: human?: wizard 37 / shadowdancer 3: Dark Possessor
+216500: Saosin777: elf: rogue 16 / wizard 5 / arcane archer 19: The Arcane Sniper
+216507: Mick Dagger: elf: bard 14 / shadowdancer 16 / pale master 10: The Ghost
+216509: Do0mRo: dwarf: monk 20 / dwarven defender 14 / fighter 6: Monk 20/DwD 14/Fighter 6
+216553: Crimson Clover: dwarf: fighter 4 / wizard 18 / dwarven defender 18: Magical Dwarf
+216594: Jennalee: human: cleric 26 / bard 4 / red dragon disciple 10: Draconic Cleric
+216596: Kaliban99: human: fighter 8 / bard 8 / champion of Torm 24: Swordmaiden of Torm
+216801: Kail Pendragon: halfling: barbarian 17 / shadowdancer 19 / fighter 4: The Ghost of Fear
+216905: FinneousPJ: human: bard 16 / assassin 15 / fighter 9: The Singing Assassin
+216920: Xylophone: human?: bard 8 / red dragon disciple 10 / blackguard 22: Knight of the Dark Dragon
+217045: grizzled_dwarflord: human?: barbarian 5 / bard 17 / champion of Torm 18: The Valkyrie
+217077: Bruce Lee 72: dwarf: monk 4 / fighter 26 / champion of Torm 10: Dwarven expert
+217140: Mick Dagger: human: paladin 26 / fighter 4 / champion of Torm 10: Guardian of Light
+217146: mistertrinity: human: druid 21 / shifter 17 / monk 2: Zelle's Son - Epic Shifter
+217221: Xylophone: elf: ranger 23 / barbarian 3 / champion of Torm 14: Elven Battlechaser
+217289: Ithacan: human?: monk 6 / paladin 15 / weapon master 19: At One with Holy Avenger
+217340: KingHarbromm: dwarf?: druid 5 / monk 18 / shifter 17: Pikel's Better Half
+217356: Jennalee: dwarf: rogue 16 / dwarven defender 14 / champion of Torm 10: Blessed Dodging Defender
+217363: Do0mRo: human: wizard 6 / fighter 6 / pale master 28: Wizard 6/Fighter 6/Pale Master 28
+217386: Bearke: human: paladin 14 / bard 16 / red dragon disciple 10: The Holy Dragon
+217475: Ythaniel: elf: wizard 11 / pale master 16 / assassin 13: Gravewalker Assassin
+217489: Jennalee: human: ranger 26 / fighter 4 / shadowdancer 10: Wilderness Scout
+217525: KingHarbromm: human?: bard 5 / pale master 16 / blackguard 19: Champion of Orcus
+217589: Xylophone: human?: barbarian 21 / rogue 11 / champion of Torm 8: The Brash Adventurer-Hero
+217594: Grimnir77: human?: barbarian 28 / fighter 12: Viking Berserker
+217645: Xylophone: human?: fighter 6 / bard 24 / champion of Torm 10: The Veteran Party-Leader
+217727: Jennalee: elf: bard 11 / champion of Torm 10 / arcane archer 19: Singer of Blade and Bow
+217736: I...Samphus: dwarf: cleric 16 / dwarven defender 18 / champion of Torm 6: Avatar of the Dwarven Lord
+217763: Ithacan: human?: bard 14 / pale master 16 / red dragon disciple 10: Undead Dragon Skald
+217781: LuckyLion: human: sorcerer 26 / red dragon disciple 10 / blackguard 4: Black Dragon
+217784: Xylophone: human?: wizard 26 / pale master 10 / shadowdancer 4: The Shadowmancer
+217796: avado: elf: cleric 23 / weapon master 7 / shadowdancer 10: the TS SECRET Divine Agent
+217826: Xylophone: human: fighter 4 / wizard 22 / champion of Torm 14: Godtouched Spellsword
+217827: Saosin777: human: ranger 21 / bard 5 / pale master 14: The Tormented Warden
+217830: Saosin777: human: barbarian 15 / blackguard 25: The Burning
+217888: FinneousPJ: dwarf: monk 21 / shadowdancer 5 / dwarven defender 14: D-Fence
+217926: Ythaniel: human: wizard 5 / pale master 10 / assassin 25: Gravewalker Assassin (v. 2)
+217929: Ithacan: human: bard 10 / pale master 16 / red dragon disciple 14: Bardic Dracolich Rebuild
+218161: TeoDeathDealer: human?: fighter 5 / wizard 5 / pale master 30: Necromantic Skulldriver
+218165: Cinnabar Din: dwarf?: fighter 14 / rogue 13 / wizard 13: Adaptable Adventurer
+218196: Xylophone: human?: monk 20 / cleric 19 / rogue 1: Vagabond Saint
+218199: Grimnir77: dwarf: ranger 26 / blackguard 13 / shadowdancer 1: Sinister Dwarven Lord
+218220: krsboss: dwarf: bard 4 / fighter 26 / pale master 10: the Unknown Warrior
+218241: Kail Pendragon: dwarf?: barbarian 17 / weapon master 19 / fighter 4: Master of the Wild Axe
+218243: dmuzzy: human?: paladin 15 / weapon master 22 / shadowdancer 3: Order of Gungnir
+218246: Grimnir77: gnome?: wizard 25 / rogue 10 / shadowdancer 5: The Galdring Pukje
+218273: jjjhhhlll: gnome: wizard 29 / pale master 10 / monk 1: Punchy the Lich
+218275: christian.schnabel: human?: druid 24 / monk 6 / champion of Torm 10: Nature's Spellsword
+218282: Bad213Boy: human?: bard 23 / weapon master 7 / red dragon disciple 10: Whirling Death Warlord
+218329: Xylophone: human?: paladin 4 / sorcerer 26 / champion of Torm 10: Blessed Knight of Mystra
+218337: Xylophone: elf: monk 19 / blackguard 16 / shadowdancer 5: Black-Hearted Shadow Elf
+218348: Do0mRo: dwarf: weapon master 25 / fighter 6 / monk 9: Kama Master
+218376: Kail Pendragon: dwarf: rogue 19 / dwarven defender 19 / fighter 2: Concealed Wall V.2  ED/SCIV
+218378: Kail Pendragon: dwarf: rogue 24 / dwarven defender 14 / fighter 2: Concealed Wall V.3 ED/SCV
+218379: Kail Pendragon: dwarf: rogue 20 / dwarven defender 14 / fighter 6: Concealed Wall V.4 ED/SCIV/dual wield
+218429: Xylophone: human?: paladin 8 / champion of Torm 10 / blackguard 22: Fallen Templar
+218508: Xylophone: human?: cleric 14 / barbarian 4 / blackguard 22: Infernal Crusader
+218638: jayvindr: human: cleric 23 / champion of Torm 10 / weapon master 7: Odin's Fury
+218653: Xylophone: dwarf: fighter 28 / bard 2 / red dragon disciple 10: Munchkin the Dwarf Dragon Wannabe
+218720: Jennalee: human: barbarian 24 / bard 6 / red dragon disciple 10: Fireblooded Rager
+218777: Bruce Lee 72: gnome?: monk 9 / fighter 5 / wizard 26: The kensai mage
+218820: Kaliban99: dwarf: cleric 26 / fighter 6 / champion of Torm 8: Dwarven Priest of the Axes
+218824: grizzled_dwarflord: dwarf?: rogue 20 / fighter 10 / champion of Torm 10: The Last Great Bounty Hunter
+219058: Bad213Boy: human?: bard 14 / red dragon disciple 10 / blackguard 16: Fallen Angel
+219059: Xylophone: human: cleric 29 / champion of Torm 10 / monk 1: Crusader of Torm *Melee*
+219060: Xylophone: human: cleric 29 / champion of Torm 10 / monk 1: Crusader of Torm *Caster*
+219155: Jennalee: human: ranger 16 / monk 11 / rogue 13: The Sneaky Tree Monkey
+219187: Jennalee: human: rogue 19 / monk 11 / champion of Torm 10: Holy Infiltrator
+219251: Grimnir77: halfling?: rogue 13 / shadowdancer 1 / assassin 26: Tiny Reaper
+219263: Kail Pendragon: halfling?: rogue 25 / ranger 10 / Harper scout 5: The Field Scout
+219313: christian.schnabel: elf?: barbarian 24 / ranger 11 / Harper scout 5: Forest's Fury
+219413: grizzled_dwarflord: elf: fighter 14 / bard 4 / arcane archer 22: The Iron Archer
+219417: Jennalee: half-elf: fighter 12 / wizard 13 / arcane archer 15: Divided Heritage
+219440: _bgwells_: elf: rogue 29 / fighter 6 / Harper scout 5: Lone Harper
+219453: D O'Brien123: elf: cleric 15 / monk 6 / weapon master 19: Nameless one II
+219496: Azclown: human?: monk 12 / shadowdancer 5 / weapon master 23: Monk 12/Shadowdancer 5/WM 23
+219507: Ithacan: human?: rogue 3 / paladin 2 / sorcerer 35: Holy Nuker Rebuild
+219526: Ithacan: human?: wizard 3 / pale master 16 / monk 21: One with Death
+219560: christian.schnabel: half-elf?: fighter 6 / wizard 17 / arcane archer 17: Arcane Retribution
+219570: Xylophone: human?: cleric 26 / shadowdancer 13 / monk 1: Shadow Caster
+219602: Ithacan: human: rogue 2 / paladin 2 / sorcerer 36: Holy Nuker Rebuild V.2
+219603: _bgwells_: human: sorcerer 24 / bard 16: Singing Death
+219615: Grimnir77: human?: paladin 10 / blackguard 20 / champion of Torm 10: Enforcer of Balance
+219620: FinneousPJ: human: bard 16 / paladin 4 / champion of Torm 20: White Light
+219682: Xylophone: human?: monk 30 / fighter 5 / shadowdancer 5: Spellproofed Shadowstalker
+219694: D O'Brien123: human: bard 20 / blackguard 2 / sorcerer 18: Epically annoying rockstar
+219695: Xylophone: human?: druid 28 / monk 10 / shadowdancer 2: Mystic Druid
+219737: Xylophone: dwarf: wizard 29 / dwarven defender 10 / monk 1: Arcane Bastion
+219748: Bad213Boy: human?: bard 14 / red dragon disciple 10 / blackguard 16: Fallen Angel (Repost)
+219819: D O'Brien123: dwarf: bard 26 / blackguard 4 / red dragon disciple 10: Dwarf (bard 26/BG4/RDD 10
+219949: christian.schnabel: human: paladin 15 / monk 18 / rogue 7: Witchhunter
+219952: christian.schnabel: human: paladin 16 / monk 18 / champion of Torm 6: Witchhunter v.2
+219960: Saosin777: human: sorcerer 23 / red dragon disciple 10 / blackguard 7: Guardian of the Red Wyrm
+219962: Jennalee: elf: bard 8 / arcane archer 9 / assassin 23: Deathbow
+219971: jedi1: elf: cleric 38 / rogue 1 / monk 1: Zen healer
+220025: Ithacan: dwarf: rogue 10 / dwarven defender 14 / paladin 16: Avenging Dwarven Commando
+220027: Ithacan: dwarf: monk 10 / dwarven defender 14 / paladin 16: Holy Walking Wall
+220109: Ithacan: dwarf: wizard 6 / pale master 20 / dwarven defender 14: Wizard Wall of Death
+220204: vozhd: human: sorcerer 21 / weapon master 19: Vicissi
+220205: vozhd: human: rogue 22 / cleric 13 / shadowdancer 5: Divine Shadow Blade
+220206: vozhd: human: bard 8 / red dragon disciple 10 / weapon master 22: Lord An - Dragon Nettle
+220207: vozhd: half-orc: fighter 23 / barbarian 17: Xuldran Gu'tash
+220208: vozhd: half-elf: fighter 4 / wizard 21 / arcane archer 15: Niquity
+220284: Xylophone: human?: sorcerer 26 / cleric 13 / monk 1: Blessed Sorceress
+220293: Khandahr: elf: rogue 20 / shadowdancer 10 / champion of Torm 10: The Crippling Dancer
+220374: Bad213Boy: human?: bard 8 / weapon master 22 / red dragon disciple 10: Draconic Warlord
+220415: Ithacan: human?: bard 11 / weapon master 19 / red dragon disciple 10: All-Offense Dragon Skald
+220436: Jennalee: human: rogue 13 / fighter 8 / weapon master 19: Versatile Weaponmaster
+220454: Xylophone: elf?: fighter 20 / weapon master 7 / shadowdancer 13: Concealed Blademaster
+220471: Saosin777: dwarf: barbarian 23 / champion of Torm 10 / weapon master 7: Child of the Avalanche
+220480: ShayneP: halfling: rogue 28 / fighter 10 / shadowdancer 2: Now you see me
+220491: Bad213Boy: human?: bard 14 / red dragon disciple 10 / weapon master 16: Red Baron
+220579: Xylophone: human?: rogue 16 / champion of Torm 14 / wizard 10: Adept and Adaptable Adventurer
+220640: Ithacan: human?: bard 23 / weapon master 7 / red dragon disciple 10: Singing Dragon Dervish
+220651: christian.schnabel: dwarf: ranger 21 / dwarven defender 14 / rogue 5: Battle Ranger of the North
+220654: Bad213Boy: human?: bard 8 / red dragon disciple 10 / weapon master 22: Smash Mouth
+220720: I...Samphus: elf?: bard 23 / champion of Torm 10 / weapon master 7: Wailing Whiplash
+220723: Ithacan: human?: bard 11 / red dragon disciple 10 / weapon master 19: Dragon Reaper
+220783: Eyethumper: elf: monk 25 / champion of Torm 10 / shadowdancer 5: Tranquil Archer
+220812: jwlademann: human: cleric 23 / monk 10 / weapon master 7: Spear Disciple
+220814: fernandooa: halfling?: rogue 25 / bard 5 / red dragon disciple 10: Nimble thug
+220833: mphacon: dwarf: ranger 29 / fighter 6 / dwarven defender 5: Elfbane
+220903: Kail Pendragon: dwarf: fighter 8 / weapon master 22 / assassin 10: Master of the Deathaxe
+220915: I...Samphus: dwarf: ranger 26 / champion of Torm 10 / shadowdancer 4: Forest Shadow Dwarf
+220961: Kail Pendragon: dwarf: fighter 8 / rogue 10 / weapon master 22: Master of the Deathaxe v.2
+220964: Kail Pendragon: dwarf: bard 8 / red dragon disciple 10 / dwarven defender 22: Draconic Wall
+220967: Jennalee: human: fighter 22 / bard 8 / red dragon disciple 10: Versatile Draconic Warrior
+221017: Ithacan: human?: monk 6 / paladin 16 / champion of Torm 18: Serene Avenger
+221055: grizzled_dwarflord: human: ranger 30 / fighter 4 / assassin 6: A Journeyman Grim
+221069: Xylophone: human?: barbarian 16 / ranger 10 / champion of Torm 14: Wild Woodsman
+221087: Xylophone: human?: wizard 10 / sorcerer 29 / bard 1: Archmage Adept
+221107: fernandooa: elf: monk 9 / shadowdancer 5 / assassin 26: Drow Ninja
+221286: Bad213Boy: human?: bard 17 / red dragon disciple 10 / blackguard 13: Whispering Darkness
+221314: Ithacan: human?: monk 21 / wizard 3 / pale master 16: Death's Monk (Strength Build)
+221315: Ithacan: elf?: monk 21 / wizard 3 / pale master 16: Death's Monk DEX Build
+221452: Bad213Boy: human?: sorcerer 24 / pale master 16: Icing Death
+221485: christian.schnabel: human: ranger 23 / champion of Torm 10 / shadowdancer 7: Forest Shadow
+221684: pocketbeetle: human: wizard 29 / rogue 1 / shadowdancer 10: The SpellDodger
+221720: grizzled_dwarflord: halfling: rogue 19 / fighter 20 / shadowdancer 1: The Shadowboxer
+221837: Cinnabar Din: human?: wizard 29 / cleric 10 / bard 1: Eldritch Crusader
+221882: Xylophone: human?: barbarian 16 / bard 14 / red dragon disciple 10: Metal Siren
+221894: Xylophone: human?: cleric 26 / blackguard 13 / rogue 1: Devilish Knight
+221948: dmuzzy: human?: bard 18 / weapon master 22: A Song in Spring, a Weapon in Winter
+221957: FinneousPJ: human: rogue 10 / ranger 21 / wizard 9: Stalker
+221992: chsmi: human: rogue 11 / monk 10 / weapon master 19: Serene Kensai
+222128: Xylophone: human?: cleric 26 / bard 12 / champion of Torm 2: Angelic Diva
+222147: Cinnabar Din: dwarf?: fighter 12 / cleric 18 / champion of Torm 10: Clangeddin's Wrath
+222157: Tionus: human: barbarian 15 / weapon master 7 / champion of Torm 18: God of War
+222167: Separ: dwarf: monk 11 / dwarven defender 22 / weapon master 7: Bowling Ball
+222231: evo_dragon: elf: bard 5 / arcane archer 19 / pale master 16: PaleMaster Archer
+222247: Freedom-Fighta: elf: cleric 8 / bard 5 / arcane archer 27: The Godstricken Archer
+222251: Xylophone: human?: rogue 17 / cleric 13 / champion of Torm 10: Faithful Adventurer
+222266: Xylophone: halfling?: bard 16 / rogue 16 / champion of Torm 8: Versatile Bladedancer
+222369: Xylophone: half-elf?: bard 8 / rogue 3 / arcane archer 29: Shortbow Sharpshooter
+222430: Ithacan: human?: monk 6 / champion of Torm 8 / cleric 26: Walks with God v. 3
+222447: Xylophone: halfling: rogue 23 / fighter 6 / champion of Torm 11: Halfling Commando
+222545: Veridious: dwarf: fighter 12 / weapon master 25 / rogue 3: Dwarven Avenger
+222567: grizzled_dwarflord: human: paladin 26 / champion of Torm 10 / rogue 4: Knight of the Quest
+222686: pocketbeetle: elf: bard 5 / shadowdancer 16 / pale master 19: The Survivor
+222692: pocketbeetle: human: fighter 12 / rogue 3 / weapon master 25: TwinBlade
+222756: Separ: halfling?: bard 23 / fighter 1 / shadowdancer 16: Battlefield Reporter
+222760: TeoDeathDealer: elf: rogue 10 / shadowdancer 2 / blackguard 28: Sinister Elven Lord
+222761: Maniac_Mailman: halfling: rogue 29 / champion of Torm 10 / bard 1: S.C.S.C.S.S
+222762: jwlademann: human?: cleric 18 / monk 6 / weapon master 16: Spear Disciple (More Melee Focused)
+222793: Veridious: dwarf: fighter 10 / weapon master 7 / dwarven defender 23: The Dwarven Hammer
+222843: _bgwells_: human: bard 12 / weapon master 8 / pale master 20: Pale  Weapon
+222854: anior: halfling: monk 1 / fighter 20 / shadowdancer 19: The Shadowfist
+222888: christian.schnabel: human: ranger 32 / rogue 8: Dark Wolf Mercenary
+222961: christian.schnabel: gnome: cleric 25 / bard 15: Healing, Humming, Support Gnome
+222964: fernandooa: dwarf: druid 8 / shifter 10 / dwarven defender 22: Stone Lord
+223173: Kaliban99: halfling: rogue 20 / bard 15 / shadowdancer 5: The Ghost Slinger
+223201: Separ: human?: barbarian 18 / bard 6 / pale master 16: Chief's undead bodyguard
+223223: FinneousPJ: elf: fighter 10 / blackguard 7 / assassin 23: Blessed Warrior of Lolth
+223238: Ithacan: elf?: rogue 21 / wizard 3 / pale master 16: Deathless Rogue
+223311: Jennalee: halfling: rogue 24 / bard 6 / pale master 10: Little Deathless Sniper
+223351: Deadmoney9951: human?: fighter 12 / wizard 18 / pale master 10: Undead Spellsword
+223491: Talamier: human: druid 8 / shifter 10 / weapon master 22: Soul Harvester
+223524: dmuzzy: human?: druid 29 / champion of Torm 11: Nature(al) Born Killer
+223671: LordAshton: dwarf: fighter 10 / weapon master 28 / rogue 2: Dwarven Decimator
+223730: pocketbeetle: elf: bard 2 / cleric 15 / arcane archer 23: RareBreed
+223838: pocketbeetle: human: cleric 26 / champion of Torm 8 / monk 6: 10 Attack High AB Kama Monk
+223866: krsboss: half-elf: bard 2 / cleric 9 / arcane archer 29: the Divine Archer
+223933: Cinnabar Din: dwarf?: fighter 8 / champion of Torm 10 / weapon master 22: The Rock Warden
+223961: Talamier: human?: druid 25 / shifter 13 / monk 2: Dragon Tank
+223994: juicyplasma: halfling: rogue 23 / ranger 10 / weapon master 7: The Nimble Trapmaster
+224177: Grimnir77: human?: paladin 20 / sorcerer 10 / pale master 10: Eternal Crusader
+224297: Dark Centurion: human: monk 20 / rogue 13 / weapon master 7: Shadow Striker
+224308: jockeb: human: paladin 9 / champion of Torm 24 / weapon master 7: Paladin(9)/Champion of Torm(24)/Weapon Master(7)
+224443: Dralik Galley: human: monk 10 / fighter 4 / assassin 26: DeathFist
+224457: jockeb: dwarf: monk 25 / fighter 10 / shadowdancer 5: Monk(25) / Fighter(10) / Shadowdancer(5)
+224527: jjjhhhlll: elf?: bard 3 / cleric 16 / arcane archer 21: Charismatic Divine Archer
+224534: Talamier: dwarf: fighter 12 / weapon master 19 / monk 9: Dwarven Axe Master
+224576: Kail Pendragon: dwarf: fighter 6 / champion of Torm 8 / weapon master 26: Dwarven Master Slicer
+224576#: Kail Pendragon: dwarf: fighter 8 / champion of Torm 10 / weapon master 22: Dwarven Master Slicer
+224582: Kail Pendragon: human?: cleric 26 / champion of Torm 10 / fighter 4: Holy Imploder
+224634: Cinnabar Din: human?: rogue 32 / fighter 2 / champion of Torm 6: The Subtle Axe
+224683: KingHarbromm: dwarf: fighter 8 / monk 2 / dwarven defender 30: The Epitome of Defense  [repost]
+224927: Edmonds10101: human: fighter 10 / weapon master 8 / blackguard 22: Heaven's Bane
+225021: ShayneP: human: fighter 40: You want to fight? Fight me!
+225040: Almalith: human?: sorcerer 28 / pale master 10 / blackguard 2: Doom Lich
+225070: Edmonds10101: human?: cleric 16 / champion of Torm 10 / fighter 14: Torm's Own
+225083: treefq: human: bard 23 / druid 15 / monk 2: Dragonsinger
+225094: FinneousPJ: dwarf: druid 23 / fighter 10 / weapon master 7: Nature Misanthrope
+225107: Xylophone: human?: druid 5 / monk 7 / shifter 28: Master of Monstrous Powers
+225147: Kail Pendragon: halfling?: rogue 19 / weapon master 19 / fighter 2: Stealthy Blade of Doom
+225184: Bearke: human: bard 20 / blackguard 4 / pale master 16: Hell's Jester
+225316: pocketbeetle: halfling: rogue 19 / ranger 15 / monk 6: Death Cometh with 92 Hide
+225446: Kail Pendragon: human?: cleric 25 / druid 14 / monk 1: Order of Jormundgandr
+225451: Kail Pendragon: human: bard 20 / druid 14 / monk 6: Dragon's Song
+225491: Bearke: dwarf: fighter 6 / weapon master 8 / dwarven defender 26: An Ancient wall
+225555: Grimnir77: human?: rogue 20 / shadowdancer 1 / weapon master 19: Graceful Shadow
+225681: Freedom-Fighta: half-orc: ranger 26 / bard 4 / red dragon disciple 10: Pain
+225720: norsksvaerd: human: barbarian 21 / druid 12 / weapon master 7: Barb 21 / Druid 12 / WM 7
+225787: Dralik Galley: human: ranger 21 / cleric 12 / weapon master 7: Bane Scythe
+225896: Tattoed Monk: halfling?: rogue 28 / monk 6 / fighter 6: Felonius Monk
+225898: Dralik Galley: human: ranger 10 / wizard 3 / assassin 27: MistBlade
+225913: Maniac_Mailman: human: fighter 6 / rogue 12 / champion of Torm 22: His Divine Mistress
+225931: koolthursday: human: cleric 26 / rogue 13 / shadowdancer 1: The Hermit
+225940: Talamier: dwarf: fighter 8 / weapon master 22 / dwarven defender 10: Slice 'n Soak
+225945: Talamier: dwarf: fighter 16 / monk 2 / weapon master 22: Dwarven Axe Master V2
+226013: dmuzzy: elf?: wizard 32 / rogue 8: Arcane Scoundrel
+226113: grizzled_dwarflord: halfling: rogue 25 / Harper scout 5 / fighter 10: Harper Negotiator v2
+226176: krsboss: human: bard 8 / red dragon disciple 10 / blackguard 22: the Draconic Smiter
+226287: Rooker1963: dwarf: paladin 9 / weapon master 13 / dwarven defender 18: The Holy Wall
+226297: Dark Centurion: human: ranger 9 / shadowdancer 1 / assassin 30: Silent Assassin
+226456: Talamier: dwarf?: barbarian 26 / bard 4 / pale master 10: Undead Barbarian
+226517: Tattoed Monk: dwarf?: monk 30 / champion of Torm 6 / fighter 4: Temple Guardian  - Kama Version
+226851: Jehoshua: human?: druid 32 / monk 7 / shadowdancer 1: Universal Dragon
+226898: ShayneP: halfling?: rogue 40: Spiked Barbarian Food
+227009: grizzled_dwarflord: halfling: fighter 14 / shadowdancer 1 / rogue 25: Zhentarim Field Agent
+227074: Grimnir77: human: sorcerer 20 / pale master 10 / champion of Torm 10: Deathknight of Torm
+227075: Grimnir77: human: sorcerer 20 / red dragon disciple 10 / champion of Torm 10: Torms golden Girl
+227146: Nimueh_Leafbow: elf: cleric 23 / arcane archer 15 / wizard 2: Mystra's Bow
+227221: Separ: human?: cleric 19 / rogue 2 / weapon master 19: Piercing the Heart
+227417: Separ: human?: wizard 26 / fighter 12 / Harper scout 2: Arcane Harper Warrior
+227484: Nimueh_Leafbow: halfling: rogue 20 / weapon master 19 / shadowdancer 1: Hatchetman
+227920: GhostNWN: human: druid 40: Elementalist Spellcaster
+227923: GhostNWN: human: paladin 40: Holy Avenger
+228012: dust7: human: cleric 35 / monk 3 / shadowdancer 2: Shadowpriest
+228042: GhostNWN: dwarf: rogue 40: Iconic Rogue
+228069: ritt0093: dwarf: ranger 10 / dwarven defender 14 / shadowdancer 16: Tough Dwarf
+228272: Tattoed Monk: human?: paladin 10 / champion of Torm 30: Maximum CoT
+228297: Tattoed Monk: human?: paladin 20 / champion of Torm 4 / bard 16: Knight who says Nee!
+228306: I...Samphus: human?: cleric 40: Divine Will
+228323: Nimueh_Leafbow: elf: bard 8 / red dragon disciple 10 / shadowdancer 22: Ethereal Dragon
+228336: ShayneP: half-orc: monk 40: The Great Green Hope
+228407: Kail Pendragon: human?: druid 30 / champion of Torm 4 / monk 6: Nature's Wyrm
+228467: Nimueh_Leafbow: human: druid 7 / shifter 11 / weapon master 22: Risen Master
+228480: Mick Dagger: dwarf: fighter 40: Feat Master - fighter version
+228513: I...Samphus: dwarf: barbarian 40: Deafening Dwarven Beserker
+228531: Kail Pendragon: halfling?: cleric 26 / rogue 4 / shadowdancer 10: The Praying Shadow
+228563: dust7: human?: cleric 28 / bard 2 / red dragon disciple 10: Divine Spellsword
+228656: Cinnabar Din: dwarf: fighter 8 / wizard 10 / weapon master 22: Dwarven Spellsword
+228702: DarkStar27909: dwarf: barbarian 28 / champion of Torm 10 / rogue 2: Dwarf o' the North
+228743: Cinnabar Din: gnome?: bard 8 / red dragon disciple 10 / blackguard 22: A Pint of Evil
+228750: The Sneaky Sneaker: human: bard 20 / cleric 18 / blackguard 2: The Happy Helper
+228860: Nimueh_Leafbow: human: barbarian 17 / rogue 19 / blackguard 4: The Hand of Despair
+228938: I...Samphus: dwarf?: fighter 10 / weapon master 30: Moradin's Hammer
+229015: The Sneaky Sneaker: elf: bard 20 / red dragon disciple 10 / shadowdancer 10: Shadow Drake
+229039: treefq: human: druid 15 / barbarian 16 / monk 9: Dragon the Barbarian
+229114: coreyb: dwarf: rogue 14 / fighter 4 / dwarven defender 22: The Masterful Barricade
+229118: jwp20: half-orc: fighter 40: Me Big Man
+229130: coreyb: half-orc: barbarian 40: The Orcish Savage
+229136: Mick Dagger: half-orc: ranger 40: Bane of all
+229185: I...Samphus: elf: bard 12 / champion of Torm 10 / arcane archer 18: Corellon's Chanteuse
+229249: coreyb: human?: bard 25 / shadowdancer 2 / blackguard 13: Evanescent  Canticle
+229276: Grimnir77: elf: ranger 40: Pathfinder
+229426: Nimueh_Leafbow: elf: bard 10 / arcane archer 30: Iconic Arcane Archer
+229444: Grimnir77: human?: ranger 35 / fighter 4 / bard 1: Nature's Executioner
+229497: Talamier: human?: ranger 10 / shadowdancer 2 / assassin 28: Shadow Stalker
+229516: Blake Whelm: human: ranger 19 / monk 6 / rogue 15: Ranger of the Fist
+229579: ArcticDwarf900: dwarf: fighter 7 / dwarven defender 26 / weapon master 7: The Masterful Wall
+229596: Blake Whelm: human: druid 7 / rogue 13 / blackguard 20: Shay
+229615: ArcticDwarf900: dwarf: fighter 7 / weapon master 7 / dwarven defender 26: The True Masterful Wall
+229715: Athena-light: halfling: rogue 28 / bard 2 / red dragon disciple 10: Crouching Tiger Hidden Dragon
+229716: Thaxll'ssyllia: human: monk 9 / blackguard 24 / weapon master 7: Tensing the black-hearted
+229723: ArcticDwarf900: dwarf: cleric 33 / dwarven defender 6 / monk 1: Defender of The Heavens
+229726: Talamier: halfling?: fighter 10 / rogue 5 / shadowdancer 25: Black Death
+229727: Grimnir77: dwarf: barbarian 17 / fighter 4 / rogue 19: Grandson of Æsirs
+229794: koolthursday: gnome: wizard 32 / pale master 1 / shadowdancer 7: The Gnome of Doom
+229798: bloodymerc: elf: paladin 26 / monk 9 / shadowdancer 5: Divine Stealth Commando v1
+229840: Thaxll'ssyllia: dwarf: fighter 11 / weapon master 29: Critical Reaper
+229882: coreyb: human?: ranger 21 / blackguard 16 / rogue 3: Malar's Champion
+229946: Markus Tarek: human: paladin 15 / champion of Torm 24 / rogue 1: The Strongarm of the Law
+230041: dmuzzy: human?: cleric 38 / fighter 2: Priest of the Twin-Blades
+230230: Grimnir77: human: cleric 32 / fighter 4 / monk 4: Faith Protector
+230236: Grimnir77: human?: bard 10 / blackguard 30: Darkwatch
+230288: Thaxll'ssyllia: halfling: monk 2 / druid 14 / champion of Torm 24: Shadow Dragon Thaxll'ssyllia
+230314: Aiki_Angel: human: sorcerer 29 / pale master 10 / monk 1: The Mage Tank
+230364: TeoDeathDealer: half-orc?: barbarian 8 / bard 22 / red dragon disciple 10: Raging Bull
+230404: GhostNWN: human: cleric 30 / monk 2 / champion of Torm 8: Divine Terror
+230407: ritt0093: elf?: fighter 16 / Harper scout 5 / shadowdancer 19: Dancing Harper  Spy
+230574: krsboss: human: cleric 15 / champion of Torm 18 / monk 7: the Well Disciplined Champion
+230585: I...Samphus: human: wizard 38 / fighter 1 / bard 1: Armored Mage (V1 Human)
+230586: I...Samphus: dwarf: wizard 38 / fighter 1 / bard 1: Armored Mage (V2 Dwarf)
+230606: Chiibo: dwarf: druid 30 / monk 9 / rogue 1: Nimble Dragon
+230695: arvut: human: druid 18 / monk 6 / weapon master 16: Natures Blade
+230759: treefq: human: barbarian 16 / rogue 22 / blackguard 2: The Cur Dog
+230767: Talamier: human: bard 26 / fighter 4 / red dragon disciple 10: Sings with Hammer
+230796: Thaxll'ssyllia: dwarf: cleric 25 / monk 9 / fighter 6: Dil Bahadur
+230819: jockeb: elf: barbarian 29 / bard 1 / red dragon disciple 10: Axe Thrower
+230845: I...Samphus: dwarf?: monk 12 / fighter 18 / shadowdancer 10: Stalwart Hidden Monk
+230904: arvut: human?: bard 12 / red dragon disciple 10 / champion of Torm 18: Holy Dragon
+230926: jockeb: halfling: barbarian 28 / bard 2 / red dragon disciple 10: Axe Thrower v2
+230955: plan__b: elf: bard 8 / red dragon disciple 10 / arcane archer 22: Thunderstorm
+230975: DaMouse404: human: bard 20 / pale master 10 / red dragon disciple 10: Clarissa the Punk Rocker
+231166: Chiibo: human: barbarian 17 / bard 23: Barbarian Battle Singer
+231221: Nimueh_Leafbow: human: cleric 16 / monk 2 / weapon master 22: Blade Beatus
+231228: Galom Daeus: human: barbarian 16 / blackguard 22 / rogue 2: Champion of the Sorcerer King
+231244: krsboss: dwarf: cleric 15 / monk 7 / dwarven defender 18: Lord of the Holy Fist
+231265: Nekroskop_: elf: monk 12 / cleric 26 / fighter 2: (Drow Battlemaiden)
+231381: dmuzzy: elf?: monk 40: Flurry of Fist and Feat
+231560: Thaxll'ssyllia: dwarf: monk 10 / dwarven defender 30: Monk Stance
+231590: coreyb: human?: bard 36 / blackguard 4: Dark Song
+231800: Kail Pendragon: human?: rogue 19 / monk 11 / fighter 10: Monastic Commando
+231822: grizzled_dwarflord: human: wizard 35 / rogue 3 / fighter 2: The War Wizard
+231851: Zog-Varnoka: elf?: ranger 26 / wizard 1 / arcane archer 13: The Hunter
+232018: Grimnir77: human: barbarian 17 / cleric 15 / fighter 8: Champion of Thor
+232049: Thaxll'ssyllia: human: monk 1 / druid 14 / assassin 25: Thaxll'ssyllia V2
+232238: malibu-fr: half-orc?: paladin 29 / red dragon disciple 10 / sorcerer 1: Born to be wild
+232306: Kjetil_Magne: human: monk 3 / cleric 15 / champion of Torm 22: Stupid Cupid - The Divine Archer
+232375: DaMouse404: human?: paladin 29 / sorcerer 1 / red dragon disciple 10: Pally of Swash
+232445: Saosin777: human: ranger 10 / monk 12 / champion of Torm 18: Tormite Hawkeye
+232504: GhostNWN: half-elf: bard 9 / pale master 16 / arcane archer 15: Undead Artillery
+232505: GhostNWN: half-elf: bard 5 / pale master 16 / arcane archer 19: Lesser Undead Artillery
+232599: Nekroskop_: elf: cleric 18 / bard 4 / pale master 18: (Kiaransalee Drow Cleric)
+232644: FinneousPJ: human: ranger 21 / bard 14 / Harper scout 5: Whisper of the Forest
+232802: christian.schnabel: human: ranger 21 / bard 16 / blackguard 3: The Darkguard of Song and Legend
+232903: Talamier: human?: druid 36 / monk 2 / shadowdancer 2: Nature's Defender
+232967: Tattoed Monk: human?: rogue 16 / assassin 18 / wizard 6: Vlad Taltos
+232994: jockeb: human: paladin 1 / cleric 29 / champion of Torm 10: Crossbow Diviner
+233227: Tattoed Monk: human: cleric 23 / bard 17: Life of the Party
+233531: Kail Pendragon: human: cleric 32 / champion of Torm 6 / fighter 2: Holy Nuker
+233563: FinneousPJ: human: rogue 13 / assassin 26 / fighter 1: Exploit Assasin
+233576: DarkWyvern: human: paladin 29 / sorcerer 1 / red dragon disciple 10: RED KNIGHT OF VALOR
+233790: mphacon: human?: bard 11 / blackguard 16 / shadowdancer 13: Shadow Guard
+233821: Thaxll'ssyllia: elf: paladin 8 / bard 3 / arcane archer 29: Godly archer
+233835: Dark Centurion: elf: monk 20 / fighter 10 / rogue 10: The Commando
+233874: Kurgan13: human?: cleric 24 / champion of Torm 14 / rogue 2: Battle Priest of Torm
+234036: maniaxo: human: bard 6 / pale master 24 / red dragon disciple 10: The Succubus build (high AC build)
+234072: dmuzzy: human?: fighter 4 / sorcerer 10 / blackguard 26: Heart of Evil
+234135: krsboss: elf: cleric 11 / monk 24 / shadowdancer 5: Econo-Cleric Shadowdancer Build
+234356: jockeb: human: paladin 1 / cleric 29 / champion of Torm 10: Divine Archer
+234611: Thaxll'ssyllia: dwarf: wizard 22 / dwarven defender 18: Arcane Wall
+234621: Shen_Chuen: human: druid 22 / shifter 17 / monk 1: Morpheus  based on Zelle's
+234766: krsboss: human: cleric 20 / bard 4 / pale master 16: Another Lite-Can Cleric!
+234819: Ythaniel: dwarf: fighter 8 / blackguard 5 / dwarven defender 27: Darkwall Defender
+234847: Ythaniel: dwarf: cleric 10 / blackguard 4 / dwarven defender 26: Darkwall Battlepriest
+235107: Cruel_Intent: halfling: monk 22 / cleric 13 / shadowdancer 5: Halfling Econo-Cleric
+235112: M4t3us: human: paladin 5 / wizard 25 / champion of Torm 10: Mystical Envoyee
+235173: Killer_Kensai: human?: sorcerer 35 / blackguard 3 / assassin 2: Divine Evil
+235214: SonsofNorthWind: human: cleric 23 / weapon master 7 / champion of Torm 10: Well Rounded Battle Cleric
+235390: Cruel_Intent: human: monk 35 / fighter 5: Caster Blaster V1
+235393: Cruel_Intent: elf: monk 40: Spell Soaker
+235468: SonsofNorthWind: elf: wizard 16 / pale master 16 / champion of Torm 8: Wizard 16 PM 16 CoT 8
+235516: drumnbassjunkie: human: cleric 24 / druid 14 / shadowdancer 2: Man of Magic
+235644: SonsofNorthWind: human: paladin 2 / bard 16 / blackguard 22: Seducer
+235913: MysticalBlueCats: elf: monk 25 / fighter 4 / rogue 11: The scary girl,  (Roleplay and Power Version)
+235936: malibu-fr: elf?: rogue 19 / pale master 16 / wizard 5: Dodgy tank
+235941: abiscuit: elf?: bard 25 / Harper scout 5 / red dragon disciple 10: Harper Wing
+236059: M4t3us: elf: wizard 6 / rogue 12 / pale master 22: Shroud Mage
+236309: arvut: dwarf: fighter 18 / druid 5 / shifter 17: Duergar Infiltrator
+236487: Vulcano: gnome: wizard 35 / rogue 3 / bard 2: Gnome Mechanic
+236487#: Vulcano: gnome: wizard 35 / rogue 3 / fighter 2: Gnome Mechanic
+236739: Rufus Dely: halfling: rogue 25 / fighter 8 / weapon master 7: Whip 'em Good
+236754: Thaxll'ssyllia: human: paladin 20 / Harper scout 5 / blackguard 15: Double Smiter
+236757: leafsguy: human: druid 26 / shifter 14: The Forest Chameleon
+236783: Vulcano: human: cleric 38 / paladin 1 / monk 1: Field Guardian
+236793: Vulcano: dwarf: barbarian 15 / cleric 15 / champion of Torm 10: Terrifying Dev Crit Epic DR buff cleric
+236949: Ithacan: elf: bard 20 / champion of Torm 10 / red dragon disciple 10: Dragon Skald with Elf Ears
+236961: FinneousPJ: human: wizard 29 / bard 2 / red dragon disciple 9: Spellfire, a max-INT Wizard
+236968: Ithacan: elf: bard 14 / pale master 16 / red dragon disciple 10: Undead Dragon Skald with Elf Ears (v. 3)
+237003: MB52: human: ranger 22 / fighter 4 / rogue 14: Protector of the Forest
+237101: drumnbassjunkie: human?: cleric 25 / fighter 10 / weapon master 5: Master Djynn
+237149: mrhanky1234: halfling: paladin 20 / monk 15 / shadowdancer 5: Stealth Warden
+237154: juicyplasma: half-elf: bard 18 / assassin 22: Deathsong Mariachi
+237169: Jehoshua: human?: druid 24 / cleric 15 / monk 1: The True Dragon Gleam
+237327: Kail Pendragon: human: paladin 19 / champion of Torm 6 / barbarian 15: The Wild Crusader
+237327#: Kail Pendragon: human: paladin 15 / champion of Torm 10 / barbarian 15: The Wild Crusader v.2
+237395: juicyplasma: half-elf: bard 17 / ranger 1 / assassin 22: Deathsong Mariachi V2.0
+237424: Jehoshua: human: cleric 28 / paladin 2 / champion of Torm 10: Torm's Smiting Hand
+237496: avarielo: elf?: rogue 19 / shadowdancer 5 / blackguard 16: The Silent Throatslitter
+237511: Tattoed Monk: halfling?: rogue 25 / fighter 10 / shadowdancer 5: Sneaky Hobbit
+237523: Maothen: human?: sorcerer 35 / paladin 3 / monk 2: Combat Sorcerer
+237558: Ithacan: elf?: rogue 13 / bard 11 / pale master 16: Deathless Scoundrel
+237580: Vulcano: human: wizard 15 / pale master 16 / cleric 9: Undead Xploit Xbow
+237619: I...Samphus: human?: bard 25 / champion of Torm 10 / Harper scout 5: Guardian Angel
+237665: Caithdein na Briona: halfling: bard 20 / red dragon disciple 10 / champion of Torm 10: Musical Dragonkin
+237682: Ithacan: human?: rogue 13 / paladin 17 / champion of Torm 10: Avenging Champion Commando v. 3
+237770: Ythaniel: human: bard 13 / blackguard 25 / shadowdancer 2: The Evensong
+237808: Anuis: human: paladin 16 / barbarian 20 / fighter 4: Terrifying Paladin
+237812: theshadow0015: human: rogue 19 / paladin 16 / Harper scout 5: Blancheguard
+237938: Ithacan: human?: paladin 38 / rogue 1 / sorcerer 1: An Unruly Knight
+237961: Ithacan: elf: rogue 19 / paladin 16 / wizard 5: Another Unruly Knight with Elf Ears
+238037: Maothen: human?: druid 28 / ranger 10 / monk 2: Dragon Kin Terminator
+238100: Thaxll'ssyllia: human: monk 34 / shadowdancer 5 / fighter 1: Immortal Wimp
+238107: Thaxll'ssyllia: dwarf: wizard 22 / dwarven defender 18: Arcane Wall V2
+238284: Caithdein na Briona: halfling: paladin 16 / rogue 16 / champion of Torm 8: Tarnished Paladin
+238337: Ithacan: human?: rogue 3 / weapon master 22 / paladin 15: A Holy Sword for Dark Days
+238421: I...Samphus: human?: paladin 20 / champion of Torm 15 / Harper scout 5: Tymora's Charismatic Champion
+238463: Ithacan: human?: rogue 6 / weapon master 19 / cleric 15: Holy Eviscerator
+238484: Ithacan: human?: monk 9 / cleric 26 / shadowdancer 5: Walks in the Dark Lightly
+238543: Dralik Galley: elf: monk 14 / wizard 5 / arcane archer 21: Bowman Fist
+238617: ArcticDwarf900: dwarf: fighter 5 / monk 9 / dwarven defender 26: Quick Fist Defender
+238749: Thaxll'ssyllia: elf: druid 16 / monk 6 / champion of Torm 18: Stunning Claw
+239091: reggemS: halfling: fighter 10 / rogue 10 / monk 20: Unarmed Master
+239109: krsboss: elf: cleric 29 / monk 6 / Harper scout 5: The Undiscovered Country pt I
+239141: Ithacan: elf: rogue 13 / paladin 17 / champion of Torm 10: Avenging Commando with Elf Ears
+239186: koolthursday: halfling: rogue 15 / blackguard 25: The Cowardly Bully
+239266: I...Samphus: human?: cleric 25 / fighter 10 / Harper scout 5: The Resolute Missionary
+239380: krsboss: elf: paladin 20 / champion of Torm 10 / shadowdancer 10: The Undiscovered Country pt II
+239454: Kail Pendragon: human?: ranger 23 / druid 16 / monk 1: Gæa's Protector
+239538: I...Samphus: human?: rogue 17 / fighter 4 / weapon master 19: Court Duellist
+239660: Cruel_Intent: human: monk 20 / rogue 13 / weapon master 7: Hidden Spike
+239740: ArcticDwarf900: half-elf: fighter 11 / arcane archer 27 / bard 2: Half-Elven Sniper
+239855: Nimueh_Leafbow: human: rogue 13 / sorcerer 18 / blackguard 9: Duskblade Adept
+239909: avarielo: halfling?: bard 7 / red dragon disciple 7 / shadowdancer 26: The EDR SCV ED Guy
+239919: Mithdradates: dwarf: fighter 6 / weapon master 13 / wizard 21: Dugmaren's Spellaxe
+239934: avarielo: dwarf: rogue 11 / dwarven defender 10 / weapon master 19: Headthunker of Clangeddin
+239943: ArcticDwarf900: human: fighter 8 / weapon master 22 / paladin 10: Holy Katanas
+239981: dmuzzy: human?: cleric 10 / ranger 1 / shadowdancer 29: The Shadowmancer
+239999: Grimnir77: halfling?: fighter 8 / paladin 4 / weapon master 28: Highest POSSIBLE MELEE AB
+240052: Nimueh_Leafbow: elf: bard 16 / arcane archer 23 / druid 1: The REAL highest POSSIBLE AB
+240115: Tattoed Monk: halfling: monk 35 / shadowdancer 5: Furry Feet of Fury (aka Bullseye Bowman's Bane)
+240121: Ithacan: human?: monk 6 / shadowdancer 2 / paladin 32: Hidden Smiter, Crouching Avenger
+240122: Medeia Lydian: human: paladin 20 / champion of Torm 10 / monk 10: Righteous cutter
+240160: avarielo: halfling?: bard 4 / fighter 12 / pale master 24: The Introspective Necromancer
+240189: krsboss: half-orc?: paladin 9 / fighter 1 / champion of Torm 30: 100 AB Super Smasha
+240191: Mithdradates: half-orc: druid 1 / fighter 11 / weapon master 28: Highest Possible STR based effective AB
+240199: Imp_lord: human?: fighter 14 / druid 9 / shifter 17: Lizard Whipmaster
+240340: dmuzzy: human?: cleric 24 / monk 6 / champion of Torm 10: Chek Fai
+240359: Anglashell: human: wizard 32 / champion of Torm 6 / rogue 2: The Archmage of Torm
+240405: Ithacan: elf?: rogue 13 / cleric 17 / champion of Torm 10: Dodgy Avenging Commando
+240410: Xylophone: human?: bard 16 / druid 5 / shifter 19: Shifty Trickster
+240420: Mithdradates: human: fighter 12 / shadowdancer 3 / weapon master 25: Silent Knight
+240435: I...Samphus: human?: rogue 25 / champion of Torm 10 / Harper scout 5: Harper's Blessed Sneak
+240484: Ithacan: elf?: rogue 19 / paladin 16 / Harper scout 5: Avenging Harper Scout
+240487: Anuis: human: ranger 21 / druid 10 / assassin 9: Shadow Master
+240501: FinneousPJ: human: paladin 15 / wizard 9 / pale master 16: Twilight of the Idols
+240876: Xylophone: halfling: ranger 21 / assassin 9 / shadowdancer 10: Nimble Stealthblade
+240938: Mithdradates: human: bard 4 / paladin 26 / red dragon disciple 10: Knight of Bahamut
+241040: Imp_lord: human?: druid 17 / shifter 13 / monk 10: Iron Slaad
+241090: Grimnir77: human?: bard 27 / Harper scout 5 / red dragon disciple 8: King of Norse Legends
+241104: TyrTemplar: human: fighter 22 / bard 11 / weapon master 7: Hex Blade
+241156: Mithdradates: human: druid 5 / fighter 16 / shifter 19: Stoneskin Skindancer
+241161: I...Samphus: dwarf?: fighter 18 / barbarian 17 / Harper scout 5: Clangeddin's Savage Harper
+241177: TyrTemplar: human: fighter 18 / weapon master 7 / bard 15: Hex Blade  *(revised)
+241216: Xylophone: human: fighter 4 / bard 26 / champion of Torm 10: The Veteran Party-Leader V2
+241261: Acothea: human?: bard 21 / shifter 10 / druid 9: The Cursed Minstrel
+241286: jockeb: elf: fighter 12 / monk 1 / assassin 27: Silent Death
+241384: TyrTemplar: human: fighter 18 / weapon master 7 / bard 15: Hex Blade -(note:; PvP/DevCrit, plus PvM version)
+241416: TyrTemplar: human: monk 24 / fighter 6 / assassin 10: Death Dealer - Ultimate Outlaw
+241425: Mithdradates: human: barbarian 16 / champion of Torm 8 / weapon master 16: Steel and Fury
+241501: TyrTemplar: human: fighter 18 / weapon master 7 / bard 15: Hex Blade  PvM/SONG version (*Revised)
+241732: MorteMeister: human: cleric 35 / rogue 3 / monk 2: The Artful Dodger
+241764: grizzled_dwarflord: human: bard 29 / Harper scout 1 / fighter 10: The Harper Galloglas
+241768: Bruce Lee 72: human?: barbarian 15 / fighter 6 / blackguard 19: Knight of Terror
+241865: TyrTemplar: human?: monk 21 / fighter 6 / rogue 13: Death Dealer -   - Perfect Medieval Outlaw - Final
+241869: Cinnabar Din: human: cleric 26 / rogue 4 / champion of Torm 10: Spellslinging Battlepriest
+241920: Mescalino: human?: fighter 6 / wizard 10 / assassin 24: The Assassin Mage
+241958: avarielo: halfling?: monk 21 / shadowdancer 5 / champion of Torm 14: Agent of Shadow
+241989: Nimueh_Leafbow: human: bard 20 / barbarian 16 / blackguard 4: The Bad, Bad Bard
+242006: Mithdradates: elf: arcane archer 10 / rogue 9 / wizard 21: Furtive Spellbow
+242148: Thaxll'ssyllia: half-orc?: ranger 21 / monk 2 / rogue 17: Silent Guardian of the Forest
+242208: Big Meph: human: fighter 11 / rogue 4 / weapon master 25: Blade of the Reaper
+242230: Bruce Lee 72: elf?: rogue 19 / fighter 12 / monk 9: The Glimmerman
+242262: Caithdein na Briona: human: druid 5 / shifter 17 / paladin 18: Righteous Shifter?
+242269: TyrTemplar: human: monk 20 / fighter 10 / rogue 10: Death Dealer  (Final v. 1.2)
+242348: I...Samphus: human?: bard 26 / fighter 4 / champion of Torm 10: Ode to a Lily
+242359: feodore: human: barbarian 15 / rogue 13 / wizard 12: The Wolf
+242362: Bruce Lee 72: halfling?: bard 17 / rogue 13 / red dragon disciple 10: The Fairy Dragon
+242413: pocketbeetle: halfling?: ranger 15 / fighter 6 / rogue 19: Reliable
+242452: ren66: halfling: rogue 21 / fighter 12 / weapon master 7: Concealed Kukri Master
+242509: FinneousPJ: human: druid 6 / shifter 10 / wizard 24: Arcane Rakshasa
+242519: Xylophone: human?: barbarian 17 / druid 6 / shifter 17: Rage Takes Form
+242553: Xylophone: human: cleric 26 / rogue 13 / monk 1: Swashbuckling Saint
+242563: Mithdradates: human: fighter 12 / Harper scout 5 / paladin 23: Mystra's Avenger
+242657: TyrTemplar: human: paladin 9 / bard 21 / red dragon disciple 10: Dragon Slayer
+242679: Xylophone: human: monk 25 / rogue 5 / champion of Torm 10: Fist of Torm Strength Variant
+242680: Xylophone: human: monk 20 / rogue 10 / champion of Torm 10: Fist of Torm Dex Variant
+242707: Imp_lord: halfling: cleric 26 / rogue 13 / shadowdancer 1: Holy Slinger
+242764: FinneousPJ: human: paladin 25 / champion of Torm 10 / Harper scout 5: Harper Smiter
+242768: FinneousPJ: human: druid 27 / shifter 10 / monk 3: Generic Rakshasa
+242792: Acothea: human: wizard 30 / monk 2 / cleric 8: The Mindbender
+242803: FinneousPJ: human: druid 27 / shifter 10 / monk 3: Generic Rakshasa w/ Dragon Shape
+242901: Acothea: elf: paladin 26 / monk 9 / shadowdancer 5: The Divine Agent of Mielikki
+242940: FinneousPJ: halfling: ranger 21 / rogue 15 / fighter 4: Halfling Woodsman
+242955: Nimueh_Leafbow: human: bard 6 / red dragon disciple 10 / assassin 24: Black Claw Executioner
+242975: Acothea: elf: ranger 21 / monk 3 / rogue 16: The Wise Hunter
+243002: Acothea: human: fighter 16 / monk 2 / weapon master 22: The Cassiline Brother
+243104: TyrTemplar: human: paladin 6 / barbarian 19 / champion of Torm 15: The Wolf Knight
+243110: avarielo: halfling: monk 7 / shadowdancer 19 / champion of Torm 14: Headhunter of the Crescent Moon
+243134: Laughing Coyote: elf: rogue 29 / ranger 10 / shadowdancer 1: Shadow Tracker
+243145: Imp_lord: dwarf: druid 11 / shifter 13 / barbarian 16: Raging Bull
+243165: Ythaniel: human: bard 29 / shadowdancer 6 / Harper scout 5: The Tenebrous Harper Minstrel
+243175: dmuzzy: human?: paladin 17 / wizard 23: Champion of Mystra
+243245: krsboss: elf: ranger 15 / monk 12 / cleric 13: Devastating Rascal
+243250: Mithdradates: human: assassin 11 / cleric 23 / fighter 6: Cyric's Factotum
+243294: TyrTemplar: human: fighter 12 / bard 16 / barbarian 12: The Gothic Beserker
+243344: TyrTemplar: human: barbarian 15 / bard 15 / champion of Torm 10: The Gothic Champion
+243382: grizzled_dwarflord: human: paladin 2 / cleric 35 / blackguard 3: Blade of the Inquisition
+243417: TyrTemplar: human: paladin 9 / bard 21 / red dragon disciple 10: The Dragon Slayer  (Final v. 1.1)
+243505: Kail Pendragon: human: paladin 15 / champion of Torm 18 / weapon master 7: Holy Reaper
+243531: Der Unbekannte: human: ranger 26 / bard 4 / red dragon disciple 10: Draconian Survivor
+243533: Big Meph: human: fighter 6 / weapon master 13 / assassin 21: Artemis Entreri
+243576: Ithacan: human?: paladin 29 / red dragon disciple 10 / sorcerer 1: Holy Smiting Dragon
+243708: Frogger70: human: wizard 3 / weapon master 7 / pale master 30: Pale Staff Master
+243739: I...Samphus: human?: fighter 12 / Harper scout 3 / weapon master 25: Specialist Harper's Blade
+243768: Mithdradates: human: bard 4 / cleric 26 / red dragon disciple 10: Blood And Faith
+243782: avarielo: human?: monk 10 / shadowdancer 5 / weapon master 25: Death Gate Master
+243916: Big Meph: halfling: fighter 8 / weapon master 7 / assassin 25: The Honed Shadow
+244089: Grimnir77: human?: cleric 19 / shadowdancer 1 / bard 20: Harbinger of Sorrow
+244332: christian.schnabel: dwarf: ranger 26 / fighter 12 / shadowdancer 2: Hunter in the Dark
+244333: christian.schnabel: human: ranger 30 / barbarian 2 / champion of Torm 8: Ranger Champion
+244363: TyrTemplar: human: paladin 8 / bard 16 / champion of Torm 16: Knight Templar
+244506: ChaosInTwilight: human: monk 6 / assassin 21 / blackguard 13: Riven
+244510: DragonRaider69: human: ranger 15 / weapon master 7 / assassin 18: Woodland Vengeance
+244558: DragonRaider69: human: ranger 23 / weapon master 7 / shadowdancer 10: Baneaxe of the Shadow Wood
+244612: TyrTemplar: human: monk 9 / paladin 15 / blackguard 16: Blood Knight
+244672: Meerclaw: elf: rogue 16 / blackguard 5 / assassin 19: Soul-Bound Assassin
+244699: arvut: elf: rogue 13 / blackguard 13 / assassin 14: Vhaeruns Stealthsaber
+244701: arvut: elf: cleric 23 / blackguard 16 / rogue 1: Dark Venom Crusader
+244717: TyrTemplar: human: fighter 10 / paladin 20 / champion of Torm 10: Teutonic Knight
+244733: slikster: half-elf: ranger 23 / bard 2 / arcane archer 15: The Devastating Bowman
+244785: short_little_halfling: halfling: rogue 15 / shadowdancer 25: Master of the Shadows
+244809: FinneousPJ: halfling: rogue 16 / paladin 6 / champion of Torm 18: Halfling Vindicator
+244826: TyrTemplar: human?: fighter 6 / paladin 24 / champion of Torm 10: Knight Commander
+244828: Big Meph: halfling: rogue 16 / paladin 8 / champion of Torm 16: The Seraphic Edge
+244859: FinneousPJ: half-orc: ranger 26 / rogue 10 / fighter 4: Nature's Punisher
+244931: TyrTemplar: human: rogue 17 / paladin 17 / champion of Torm 6: Medieval Scout
+244978: Thaxll'ssyllia: human: druid 20 / monk 2 / cleric 18: Buff of the Jungle
+245058: Acothea: human: paladin 21 / champion of Torm 14 / Harper scout 5: The Zealous Harper
+245086: short_little_halfling: halfling: rogue 25 / fighter 14 / shadowdancer 1: Sneaking Death
+245157: NolDrek: human: fighter 10 / rogue 5 / weapon master 25: The Skilled Swordsman
+245169: Acothea: human: sorcerer 26 / monk 4 / red dragon disciple 10: The Zen Spellblade
+245243: dmuzzy: human?: cleric 26 / monk 5 / ranger 9: The Wise-Guy
+245245: grizzled_dwarflord: human: rogue 5 / cleric 29 / fighter 6: The Fighting Ariel of Ehlonna
+245273: Highlander44: halfling: rogue 21 / fighter 14 / Harper scout 5: Last Halfling Standing
+245278: mphacon: human: bard 17 / rogue 13 / red dragon disciple 10: The Scoundrel
+245311: Nimueh_Leafbow: human: paladin 4 / bard 20 / pale master 16: Fallen Rock Star
+245326: arvut: elf: bard 17 / blackguard 13 / shadowdancer 10: Dancer of Darkness
+245333: blixen71: elf: wizard 5 / pale master 25 / shadowdancer 10: Shroudmage
+245333#: blixen71: elf: wizard 11 / pale master 16 / rogue 13: Shroudmage
+245366: Grimnir77: human?: paladin 26 / fighter 4 / champion of Torm 10: GrimSmiter
+245368: short_little_halfling: human: cleric 29 / champion of Torm 10 / paladin 1: Torm's Devout
+245371: Highlander44: human?: cleric 18 / weapon master 19 / shadowdancer 3: Oghma's Guardian
+245425: TyrTemplar: human: paladin 26 / fighter 4 / champion of Torm 10: Knight Commander -Revised)
+245431: dmuzzy: human?: bard 35 / fighter 1 / blackguard 4: Explicate Lyrics
+245464: TyrTemplar: half-orc: barbarian 24 / wizard 10 / champion of Torm 6: War Lord
+245491: Thaxll'ssyllia: dwarf: barbarian 16 / fighter 6 / dwarven defender 18: Terrifying Tank
+245653: DragonRaider69: human: ranger 26 / fighter 13 / rogue 1: Devastating Baneblade
+245660: TyrTemplar: human: paladin 9 / bard 21 / red dragon disciple 10: Dragon Slayer (Bard Version)
+245661: TyrTemplar: human: bard 4 / paladin 26 / red dragon disciple 10: Dragon Slayer (Paladin Version)
+245666: TyrTemplar: human: sorcerer 4 / paladin 26 / red dragon disciple 10: Dragon Slayer (Paladin/Sorcerer)
+245889: FinneousPJ: human: bard 26 / paladin 4 / red dragon disciple 10: Faust
+245907: TyrTemplar: human: fighter 4 / paladin 16 / champion of Torm 20: Teutonic Knight, Revised
+245955: Mithdradates: human: bard 24 / monk 6 / champion of Torm 10: Heroic Harlequin
+246048: Thaxll'ssyllia: dwarf: fighter 6 / cleric 16 / wizard 18: Arcane Knight of Lathander
+246080: DragonRaider69: human: ranger 13 / cleric 17 / shadowdancer 10: Shining Watchman
+246093: avado: human: rogue 28 / fighter 6 / paladin 6: Tyr's Devastating Thud
+246108: TyrTemplar: human: fighter 12 / bard 3 / weapon master 25: Curse Blade
+246241: TyrTemplar: human: fighter 11 / bard 1 / weapon master 28: Blade
+246330: peterwiltshire1: human?: sorcerer 29 / cleric 1 / pale master 10: Sorcerer 29/Cleric 1/PM 10
+246355: Nimueh_Leafbow: human: druid 20 / rogue 13 / monk 7: The Shadow's Breath
+246390: TyrTemplar: human: bard 3 / fighter 12 / weapon master 25: Curse Blade (Sword Version)
+246598: Big Meph: halfling: rogue 35 / fighter 4 / shadowdancer 1: Swiss Army Rogue
+246606: Big Meph: elf: fighter 16 / ranger 11 / rogue 13: Big Meph's, Drizzt Do'Urden
+246702: FinneousPJ: elf: rogue 16 / monk 9 / cleric 15: SC5-ED-Cleric
+246764: Mithdradates: human: cleric 16 / monk 1 / sorcerer 23: Mystra's Devotee
+246872: Grimnir77: human: rogue 10 / fighter 10 / bard 20: Bloodaxe the STRong
+246874: Grimnir77: dwarf: rogue 18 / fighter 6 / bard 16: Bloodaxe the DEXtrous
+246912: grizzled_dwarflord: half-orc: cleric 26 / barbarian 1 / assassin 13: Battle Shaman of The One-Eyed Gruumsh
+247143: Mithdradates: human: bard 4 / cleric 26 / pale master 10: Hierophant of Velsharoon
+247325: nhaislip78: human?: druid 6 / shifter 17 / barbarian 17: Terrifying Kobold
+247354: Mars_of_war: elf: monk 40: Stunning Monk
+247390: Big Meph: elf: bard 6 / red dragon disciple 10 / arcane archer 24: Sniper Draconis
+247450: DragonRaider69: human: cleric 29 / champion of Torm 10 / bard 1: Shining Blade of Torm
+247454: Cinnabar Din: human?: bard 26 / red dragon disciple 4 / pale master 10: Skeletal Skald
+247498: TyrTemplar: human: fighter 10 / bard 11 / weapon master 19: Song Blade (Fighting Bard)
+247627: Cinnabar Din: dwarf?: fighter 10 / champion of Torm 10 / wizard 20: Eldritch Warrior
+247650: TyrTemplar: human: bard 21 / fighter 4 / champion of Torm 15: Sling Blade (Fighting Bard-SONG Version)
+247654: FinneousPJ: dwarf: fighter 4 / champion of Torm 10 / wizard 26: Eldritch Axeman
+247658: FinneousPJ: halfling: rogue 16 / monk 9 / cleric 15: SC5-ED-Cleric, Halfling Version
+247664: Mithdradates: dwarf: bard 1 / fighter 13 / wizard 26: Weave Warrior
+247732: dumediat: elf: ranger 6 / assassin 24 / shadowdancer 10: Moor Stalker
+247838: Highlander44: human?: sorcerer 20 / blackguard 10 / red dragon disciple 10: Darklord
+247924: Cinnabar Din: dwarf?: fighter 8 / rogue 7 / weapon master 25: Stalwart Warrior
+247937: TyrTemplar: human?: paladin 15 / monk 20 / champion of Torm 5: Mage Slayer
+247958: Mithdradates: elf: assassin 14 / fighter 16 / shadowdancer 10: Dark Vengence
+248057: Cinnabar Din: human: fighter 10 / bard 2 / assassin 28: Death's Lullaby
+248064: Cinnabar Din: elf?: barbarian 5 / bard 6 / arcane archer 29: Singing Sniper
+248073: Cinnabar Din: human?: cleric 25 / fighter 2 / weapon master 13: The Exploited Cudgel
+248104: Eyethumper: elf?: monk 25 / fighter 10 / shadowdancer 5: The Patient Priest
+248135: Thaxll'ssyllia: elf: rogue 19 / wizard 2 / arcane archer 19: Artillery Archer
+248183: TyrTemplar: human?: paladin 5 / fighter 10 / weapon master 25: Medieval Enforcer
+248184: TyrTemplar: human: paladin 15 / champion of Torm 6 / weapon master 19: The Marshall
+248292: Groml: human?: ranger 21 / assassin 18 / shadowdancer 1: Hidden Death
+248336: Kail Pendragon: human: ranger 29 / rogue 10 / shadowdancer 1: Shadowbane
+248336#: Kail Pendragon: human: ranger 26 / rogue 13 / shadowdancer 1: Shadowbane v.2
+248384: dumediat: elf: ranger 5 / shadowdancer 10 / assassin 25: Moor Stalker v2.0
+248429: Mithdradates: human: bard 16 / fighter 1 / ranger 23: Song of the Wild
+248481: TyrTemplar: human: bard 1 / cleric 25 / fighter 14: Battle Magistrate
+248564: Thaxll'ssyllia: dwarf: cleric 17 / fighter 1 / dwarven defender 22: Dwarven Abomination
+248786: TyrTemplar: human: cleric 26 / fighter 4 / champion of Torm 10: Battle Magistrate  (v.2)
+248959: Kail Pendragon: human?: cleric 38 / fighter 1 / bard 1: Tuoni's Ministers of Death aka The Skullcrashers
+248966: bloodymerc: human: paladin 20 / bard 4 / pale master 16: The Lord of Doom and Pain
+249119: Big Meph: half-orc: monk 30 / fighter 10: The Devoted Ugly Lug
+249192: ArcticDwarf900: dwarf: ranger 23 / monk 12 / dwarven defender 5: Defender of the Forest
+249201: Okembour: human: fighter 14 / assassin 25 / shadowdancer 1: Fighter 14/ Assasin 25/ Shadowdancer 1
+249289: grizzled_dwarflord: dwarf: rogue 10 / fighter 4 / dwarven defender 26: The Citadel
+249328: Mithdradates: human: bard 23 / fighter 10 / weapon master 7: Ruinous Raconteur
+249329: TyrTemplar: human: Harper scout 5 / cleric 25 / champion of Torm 10: Nordic Champion
+249330: TyrTemplar: human: Harper scout 5 / cleric 29 / champion of Torm 6: Divine Hunter
+249429: Cinnabar Din: human: bard 16 / fighter 5 / weapon master 19: Song of the Blade's Edge
+249432: Cinnabar Din: dwarf: fighter 14 / rogue 4 / dwarven defender 22: The Resistor
+249434: chsmi: human?: assassin 22 / cleric 17 / shadowdancer 1: The Dire Priest
+249453: ArcticDwarf900: human: bard 23 / pale master 10 / weapon master 7: The Lyrical Lich
+249473: TeoDeathDealer: human?: barbarian 22 / bard 6 / pale master 12: Deathwarden
+249478: Cinnabar Din: gnome?: cleric 26 / wizard 13 / bard 1: Semi-mystic Theurge
+249499: TyrTemplar: elf: wizard 1 / cleric 26 / arcane archer 13: Norse Archer (Cleric of Loki)
+249630: Cinnabar Din: elf?: fighter 20 / rogue 19 / Harper scout 1: The Pointy-eared Rogue
+249743: Grimnir77: human?: barbarian 16 / ranger 21 / assassin 3: Bloodred Vengeance
+249770: Cinnabar Din: elf: fighter 12 / wizard 10 / arcane archer 18: The Bladed Archer, version 1
+249771: Cinnabar Din: half-elf: bard 16 / fighter 10 / arcane archer 14: The Bladed Archer, version 2
+249776: ArcticDwarf900: dwarf: fighter 13 / dwarven defender 26 / rogue 1: Defensive Dexer
+249788: Thaxll'ssyllia: human: monk 2 / cleric 17 / wizard 21: The Magic Master
+249801: TyrTemplar: half-elf: fighter 12 / arcane archer 25 / bard 3: Heraldic Highlander (War Prince of the Elves)
+249806: Mithdradates: human: cleric 30 / fighter 4 / monk 6: Limburger Cleric
+249969: TyrTemplar: human: ranger 2 / cleric 32 / champion of Torm 6: Divine Hunter , v.2
+249986: krsboss: human?: sorcerer 38 / paladin 1 / ranger 1: the Dominating Evoker
+250120: Nimueh_Leafbow: human: sorcerer 32 / paladin 3 / Harper scout 5: Harper Adept
+250142: whirlin_merlin: human: rogue 10 / fighter 2 / blackguard 28: Beautiful Evil
+250286: avado: human: monk 6 / cleric 12 / weapon master 22: NWN Staffer
+250291: Mithdradates: human: fighter 16 / rogue 23 / shadowdancer 1: Percussion and Strings  melee+ranged
+250340: Eyethumper: half-orc: monk 9 / assassin 10 / rogue 21: Fist O' Death
+250353: TyrTemplar: halfling: wizard 18 / rogue 17 / shadowdancer 5: The Leprechaun
+250378: koolthursday: dwarf: druid 7 / shifter 7 / assassin 26: Death says Yip!
+250448: Eyethumper: half-orc: monk 9 / fighter 6 / rogue 25: Fist O' Death V2
+250598: seti-one: halfling: ranger 26 / monk 1 / rogue 13: KK's of Fury
+250614: I...Samphus: gnome: wizard 37 / rogue 3: A Gnomish Focus
+250699: koolthursday: elf: rogue 14 / bard 12 / arcane archer 14: String Music
+250702: blixen71: elf: rogue 19 / wizard 11 / arcane archer 10: Unseen sniper
+250702#: blixen71: elf: rogue 13 / wizard 9 / arcane archer 18: Unseen sniper v2
+250775: whirlin_merlin: human: rogue 10 / fighter 6 / blackguard 24: Beautiful Evil v2.0
+250794: Ryouko_: human: monk 12 / champion of Torm 6 / weapon master 22: Hikaru Ryuu
+250880: Mithdradates: human: bard 3 / fighter 12 / weapon master 25: Assault and Battery
+250885: Thaxll'ssyllia: human: monk 6 / paladin 4 / champion of Torm 30: Torm's Enlightnment
+250991: TyrTemplar: human: fighter 11 / bard 1 / weapon master 28: Poetic Blade (Double Weapon Master)
+251230: bloodymerc: elf: paladin 20 / fighter 4 / rogue 16: Fame
+251342: TeoDeathDealer: gnome: druid 5 / shifter 7 / blackguard 28: Rip - The Really Angry Gnome
+251344: grizzled_dwarflord: human: druid 26 / bard 4 / pale master 10: The Dracolich of Autumn Twilight
+251574: Kail Pendragon: human?: paladin 26 / rogue 10 / fighter 4: Defender of the Faith
+251605: blixen71: elf: wizard 10 / pale master 20 / shadowdancer 10: The Hellblaster
+251640: Mithdradates: dwarf: paladin 26 / bard 4 / pale master 10: Eternal Knight
+251653: Kail Pendragon: human: ranger 26 / bard 4 / pale master 10: Death Bane
+251695: Cinnabar Din: dwarf: fighter 24 / bard 6 / pale master 10: Ossified Tank
+251925: blixen71: human: fighter 14 / weapon master 25 / bard 1: Longsword Champion
+251966: I...Samphus: dwarf?: rogue 16 / fighter 14 / champion of Torm 10: The Obstinate Bugger
+252007: Angelfire1: human: bard 16 / champion of Torm 8 / pale master 16: Mr. Goodstuff
+252275: blixen71: human: fighter 6 / monk 9 / champion of Torm 25: Defender of the Monastry
+252353: Mithdradates: human: barbarian 15 / monk 6 / weapon master 19: Focused Rage
+252362: K U R T H: dwarf: paladin 15 / dwarven defender 14 / cleric 11: Wrathaxe of Moradin
+252542: Bromium: elf?: druid 5 / shifter 16 / shadowdancer 19: Dancing Medusa
+252558: K U R T H: dwarf: cleric 16 / champion of Torm 10 / dwarven defender 14: Wrathaxe of Moradin v2
+252616: blixen71: human: bard 10 / champion of Torm 14 / pale master 16: Baldrick the Palebard
+252644: Highlander44: halfling: druid 8 / shifter 19 / shadowdancer 13: Hidden Tiger / Dodging Dragon
+252789: Angelfire1: human: fighter 14 / cleric 15 / rogue 11: Jack Altrades
+252820: grizzled_dwarflord: gnome: wizard 26 / pale master 10 / fighter 4: Mestil's Pale Emissary
+252898: Angelfire1: human: cleric 15 / champion of Torm 14 / rogue 11: Hardy Sole
+252925: I...Samphus: gnome: wizard 40: Spanky the Gnome
+252934: grizzled_dwarflord: dwarf: fighter 16 / bard 4 / pale master 20: The Myrmidon Eternal
+253044: blixen71: dwarf: bard 10 / dwarven defender 14 / pale master 16: Undead Wall
+253168: Grimnir77: human?: ranger 25 / weapon master 7 / fighter 8: Grim Ripper
+253174: TeoDeathDealer: dwarf: dwarven defender 6 / bard 4 / pale master 30: Master Pale Defender
+253179: grizzled_dwarflord: human: bard 5 / pale master 10 / weapon master 25: Spear of the Cambions
+253232: obsidian tower: human?: cleric 17 / wizard 15 / pale master 8: Mystic Necromancer
+253310: koolthursday: human: monk 6 / bard 24 / red dragon disciple 10: Fallen Monk of the Red Scale
+253315: blixen71: human?: fighter 26 / bard 4 / red dragon disciple 10: Draco the Tempest
+253361: I...Samphus: human?: cleric 20 / champion of Torm 10 / monk 10: Brother Torm (Dev Crit Version)
+253362: I...Samphus: human?: cleric 20 / champion of Torm 10 / monk 10: Brother Torm (Non-Dev Crit Version)
+253428: koolthursday: human: ranger 35 / Harper scout 3 / bard 2: Whistling Woodsman
+253471: Mithdradates: dwarf: bard 2 / dwarven defender 18 / paladin 20: Soulforger's Anvil
+253541: grizzled_dwarflord: half-orc: barbarian 7 / rogue 17 / fighter 16: Shock and Awe
+253650: Veridious: dwarf: fighter 8 / champion of Torm 2 / dwarven defender 30: The Troublesome Tank
+253741: Kail Pendragon: halfling?: rogue 24 / bard 6 / pale master 10: Pale Sneaker of Doom
+253763: Highlander44: human: bard 8 / red dragon disciple 10 / weapon master 22: Fury Ignited
+253788: Kail Pendragon: human?: ranger 26 / bard 4 / champion of Torm 10: Champion of the Wilds
+253847: blixen71: human: bard 17 / weapon master 7 / pale master 16: The Dark Reaper
+253848: Nimueh_Leafbow: human: bard 40: Iconic Bard
+253927: I...Samphus: human?: bard 26 / blackguard 4 / champion of Torm 10: Angel of Redemption
+253956: Kail Pendragon: human?: bard 20 / fighter 4 / pale master 16: Mourning Glory
+253980: a Thousand Cuts: elf: champion of Torm 8 / monk 13 / weapon master 19: Death
+254077: blixen71: halfling: bard 5 / pale master 16 / assassin 19: Darth Stabber
+254146: grizzled_dwarflord: halfling: bard 16 / fighter 14 / red dragon disciple 10: The Bull-Roarer:; The Strongest Halfling in the World
+254238: blixen71: human: bard 20 / fighter 10 / red dragon disciple 10: Eversinging Dragonbard
+254328: Cinnabar Din: half-orc?: barbarian 16 / wizard 16 / champion of Torm 8: A Warlock Wild
+254361: Frogger70: dwarf?: barbarian 38 / fighter 2: Barbarian goes Clubbin'
+254647: EROMB: human?: fighter 12 / rogue 3 / weapon master 25: The Forest Outlaw Staff Master
+254793: grizzled_dwarflord: half-elf: fighter 10 / bard 5 / arcane archer 25: Half-Elven Soldier of Fortune
+254918: blixen71: human?: sorcerer 35 / fighter 4 / paladin 1: Duke Nukem
+255175: TyrTemplar: gnome: wizard 18 / bard 8 / blackguard 14: Dark Muse (Gaelic Phantom)
+255177: TyrTemplar: human: bard 20 / pale master 10 / blackguard 10: Minstrel of Doom
+255340: blixen71: human: bard 21 / fighter 12 / weapon master 7: Karna the Amazone of thousand tunes
+255377: daostwald: human?: druid 17 / shifter 19 / monk 4: Chameleon
+255399: Nimueh_Leafbow: human: bard 20 / fighter 4 / weapon master 16: Calamitous Cantor
+255432: TyrTemplar: human: fighter 8 / rogue 10 / blackguard 22: The Dark Prince (the Impaler)  (No DevCrit)
+255434: TyrTemplar: human: fighter 8 / rogue 10 / blackguard 22: The Dark Prince (the Impaler)  Version:; Dev.Crit
+255509: Xylophone: human?: paladin 16 / champion of Torm 8 / bard 16: Lore-Seeking Champion
+255517: TyrTemplar: human: paladin 5 / fighter 6 / blackguard 29: The Fallen (Angel of the Apocalypse)
+255518: TyrTemplar: human: fighter 8 / champion of Torm 22 / blackguard 10: The Liberator (Angel of Redemption)
+255525: Ariel Thomas: halfling: rogue 16 / druid 14 / champion of Torm 10: Claw 'Em When They're Down
+255551: grizzled_dwarflord: half-orc: cleric 26 / barbarian 4 / champion of Torm 10: The War Machine of Gruumsh
+255576: Cinnabar Din: half-orc: rogue 25 / champion of Torm 10 / Harper scout 5: The Harper's Thug
+255777: TyrTemplar: human: sorcerer 26 / red dragon disciple 10 / fighter 4: Arcane Knight (Angel of Vengeance)
+255947: galelabriel: human?: fighter 12 / monk 9 / weapon master 19: Two blades are better than One
+255952: galelabriel: human?: fighter 5 / barbarian 15 / blackguard 20: Fighter 5/ Barbarian 15/ Blackguard 20
+255988: 4SakN: human: fighter 27 / shadowdancer 10 / bard 3: Double Threat
+255990: dmuzzy: human?: wizard 26 / bard 4 / red dragon disciple 10: Might & Magic
+255993: 4SakN: human: fighter 18 / weapon master 19 / rogue 3: The Swashbuckler
+256086: grizzled_dwarflord: half-orc: barbarian 17 / rogue 13 / champion of Torm 10: Storm Knight of the Horned Lords
+256169: TyrTemplar: human: barbarian 16 / weapon master 19 / shadowdancer 5: Ghost Warrior (the Braveheart)
+256204: Ariel Thomas: human: barbarian 16 / cleric 2 / champion of Torm 22: Devout Berzerkr
+256475: dmuzzy: human?: cleric 16 / wizard 24: The Right Hand of Mystra
+256482: Mick Dagger: elf?: bard 11 / pale master 28 / cleric 1: The Boneguard (AC101)
+256530: TyrTemplar: human?: bard 26 / blackguard 4 / pale master 10: Pale Rider (the Angel of Death)
+256545: lendorallen: human: paladin 9 / ranger 26 / Harper scout 5: The Avenging Ranger
+256646: grizzled_dwarflord: dwarf: rogue 19 / fighter 16 / Harper scout 5: Battle Rogue of the Harpers
+256725: reggemS: halfling: fighter 12 / weapon master 25 / bard 3: YAKM - Yet Another Kukri Master
+256728: reggemS: dwarf: monk 21 / druid 6 / shifter 13: The Iron Dragon
+256808: Cinnabar Din: dwarf: fighter 20 / rogue 10 / champion of Torm 10: Dwarven Sellsword
+256841: Freedom-Fighta: human?: barbarian 16 / blackguard 16 / bard 8: Dark Crusader of the Black Rage
+256861: Ariel Thomas: dwarf: sorcerer 8 / red dragon disciple 10 / dwarven defender 22: Sorcererous Defender
+256941: TeoDeathDealer: half-elf: fighter 8 / champion of Torm 10 / shadowdancer 22: Silent Death
+256945: TyrTemplar: human: ranger 25 / rogue 10 / champion of Torm 5: Divine Ranger (Knight of the Woods)
+256992: Killapanda1: human: paladin 21 / druid 14 / Harper scout 5: The Celestial Badger
+257040: Anguishedcry: human?: monk 9 / cleric 15 / bard 16: What the Buff?
+257116: whirlin_merlin: elf: rogue 13 / champion of Torm 10 / weapon master 17: Elven Holy Warrior
+257125: Kail Pendragon: dwarf: druid 17 / dwarven defender 22 / monk 1: Dragon of the Stone Halls
+257125#: Kail Pendragon: dwarf: druid 21 / dwarven defender 18 / monk 1: Dragon of the Stone Halls
+257134: TyrTemplar: human: ranger 26 / rogue 10 / champion of Torm 4: Power Ranger (Knight of the Woods)
+257140: TyrTemplar: human: ranger 26 / rogue 10 / blackguard 4: Knight Panther (Warrior of the Cats)
+257184: Frogger70: human?: rogue 2 / cleric 8 / assassin 30: Thief in the Night
+257531: Cerion_FeRa: elf?: monk 10 / wizard 1 / arcane archer 29: Zen archer
+257638: Mick Dagger: human: ranger 2 / cleric 8 / assassin 30: Night Ranger
+258120: Anuis: human: barbarian 16 / monk 6 / cleric 18: Engine of Destruction
+258339: Rellin Ka'Jer: halfling: rogue 25 / fighter 14 / shadowdancer 1: Halfling Strength Rogue
+258617: Kail Pendragon: human?: monk 16 / bard 14 / red dragon disciple 10: The Dragon's Claw
+259301: grizzled_dwarflord: dwarf: fighter 14 / bard 4 / weapon master 22: Lord of the Fray
+259314: dmuzzy: human?: bard 26 / rogue 10 / red dragon disciple 4: The Explorer
+259527: Fahraen: human?: sorcerer 29 / pale master 10 / monk 1: Evasive Sorcerer
+259780: Grimnir77: dwarf?: barbarian 24 / bard 6 / fighter 10: Axe Idiot
+259781: mantis3: human: sorcerer 29 / pale master 10 / bard 1: Dark Artist
+259828: grizzled_dwarflord: dwarf: bard 16 / barbarian 16 / fighter 8: The Sound and the Fury
+259830: grizzled_dwarflord: human: barbarian 16 / bard 6 / champion of Torm 18: The Heathen King
+259905: galelabriel: human?: fighter 10 / barbarian 17 / weapon master 13: The Raging Bastard
+260084: Bromium: human?: druid 6 / shifter 15 / weapon master 19: Poisonous Spear
+260112: Thaxll'ssyllia: human?: fighter 14 / cleric 19 / weapon master 7: Lord Firescythe
+260419: Burylene: elf: monk 20 / fighter 20: Team Staller
+260507: LuckyNephilim: human: ranger 10 / monk 1 / assassin 29: Corrupted Stalker
+260934: avarielo: halfling: rogue 29 / fighter 6 / monk 5: The Hillgrass Tornado
+261145: jobluntz: human: monk 6 / fighter 12 / weapon master 22: Dual-wielding WM Monk
+261247: Night  Dr: elf?: shifter 22 / shadowdancer 13: Fly (5)
+261325: Bromium: dwarf: druid 5 / shifter 17 / dwarven defender 18: Drow Defender
+261360: K U R T H: elf?: monk 9 / cleric 9 / blackguard 22: Blacktalon
+261644: Thaxll'ssyllia: gnome?: wizard 20 / sorcerer 20: Arcane Spammer
+261829: Bromium: elf?: druid 6 / shifter 24 / shadowdancer 10: SpitBall
+262121: Thaxll'ssyllia: human?: druid 37 / assassin 2 / monk 1: Divine Exclamation
+262148: mantis3: elf?: bard 16 / fighter 14 / shadowdancer 10: Slashing Singer
+262679: LuckyNephilim: human: sorcerer 9 / paladin 20 / red dragon disciple 11: Dragon Saint
+262838: Thaxll'ssyllia: human: sorcerer 37 / paladin 1 / blackguard 2: Graced Sorcerer
+262890: dmuzzy: human?: sorcerer 36 / fighter 2 / cleric 2: The Arcane Vanguard
+263093: Bromium: human?: monk 23 / paladin 12 / Harper scout 5: Torm's Envoy
+263352: wizzkid14: elf?: arcane archer 29 / monk 10 / wizard 1: Dev Crit Archer
+263591: Cinnabar Din: half-elf: fighter 10 / bard 3 / arcane archer 27: The Devastator
+263644: Bromium: human?: monk 22 / blackguard 13 / Harper scout 5: The Converted Scout
+263733: galelabriel: elf?: rogue 17 / fighter 16 / shadowdancer 7: Rogue 17/Fighter 16/Shadowdancer 7
+263740: Bromium: human?: druid 5 / shifter 10 / monk 25: The Stone Smasher
+263810: Praetor_Ghastkill: human?: paladin 12 / bard 12 / pale master 16: The Fallen Executor
+263826: Bromium: elf?: monk 27 / wizard 11 / shadowdancer 2: Poly Monk
+264210: Cinnabar Din: dwarf?: wizard 38 / pale master 1 / fighter 1: Eldritch Guardian of the Clanhold
+264359: TyrTemplar: human: barbarian 22 / red dragon disciple 10 / bard 8: Dragon Blade
+264493: LauraRift: human?: cleric 15 / weapon master 24 / bard 1: Torm Cleric
+264737: Mick Dagger: human?: monk 2 / cleric 8 / assassin 30: Dark Moon Agent
+264908: Ithacan: dwarf?: bard 26 / blackguard 4 / red dragon disciple 10: One Mean Dragon
+265001: Bromium: elf?: druid 7 / shifter 11 / wizard 22: OK I'll Tank
+265100: Ithacan: human?: monk 6 / paladin 29 / rogue 5: Walks Softly and Carries a Big Axe
+265109: Bromium: human?: druid 5 / cleric 25 / shifter 10: Holy Icicles
+265120: galelabriel: human?: cleric 14 / fighter 4 / blackguard 22: Cleric 14/Fighter 4/Blackguard 22
+265185: Ithacan: human: druid 26 / champion of Torm 8 / monk 6: Avenging Dragon
+265281: M4t3us: human?: paladin 17 / sorcerer 3 / pale master 20: Death Keeper
+265497: johann_howitzer: human?: sorcerer 22 / red dragon disciple 10 / pale master 8: Draconic Arcanum
+265734: Thaxll'ssyllia: dwarf: ranger 22 / fighter 4 / dwarven defender 14: Woodland Dwarf
+265881: johann_howitzer: elf?: cleric 23 / bard 12 / arcane archer 5: Inspiring Bowyer
+266063: johann_howitzer: elf?: cleric 20 / bard 12 / arcane archer 8: The New Inspiring Bowyer
+266094: TyrTemplar: human: barbarian 28 / red dragon disciple 10 / bard 2: Dragon Rider (the Mighty Blade)
+266095: TyrTemplar: human: bard 14 / red dragon disciple 10 / barbarian 16: Dragon Rider (the Magical Blade)
+266614: Ithacan: elf?: blackguard 19 / monk 16 / wizard 5: Walks the Path Darkly
+266683: Ithacan: halfling?: bard 20 / champion of Torm 18 / wizard 2: Singing Stunner
+266736: dmuzzy: elf?: rogue 5 / fighter 6 / assassin 29: Drow Assassin
+267252: johann_howitzer: human: ranger 21 / bard 9 / red dragon disciple 10: Dancing Blades
+267502: Bromium: human?: cleric 24 / druid 15 / bard 1: Natures Xbow
+267622: Ithacan: elf: ranger 23 / monk 12 / shadowdancer 5: Shadow of the Woods
+267959: I...Samphus: human: ranger 26 / bard 4 / red dragon disciple 10: Sharp Teeth Ranger
+268019: Aakanaar: halfling: monk 31 / rogue 9: Mini Monk
+268028: Stuflames: human: sorcerer 36 / blackguard 3 / rogue 1: Lord of the Black Chain Knights
+268176: galelabriel: dwarf?: rogue 17 / monk 18 / fighter 5: Rogue 17/ Monk 18/ Fighter 5
+268423: Ithacan: elf?: rogue 3 / weapon master 25 / fighter 12: A Taste of Their Own Medicine
+268517: Ithacan: human?: sorcerer 18 / paladin 16 / monk 6: Walks with Divine Arcana
+268568: Thaxll'ssyllia: dwarf: cleric 20 / dwarven defender 18 / monk 2: Lethal Kama
+268829: dust7: halfling: rogue 27 / cleric 12 / shadowdancer 1: Blessed Bandit
+268869: Aakanaar: halfling: monk 25 / rogue 10 / shadowdancer 5: Mini Monk v2
+268994: dust7: human?: bard 23 / red dragon disciple 10 / weapon master 7: Starving Bard [dex-based]
+269061: galelabriel: dwarf?: ranger 26 / fighter 4 / champion of Torm 10: Ranger 26/ Fighter 4/ Champion of Torm 10
+269097: galelabriel: dwarf: rogue 17 / fighter 6 / barbarian 17: Relentless Assault
+269200: Ithacan: human?: cleric 35 / shadowdancer 2 / monk 3: Walks the Dark Divine v.1
+269201: Ithacan: human?: cleric 32 / shadowdancer 2 / monk 6: Walks the Dark Divine v.2
+269599: Ithacan: elf?: champion of Torm 26 / monk 12 / wizard 2: Walks the Path of Wrathful Stunning
+269965: Bromium: human?: cleric 17 / sorcerer 13 / red dragon disciple 10: Bahl Ista
+270046: Ariel Thomas: human?: fighter 8 / paladin 4 / weapon master 28: Charismatic Basher
+270126: dust7: human: bard 20 / rogue 13 / weapon master 7: Singing Sushimaster
+270136: Ariel Thomas: elf?: paladin 15 / wizard 2 / arcane archer 23: Charismatic Sniper
+270221: Gothic90: human: cleric 32 / champion of Torm 6 / rogue 2: Cleric 32/ Champion of Torm 6/ Rogue 2
+270516: TyrTemplar: human: ranger 26 / weapon master 13 / bard 1: Green Knight (Wildwood Minstrel)
+270518: TyrTemplar: human: ranger 10 / weapon master 22 / fighter 8: Robin Hood (Wildwood Warrior)
+270617: CaZin0: elf: rogue 16 / fighter 4 / bard 20: Dashing Bladesinger
+270751: dust7: elf?: rogue 15 / monk 6 / weapon master 19: Mad Monk
+270836: TyrTemplar: human: ranger 30 / weapon master 7 / bard 3: Green Knight (Wildwood Mercenary), v.2
+270842: TyrTemplar: human: ranger 26 / bard 14: Sherwood Blade (Wildwood Minstrel)
+270921: TWCheney: human: ranger 35 / shadowdancer 5: Silent Hunter
+271060: Setanta1978: human: fighter 8 / weapon master 7 / wizard 25: Spellblade
+271142: To Nowhere: human: ranger 14 / fighter 16 / shadowdancer 10: Descendant of Belmont
+271264: TyrTemplar: elf: bard 8 / shadowdancer 10 / arcane archer 22: Lady Marian (Wildwood Maiden)
+271537: Bruce Lee 72: dwarf: monk 10 / fighter 4 / dwarven defender 26: 10Monk/4Fighter/26DwarvenDefender
+271724: TyrTemplar: half-elf: bard 1 / arcane archer 13 / ranger 26: Robin of Locksley:; the Archer's Story (Wildwood Outlaw)
+271979: Zeelot: human: bard 12 / red dragon disciple 10 / pale master 18: Blood War Commander
+272035: Ithacan: elf?: barbarian 16 / blackguard 4 / bard 20: Bad to the Bone
+272036: Ithacan: elf?: monk 25 / sorcerer 1 / red dragon disciple 14: Walks the Path of the Dragon
+272092: Ithacan: elf?: rogue 17 / champion of Torm 22 / shadowdancer 1: A Stunning Bastard
+272105: TyrTemplar: human: ranger 26 / bard 4 / pale master 10: Wild Hunter (Eternal Warden)
+272132: Ithacan: elf?: bard 26 / shadowdancer 2 / pale master 12: Shadow Bone Skald
+272188: mantis3: human?: cleric 26 / champion of Torm 8 / monk 6: The Dragon's Weapon
+272288: Bromium: elf: druid 6 / shifter 7 / assassin 27: Black Adder
+272542: TyrTemplar: human: champion of Torm 14 / ranger 10 / monk 16: Green Beret  (Torm's Special Operative)    (STR+DEX vers.)
+272583: TyrTemplar: human: sorcerer 26 / blackguard 4 / pale master 10: Sorcerer King (Wildwood Prince)
+273313: Hiwatt: elf?: ranger 21 / monk 18 / wizard 1: Liberator...  of weapons
+273501: Hiwatt: elf?: wizard 21 / monk 14 / shadowdancer 5: Hide and Seek Arcana
+274173: Ariel Thomas: human?: ranger 32 / shadowdancer 4 / fighter 4: Nature's Executor
+274403: dragonkillerdojo: human?: paladin 20 / sorcerer 10 / red dragon disciple 10: Draconic Holy Defender
+274945: skzb: human: bard 23 / cleric 13 / fighter 4: The Devout Songster
+275035: DragonRaider69: human: sorcerer 29 / monk 3 / blackguard 8: Arcane Greatsword
+275336: Bromium: elf?: monk 10 / assassin 20 / blackguard 10: Sinister Whip Adept
+275446: TyrTemplar: human: barbarian 23 / druid 12 / Harper scout 5: Viking Berserker (Bear Warrior)
+275718: Hiwatt: elf?: paladin 20 / monk 10 / rogue 10: A Problem of Epic Proportions
+275726: Hiwatt: elf?: paladin 17 / champion of Torm 10 / rogue 13: A Problem of Epic Proportions V.2
+276041: rakh-talazar: elf?: ranger 21 / wizard 3 / pale master 16: The Baelnorn
+276529: SablePhoenix: human?: rogue 19 / blackguard 19 / shadowdancer 2: Stalker In Shadows
+276570: TyrTemplar: human: blackguard 4 / rogue 17 / weapon master 19: Sheriff of Nottingham (Wildwood Tyrant)
+276571: TyrTemplar: human: ranger 25 / paladin 15: Lionheart (Wildwood Crusader)
+276629: Ithacan: elf: fighter 14 / blackguard 25 / sorcerer 1: Smiting Bastard with Elf Ears
+276765: Ocelott: human?: rogue 23 / champion of Torm 10 / weapon master 7: Torm's Temple Guardian
+276866: Sokar Rostau: human: fighter 40: Pure Bastard
+276869: Sokar Rostau: human: fighter 40: Overwhelming Bastard
+276943: NolDrek: dwarf?: barbarian 40: Meat - A Big Pile of HP
+276953: NolDrek: dwarf?: barbarian 24 / fighter 16: Meat - A Big Pile of HP
+277359: TyrTemplar: human: paladin 26 / red dragon disciple 10 / bard 4: Wing Commander (Red Squadron) (bard version)
+277359#: TyrTemplar: human: paladin 29 / red dragon disciple 10 / sorcerer 1: Wing Commander (Red Squadron) (sorcerer version)
+277817: Ithacan: elf?: bard 30 / shadowdancer 2 / champion of Torm 8: Shadowskald Champion
+277869: Ithacan: elf?: rogue 36 / shadowdancer 1 / monk 3: Zen Seekersneak
+277908: mantis3: elf?: paladin 20 / monk 18 / assassin 2: The Fallen Angel
+277956: Loki122: dwarf?: barbarian 23 / bard 2 / red dragon disciple 15: Iron God
+278114: sbtedarknight: half-elf: barbarian 21 / sorcerer 1 / arcane archer 18: Overwhelming Thunder
+278245: Cerolill: halfling: rogue 24 / shadowdancer 16: The Infiltrator
+278296: TyrTemplar: human: bard 26 / barbarian 4 / red dragon disciple 10: War Bard (Battle Crier)
+278312: gorche: human: fighter 28 / bard 2 / red dragon disciple 10: Whirling Dever
+278891: applesaremybestfriends: elf?: ranger 24 / paladin 15 / rogue 1: The Holy Mongoose
+279092: Bulragus: human?: ranger 21 / rogue 3 / barbarian 16: The Furious Huntsmen
+279219: Seraph the Ronin: human?: barbarian 20 / fighter 6 / weapon master 14: Tempus' Rage Incarnate
+279285: Tattoed Monk: human: paladin 26 / champion of Torm 10 / rogue 4: Acererak's Bane
+279316: CashaManykamas: halfling: monk 8 / ranger 9 / assassin 23: Halfling Ronin
+279611: Niad123: halfling?: barbarian 16 / rogue 17 / weapon master 7: Slagathor
+279699: TyrTemplar: halfling: ranger 10 / assassin 28 / shadowdancer 2: Night Talon
+279762: sbtedarknight: half-elf: ranger 5 / assassin 13 / blackguard 22: The Synergy Of Seven
+280293: jb4479: human: champion of Torm 20 / fighter 6 / rogue 14: Champion of Torm(20), Fighter(6), Rogue(14)
+280327: TyrTemplar: human: ranger 35 / assassin 1 / fighter 4: Supernatural Hunter (Shape-Shifter Slayer)
+280327#: TyrTemplar: human: ranger 30 / assassin 2 / fighter 8: Supernatural Slayer – Natural Born Killer (Variant)
+280377: Bromium: human?: wizard 10 / pale master 28 / shadowdancer 2: Death Trap
+281190: Thaxll'ssyllia: dwarf: fighter 8 / wizard 18 / dwarven defender 14: Amshel Kerak:; The Smart
+281191: Thaxll'ssyllia: dwarf: ranger 9 / wizard 17 / dwarven defender 14: Van Kerak:; The Wild
+281200: BreadGirl: human: druid 25 / cleric 11 / blackguard 4: Druidic Doom
+281512: WhiZard: elf: wizard 23 / ranger 1 / shadowdancer 16: Hidden Magic Elf
+281799: ILikeKillAndYou: halfling: cleric 34 / fighter 4 / monk 2: Smooth Archer
+282309: WhiZard: human: barbarian 15 / druid 15 / champion of Torm 10: The Dragon Prince
+282503: gamerdude5: halfling: monk 25 / fighter 14 / sorcerer 1: Stunning Monk
+282632: Bromium: elf?: bard 8 / arcane archer 22 / shadowdancer 10: Twang in D minor
+282649: Daschel: human: paladin 17 / rogue 13 / ranger 10: The Traveller's Friend
+282703: Cerolill: human: cleric 15 / paladin 5 / champion of Torm 20: Champion of Tyr
+283123: TyrTemplar: halfling: paladin 16 / shadowdancer 5 / rogue 19: Shadow Shield  (SC5-ED-HiPs Halfling Paladin)
+283124: TyrTemplar: halfling: paladin 15 / champion of Torm 6 / rogue 19: Shadow Sword  (SC5-ED-ITWF Halfling Paladin)
+283308: Bromium: half-orc?: fighter 16 / weapon master 7 / wizard 17: Magical Sharp Two-Blader
+283701: Drosettia: elf?: bard 7 / red dragon disciple 10 / arcane archer 23: Dragon Scaled Shards, Rysta'tia Magicia
+284192: WhiZard: human?: druid 5 / shifter 10 / monk 25: Outside the Natural
+284554: fbr123: dwarf: bard 4 / pale master 10 / dwarven defender 26: Rotten dwarfmeat shield
+284702: Beetlenut: human?: ranger 25 / rogue 10 / Harper scout 5: Harper Scout Force Recon
+284801: WhiZard: human?: druid 5 / shifter 16 / rogue 19: Strength Smotherer
+285074: Kjeldor Alduel: human: wizard 37 / fighter 2 / bard 1: Blade Seer
+285114: fbr123: gnome: sorcerer 29 / pale master 10 / paladin 1: Smarmy Charmy Zombie
+285374: elcynic: dwarf: monk 20 / dwarven defender 19 / assassin 1: M.I.D.A.S. Dwarven Construct
+285407: DaMouse404: human?: cleric 17 / bard 16 / weapon master 7: Stretchy
+285599: DaMouse404: human?: cleric 32 / paladin 5 / rogue 3: Cheesely of the Divine
+285690: BreadGirl: dwarf: sorcerer 7 / dwarven defender 13 / red dragon disciple 20: Fire-breathing Dwarf
+285984: rafa10pj: dwarf: fighter 8 / dwarven defender 22 / blackguard 10: Defender of Darkness
+286005: DaftFox: human?: fighter 25 / weapon master 7 / rogue 8: Stepped-up Weapon Master
+286006: rafa10pj: human: bard 16 / champion of Torm 8 / blackguard 16: Divine Traitor
+286178: basuraman: human?: sorcerer 26 / paladin 4 / champion of Torm 10: Knight of the Mystic Fire
+286270: Stonebreaker: human: wizard 25 / fighter 14 / rogue 1: Spellsword
+286285: rafa10pj: elf: rogue 17 / shadowdancer 1 / blackguard 22: Elven Doom Harbinger
+286513: haseo terror of death: human: fighter 18 / bard 15 / weapon master 7: The Singing Kukri
+286554: rafa10pj: human: cleric 32 / fighter 4 / rogue 4: Ranged Nuker
+287123: Feledrae: human?: monk 9 / assassin 26 / shadowdancer 5: Shadow Karma
+287328: BreadGirl: human?: rogue 24 / cleric 9 / weapon master 7: The Blessed Trickster
+287448: Bromium: human?: cleric 30 / monk 9 / shadowdancer 1: Shadow Imploder
+287604: nilas: elf?: fighter 12 / bard 4 / pale master 24: Nimble Pale Master
+287609: basuraman: human: ranger 30 / paladin 4 / monk 6: Law of Nature
+287908: feldhake: human?: ranger 35 / rogue 5: The Versatile Stalker
+287923: rafa10pj: halfling: bard 26 / rogue 13 / shadowdancer 1: Support in a Small Package
+288116: BadWolf444: human: rogue 21 / fighter 18 / shadowdancer 1: Maskarran Field Agent
+288421: NeoRequiem: elf?: paladin 14 / rogue 12 / fighter 14: Inquisitor
+288770: ILikeKillAndYou: elf: paladin 29 / monk 6 / Harper scout 5: Another Paladin
+289050: Hiwatt: halfling?: monk 9 / champion of Torm 10 / wizard 21: Obsession with Knives
+289829: Hiwatt: elf?: monk 38 / wizard 1 / ranger 1: Magic Dead Zone
+291584: The_Krit: human: fighter 40: Sal:; Combat Mistress
+291606: WhiZard: dwarf: rogue 21 / Harper scout 5 / dwarven defender 14: Harping under cover
+291813: PrionViver: human?: cleric 20 / sorcerer 19 / monk 1: The All-Star Protector Caster
+292817: Bromium: human?: druid 5 / shifter 15 / bard 20: Spider Bard
+293059: Daschel: human?: ranger 32 / fighter 6 / shadowdancer 2: The Bushwhacker
+293063: Sinthael: halfling?: monk 9 / wizard 3 / pale master 28: Undead Pale Knight
+293365: TWCheney: half-orc: ranger 23 / barbarian 17: Tribal Scout
+293398: saidinspain: elf?: rogue 9 / wizard 2 / arcane archer 29: Hail Of Arrows
+293435: Empyre65: human: rogue 10 / fighter 8 / weapon master 22: Skilled Melee Tank
+293549: Deltutammatre: halfling?: bard 26 / blackguard 4 / red dragon disciple 10: Black Metal Maniac
+293577: DM_Darkling: elf?: rogue 13 / fighter 20 / weapon master 7: Whirling Dervish
+293702: Empyre65: human?: rogue 10 / cleric 26 / champion of Torm 4: Clever Cleric
+293706: Empyre65: human?: rogue 13 / monk 21 / champion of Torm 6: Skilled Monk
+293865: Kail Pendragon: human?: bard 26 / fighter 10 / blackguard 4: Black Wind
+293884: Empyre65: human?: monk 25 / sorcerer 1 / red dragon disciple 14: Order of the Wyrm
+293902: Kail Pendragon: halfling?: rogue 16 / fighter 10 / champion of Torm 14: Holy Slinger of Doom
+293927: Thaxll'ssyllia: elf: druid 20 / wizard 1 / arcane archer 19: Wise Shooter Krithnaya
+293989: Kail Pendragon: gnome?: wizard 26 / fighter 8 / rogue 6: Boccob's Magic Blade
+294099: Kail Pendragon: elf?: wizard 27 / rogue 2 / arcane archer 11: Boccob's Magic Arrow
+294155: Empyre65: human: rogue 7 / monk 25 / fighter 8: Skilled Unarmed Specialist
+294407: sbtedarknight: human?: druid 28 / weapon master 7 / Harper scout 5: M.G.K.M
+294417: TWCheney: elf: ranger 26 / wizard 4 / arcane archer 10: Forest Sniper
+294459: grizzled_dwarflord: elf: bard 17 / blackguard 4 / arcane archer 19: The Archer Laureate
+294723: Cinnabar Din: elf: wizard 17 / arcane archer 19 / paladin 4: Eldritch Archer Divine
+294782: grizzled_dwarflord: human: fighter 7 / paladin 5 / weapon master 28: The Hammer Knight Empyreal
+294853: TyrTemplar: half-elf: barbarian 15 / arcane archer 23 / bard 2: Little John, Wildwood Lieutenant (EDR3 TR-Archer)
+294858: sbtedarknight: half-elf: rogue 25 / ranger 14 / shadowdancer 1: Some Type Of Shadow
+295147: Kail Pendragon: human?: monk 36 / fighter 2 / rogue 2: Grand Master of Flowers
+295415: Mick Dagger: elf?: ranger 10 / assassin 28 / shadowdancer 2: Deathshadow
+295736: Empyre65: dwarf: cleric 26 / dwarven defender 14: Divine Defender
+295817: sbtedarknight: human: bard 25 / Harper scout 5 / shadowdancer 10: The Harper's Singing Shadow
+295887: grizzled_dwarflord: elf: paladin 10 / wizard 1 / arcane archer 29: The Divine Howitzer
+295931: grizzled_dwarflord: half-elf: paladin 16 / sorcerer 1 / arcane archer 23: Moon Knight of Corellon
+295958: Grimnir77: dwarf: cleric 20 / monk 2 / dwarven defender 18: The Undying
+296532: Mick Dagger: elf?: cleric 17 / monk 1 / shadowdancer 22: Blur and Faith
+296601: Kyrate: human?: monk 20 / rogue 10 / wizard 10: Mystic Monk
+297029: Angelfire1: human: wizard 31 / fighter 6 / rogue 3: Master Spellsword
+297114: grizzled_dwarflord: human: cleric 32 / blackguard 3 / monk 5: The Arbalest of Acheron
+297288: RangerSG: human: ranger 10 / assassin 25 / shadowdancer 5: Kalam Mekhar
+297350: Knife Blood Nightmare: human?: cleric 11 / bard 23 / champion of Torm 6: Divine Melody
+297584: Sten 87: halfling: rogue 31 / fighter 8 / shadowdancer 1: Ethereal Archer
+298223: The Sneaky Sneaker: human: rogue 16 / bard 20 / blackguard 4: Rogue 16 / Bard 20 /  Blackguard 4
+299000: Chidon55: human?: barbarian 20 / shadowdancer 10 / assassin 10: Artemis The Raging
+299025: magaiti: half-orc: barbarian 40: Iconic Barbarian
+299430: grizzled_dwarflord: halfling: rogue 21 / fighter 12 / blackguard 7: The Blade Runner
+299623: SamElanius: human: fighter 21 / weapon master 16 / rogue 3: Samantha the Lethal Edge
+299941: innic: human: rogue 10 / assassin 24 / fighter 6: Rogue 10 / Assassin 24 / Fighter 6
+300017: x-x-Shadow-x-x: human: sorcerer 26 / paladin 4 / red dragon disciple 10: Dragonfire Warrior
+300078: SamElanius: human?: bard 8 / red dragon disciple 10 / champion of Torm 22: Cati the Holy Edge
+300111: Scargoth: human?: fighter 16 / weapon master 22 / bard 2: Revenge of the Scythe
+300271: Praetor_Ghastkill: human: cleric 35 / monk 3 / fighter 2: Champion of Archons
+300348: innic: half-orc: monk 40: Barroom Brawler
+300469: VectorZulu: elf?: cleric 23 / champion of Torm 15 / monk 2: Divine Arrow
+300792: grizzled_dwarflord: human: sorcerer 26 / fighter 6 / champion of Torm 8: The August Spell-Blade
+300861: innic: human: cleric 40: Ruinous Reverend
+300947: VectorZulu: human?: paladin 14 / champion of Torm 25 / monk 1: Riding Archer
+301231: WhiZard: human?: fighter 9 / paladin 3 / weapon master 28: Lord Who Will Arise
+301575: grizzled_dwarflord: human: barbarian 16 / blackguard 4 / champion of Torm 20: The Arrikhan:;  Glorius Hellsword
+301725: grizzled_dwarflord: human: fighter 12 / bard 3 / shadowdancer 25: The Twilight Queen
+301786: Jaysyn: human?: bard 6 / pale master 30 / blackguard 4: Divine Deathguard
+301798: Bruce Lee 72: dwarf: monk 18 / champion of Torm 8 / dwarven defender 14: The Guardian
+301800: OCNT Dogo: human: bard 30 / shadowdancer 3 / weapon master 7: The Singing Spear of Selûne
+301814: WebShaman: dwarf: wizard 40: Melee Mage
+301943: WhiZard: human?: barbarian 15 / assassin 5 / wizard 20: Dark Magic Permeater
+301952: Empyre65: elf: bard 40: Empyre's Pure Bard
+301972: Empyre65: halfling?: rogue 10 / shadowdancer 30: Empyre's "Pure" Shadowdancer I
+302051: Empyre65: human: monk 10 / shadowdancer 30: Empyre's "Pure" Shadowdancer II
+302072: WhiZard: human: fighter 10 / weapon master 30: Iconic Weapon(s) master
+302091: Empyre65: elf: bard 10 / shadowdancer 30: Empyre's "Pure" Shadowdancer (v.3)
+302118: Empyre65: elf: ranger 10 / shadowdancer 30: Empyre's "Pure" Shadowdancer IV
+302265: Empyre65: human: bard 10 / red dragon disciple 30: Empyre's Pure Red Dragon Disciple
+302350: Empyre65: human: rogue 20 / monk 10 / fighter 10: Dervish
+302381: Empyre65: human: rogue 19 / monk 11 / fighter 10: Stealthy Dervish
+302439: grizzled_dwarflord: human: cleric 29 / monk 5 / champion of Torm 6: The Storm Elementalist
+303254: grizzled_dwarflord: dwarf: fighter 12 / bard 4 / pale master 24: The Charnel Lord
+303318: Morrg: elf?: fighter 18 / cleric 19 / monk 3: Divine Arrows
+303345: Cinnabar Din: human?: fighter 10 / blackguard 5 / weapon master 25: Mistress of the Black Blade
+303605: Conlaoch: half-orc?: barbarian 4 / assassin 10 / wizard 26: Pearl Among Swine
+303678: onion eater: elf: bard 11 / blackguard 3 / arcane archer 26: Wicked Rain
+303744: Mick Dagger: half-elf?: fighter 20 / bard 5 / arcane archer 15: Devastating Specialist of Blade and Bow
+303969: chucknra: human: bard 5 / red dragon disciple 10 / weapon master 25: Bard 5 / RDD 10 / WM 25 with Dev Crit & Dam Reduction
+304134: Sakkae: elf?: monk 27 / rogue 13: The Crippling Fist Fighter
+304139: ksipsi: human?: wizard 23 / cleric 17: The Arcane Theurge
+304143: Thaxll'ssyllia: human: druid 30 / fighter 10: Nature's Lost One
+304249: NashvilleKnight: human: sorcerer 21 / monk 6 / blackguard 13: The Infernal Iron Fist
+304431: ksipsi: human?: sorcerer 26 / champion of Torm 11 / rogue 3: Isaac's Morgenstern
+304437: Tattoed Monk: human?: paladin 26 / fighter 8 / rogue 6: The Grizzled Knight
+304441: DarkInfernoo: elf: barbarian 16 / ranger 5 / wizard 19: Tenser's Barbarian
+304595: Gammata: gnome?: sorcerer 20 / wizard 20: Isaac
+304632: Maximillian Kane: human: paladin 26 / weapon master 8 / monk 6: Holy Weapon Master With Cheese
+304715: Maximillian Kane: human: ranger 21 / monk 2 / rogue 17: The Silent Death Dealer
+304804: daisycutting: elf?: bard 30 / arcane archer 9 / rogue 1: The Supporting Act
+304886: Tattoed Monk: human?: rogue 23 / fighter 16 / shadowdancer 1: Versatile Stealth Warrior
+304912: Maximillian Kane: human: paladin 20 / monk 2 / druid 18: The Forsaken Holy Dragon
+304940: Maximillian Kane: human: paladin 20 / monk 1 / weapon master 19: Holy Weapon Master With Cheese (v.2)
+305066: DarkInfernoo: elf: bard 26 / red dragon disciple 10 / pale master 4: Andariel the Irredeemable
+305180: Bertuzzi: human?: druid 33 / monk 6 / shadowdancer 1: Sneaky Dragon
+305219: Bertuzzi: human: fighter 12 / weapon master 25 / shadowdancer 3: Not another sneak WM
+305752: Stonebreaker: halfling: ranger 3 / fighter 18 / shadowdancer 19: Halfling Death
+306297: Angelis Dania: half-orc: barbarian 20 / bard 4 / pale master 16: Dread Wraith
+306705: Ithacan: elf: paladin 16 / rogue 19 / purple dragon knight 5: Shining Death Knight (Str version)
+306706: Ithacan: elf: paladin 16 / rogue 19 / purple dragon knight 5: Shining Death Knight (Dex version)
+306779: Revenant Mattlov: human?: bard 15 / red dragon disciple 10 / champion of Torm 15: Song of Wrath
+306842: Revenant Mattlov: human?: bard 26 / blackguard 4 / red dragon disciple 10: Song of Despair
+306875: Revenant Mattlov: human?: bard 35 / blackguard 4 / shadowdancer 1: Ghostly Performer
+306957: Revenant Mattlov: human?: sorcerer 36 / paladin 2 / rogue 2: Mystic Juggernaut
+307030: Revenant Mattlov: dwarf: bard 16 / red dragon disciple 10 / dwarven defender 14: Dwarven Disciple of Steel
+307151: Revenant Mattlov: human?: sorcerer 21 / paladin 9 / red dragon disciple 10: Arcane Blade of Draconic Might (v.1)
+307193: Revenant Mattlov: human?: sorcerer 26 / paladin 4 / red dragon disciple 10: Arcane Blade of Draconic Might (v.2)
+307249: Revenant Mattlov: dwarf?: wizard 38 / Harper scout 1 / ranger 1: The Tri-Focus Dwarfizard
+307366: Revenant Mattlov: half-orc: wizard 26 / champion of Torm 7 / weapon master 7: Bob The Half-Orc That Loved Tensers
+307416: Ryouko_: human: monk 18 / weapon master 20 / rogue 2: The Cleaver Monk
+307476: SwordDog: human?: barbarian 28 / bard 2 / red dragon disciple 10: Blunt Force Trauma
+307539: ptlee00: dwarf: rogue 17 / fighter 5 / dwarven defender 18: Dwarven Yojimbo
+307782: ptlee00: dwarf?: monk 20 / sorcerer 6 / red dragon disciple 14: Fire Sohei
+307810: Revenant Mattlov: human?: cleric 30 / paladin 1 / monk 9: Divine Shield of Faith
+308021: Revenant Mattlov: elf?: barbarian 16 / rogue 14 / monk 10: Rage of the Shadows
+308306: ptlee00: dwarf: monk 20 / dwarven defender 10 / champion of Torm 10: The Fist of Moradin
+308396: thiagocorrea: elf?: monk 20 / cleric 18 / shadowdancer 2: Avalaran WhiteFist
+308411: thiagocorrea: human?: paladin 14 / champion of Torm 25 / sorcerer 1: High AB Paladin
+308439: Grimnir77: human?: paladin 16 / fighter 2 / weapon master 22: Knight of Yore
+308456: Curved Knife: dwarf?: rogue 3 / fighter 12 / assassin 25: The Hitman
+308637: WhiZard: human?: ranger 35 / shadowdancer 1 / fighter 4: The Lawnmower
+308711: WhiZard: human?: druid 5 / shifter 17 / assassin 18: Poisonous Paralyte
+308771: MaTeCzEk: halfling: bard 11 / rogue 28 / shadowdancer 1: The Singing Rogue
+308812: MaTeCzEk: halfling: cleric 16 / rogue 23 / shadowdancer 1: The Buffed Rogue
+309182: Thaxll'ssyllia: elf: druid 21 / wizard 1 / arcane archer 18: Shifting Archer
+309192: Dramonin: halfling?: druid 29 / monk 1 / champion of Torm 10: Weather Caster
+309200: Dramonin: human?: barbarian 16 / paladin 8 / bard 16: Holy Furious Singer
+309209: Hexxl: half-orc?: ranger 35 / fighter 4 / shadowdancer 1: Bane of All
+309347: Mr Longshadow: human: fighter 22 / bard 8 / red dragon disciple 10: Kukri Master's Relative
+310681: Calbrenar: human: druid 26 / monk 1 / rogue 13: The Perfect Combatant
+311397: ptlee00: dwarf: monk 25 / fighter 10 / shadowdancer 5: The Shadow Warden
+312002: Hexxl: halfling?: cleric 16 / monk 12 / champion of Torm 12: Torm's Tiny Vengeance
+312376: WhiZard: human?: cleric 32 / monk 1 / shadowdancer 7: Negative Light
+312774: kevinxiaowis: human?: druid 28 / shifter 10 / monk 2: Invincible Dragon
+312843: kevinxiaowis: human: druid 36 / monk 2 / shadowdancer 2: Silvanite Shadewood Mistress
+312862: kevinxiaowis: elf?: druid 30 / assassin 9 / monk 1: Forest Shadow
+313058: Anuis: human: barbarian 32 / fighter 8: Bloodlust
+313131: jumjones: half-orc?: barbarian 17 / fighter 18 / Harper scout 5: Groanan the Harparian
+313179: Anuis: human: barbarian 32 / fighter 4 / rogue 4: Bloodlust Jr
+313221: jumjones: elf?: barbarian 16 / rogue 19 / Harper scout 5: Unsteady Eddy
+313390: WhiZard: human?: bard 25 / red dragon disciple 10 / purple dragon knight 5: Valiant Knight
+313731: mining monk: human?: cleric 36 / champion of Torm 2 / monk 2: Venerable Cleric of Torm
+313812: mastersuntzu: human: rogue 13 / shadowdancer 5 / assassin 22: Blissful Silence
+313881: Angelis Dania: human?: paladin 16 / rogue 22 / blackguard 2: Double Agent
+313913: Angelis Dania: halfling?: paladin 15 / monk 6 / rogue 19: Tyr's Dirty Worker
+314181: Angelis Dania: human?: paladin 15 / champion of Torm 20 / cleric 5: Crusader Veteran
+314288: Angelis Dania: elf?: fighter 20 / champion of Torm 10 / shadowdancer 10: Monk no Monk
+314372: Angelis Dania: human: paladin 8 / blackguard 2 / champion of Torm 30: Highest Possible Saves
+314608: ptlee00: human: rogue 5 / paladin 5 / monk 30: Fist of the North Star Lite
+315023: magaiti: dwarf?: fighter 5 / wizard 15 / pale master 20: Balanced Undead Spellsword
+315036: magaiti: dwarf?: fighter 7 / wizard 23 / pale master 10: Spellsword Mage
+315531: shinchern: human: wizard 35 / pale master 4 / monk 1: Death Magic Caster
+315622: Dramonin: gnome?: wizard 13 / pale master 25 / bard 2: Undead Mage Knight
+315697: lillesmurfen: half-elf: bard 21 / arcane archer 19: Piercing Ballad
+315781: Dramonin: halfling?: wizard 23 / assassin 7 / shadowdancer 10: Shadow of Magic
+315872: Dramonin: halfling?: wizard 26 / rogue 13 / shadowdancer 1: Shadow of Magic (Rogue version)
+315873: Dramonin: halfling?: wizard 26 / monk 9 / shadowdancer 5: Shadow of Magic (Monk Version)
+316192: Erombil: human?: cleric 24 / bard 16: Playable Cleric-Bard
+316276: Endalyor: elf: fighter 11 / weapon master 19 / shadowdancer 10: Feinting Fencer
+316280: Endalyor: elf: fighter 11 / rogue 13 / weapon master 16: Rogue Style
+316284: Dramonin: halfling?: monk 15 / fighter 14 / cleric 11: The Two Tavern Twins:;    -  Monk 15 / Rogue 13 / Cleric 12
+316288: Maximillian Kane: half-orc: barbarian 28 / bard 2 / red dragon disciple 10: The HOOD (Half-Orc Of Doom)
+316379: Maximillian Kane: elf: bard 11 / blackguard 19 / shadowdancer 10: The Wicked Whisperer
+316404: Kail Pendragon: human: rogue 23 / barbarian 16 / shadowdancer 1: Fear of the Dark
+316432: jumjones: elf?: barbarian 16 / wizard 5 / arcane archer 19: Wild Rider of Kouros
+316436: Dramonin: halfling?: cleric 15 / monk 6 / blackguard 19: Doomsayer of Ill Omen
+316493: ptlee00: human?: bard 16 / fighter 14 / champion of Torm 10: Blade Chanter
+316552: Anuis: human: paladin 14 / wizard 21 / shadowdancer 5: Shrouded Hunter
+316572: The_Fascist_Porkchop: human: fighter 8 / ranger 25 / weapon master 7: Visible Monster
+316635: Maximillian Kane: human: druid 28 / monk 2 / champion of Torm 10: Champion of the Wilderness
+316680: Maximillian Kane: halfling: ranger 23 / rogue 16 / shadowdancer 1: The Bane Crusher
+316785: Maximillian Kane: human?: cleric 26 / monk 9 / shadowdancer 5: The Shadow Priest
+

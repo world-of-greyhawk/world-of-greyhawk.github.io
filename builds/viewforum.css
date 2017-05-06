@@ -1,0 +1,37 @@
+/* This is the style sheet for the list of topics making up a forum. */
+/* Built on top of the guild's base CSS: */
+@import "guild.css";
+
+/* table formatting (columns) */
+
+.subject {
+}
+.replies {
+    width:        0em;
+    text-align: right;
+}
+.views {
+    width:        0em;
+    text-align: right;
+}
+.lastpost {
+    font-size: smaller;
+}
+
+/* text formatting */
+
+.author {
+    font-size: smaller;
+}
+.date {
+    font-style: oblique;
+}
+
+.announce {
+    color: red;
+}
+
+.sticky {
+    color: green;
+}
+

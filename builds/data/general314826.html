@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Dispel - Epic Character Builder's Guild</title>
+
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="../viewtopic.css" />
+    <style type="text/css" id="mystyle"><!-- Intentionally empty; set dynamically. --></style>
+
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript" src="../viewtopic.js"></script>
+</head>
+
+<body>
+    <noscript>
+        <p class="warn">Due to the lack of server-side scripting, javascript is required to view builds
+        with nice formatting here. Sorry.</p>
+    </noscript>
+
+    <script type="text/javascript"><!--
+        PrintPageTop("general", "Dispel", 4, 71);
+
+        PrintPostTop(0, 2231999, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Tuesday, 09 February 2010 03:37AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I have recently uncovered the full (or so far as lengthy playtesting fully supports) application of the commands EffectDispelMagicBest() and EffectDispelMagicAll() and have posted them in the <a href="http://nwn.wikia.com/wiki/Dispel" target="_blank">wiki</a>.<br><br>This is significant as there is a slight difference to common formula given in game, as well as an indication of all exception effects.<br><br>Chiefly this has the impact that immunity (mostly) to greater dispel starts at class level 24 (not 25). Also, that a few spells that are cast (like true seeing) are easily dispellable no matter what caster level they are cast at.<br><br>If anyone finds this confusing please let me know.<br>_________________<br>Can't find henchman or creature?<br><br>DebugMode 1<br>. (Press the button ".")<br>Search areas for the creature<br>DebugMode 0<p><i><span class="editby">Edited By WhiZard on 02/09/10 03:48</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(0, 2231999, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Tuesday, 09 February 2010 03:37AM");
+
+        PrintPostTop(1, 2232025, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 09 February 2010 10:45AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Wow! Thank you Whizard, this is extremely interesting.<p><i><span class="editby">Edited By Kail Pendragon on 02/09/10 10:46</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(1, 2232025, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 09 February 2010 10:45AM");
+
+        PrintPostTop(2, 2232032, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Tuesday, 09 February 2010 02:23PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Slight update as DispelMagicBest() doesn't use the exclusion list that DispelMagicAll() uses.  I also reformatted the conditions.<br><br>As for the following effects:<br>Curse<br>Concealment<br>See Invisibility<br>Spell Failure<br>Trueseeing<br><br>these can be prevented from defaulting to zero simply by linking them to another effect (one that won't default to zero).  This is done in-game with many standard spells by linking them to a visual effect (VFX_DUR_CESSATE_POSITIVE is most commonly used).<p><i><span class="editby">Edited By WhiZard on 02/09/10 14:24</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(2, 2232032, "WhiZard", "<span class=\"smallertext\">Joined: 08 Mar 2005<br>From: Seminary of Surprises<br></span>", "Tuesday, 09 February 2010 02:23PM");
+
+        PrintPostTop(3, 2232157, "Magical Master", "<span class=\"smallertext\">Joined: 31 Oct 2004</span>", "Wednesday, 10 February 2010 04:38PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Very interesting and explains a lot, thank you.
+    <script type="text/javascript"><!--
+        PrintPostEnd(3, 2232157, "Magical Master", "<span class=\"smallertext\">Joined: 31 Oct 2004</span>", "Wednesday, 10 February 2010 04:38PM");
+
+        PrintPageEnd("general", "Dispel", 4, 71); // -->
+    </script>
+
+</body>
+
+</html>

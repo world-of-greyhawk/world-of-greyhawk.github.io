@@ -1,0 +1,23 @@
+This is the documentation for the character build search list.
+
+The build list was automatically generated, but can be edited by hand.
+Colons separate fields, unless followed by a semicolon. (Yes, having the
+escape character after the character it is escaping is rather non-standard.
+Sorry. I had a reason for it at the time, and I have not seen sufficient
+reason to justify a change. Extra spaces at the beginning and end of a
+field will be ignored. Slashes are used to separate classes within a field.
+The field order (with square brackets indicating optional parts) is
+
+topic number: author: race: class1 level1[/ class2 level2[/ class3 level3]]: name
+
+Races and classes should be in standard form (spelled correctly). In addition
+to the standard races, the race field can be "any" to indicate a build that
+works for all races, or "unknown" to specify that the race cannot be determined
+from information in the forum. (A blank race is also treated as unknown, but
+with the provision that my updater utility would try to determine the race again.)
+Question marks at the end of a race name indicate a race that was deduced from
+a rule that I lack full confidence in, so has a higher probability of error than
+I would like.
+
+Any items that lack an author will be treated as deleted (another artifact of
+the now-defunct updater).

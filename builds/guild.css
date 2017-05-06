@@ -1,0 +1,120 @@
+/* This is the generic CSS for all ECB guild files. */
+/* Built on top of the parent defaults: */
+@import "../defaultstylesheet.css";
+
+
+/* general */
+
+body {
+    font-size:     1.0em;
+    margin-top:    2.5ex;
+    margin-bottom: 2.0ex;
+}
+a         { color: #ffee88; }
+a:visited { color: #ffffcc; }
+a:hover   { color: #6282C5; }
+a:active  { color: #003399; }
+
+h1 {
+    font-size:      1.5em;
+    text-align:    center;
+    margin-top:     1.0ex;
+    margin-bottom:  0.5ex;
+}
+
+h2 {
+    font-size:      1.2em;
+    text-align:    center;
+    margin-top:     1.0ex;
+    margin-bottom:  0.5ex;
+}
+
+p {
+    width:            80%;
+    text-align:   justify;
+    margin-left:     auto;
+    margin-right:    auto;
+    margin-top:     2.0ex;
+    margin-bottom:  2.0ex;
+}
+
+/* anchors that look like buttons */
+.buttonlink, .buttonhere, .buttonnone {
+    display:        inline-block;
+    font-size:              14px;
+    width:                  10em;
+    margin:          0.2ex   0px;
+    padding:         0.8ex 0.2em;
+
+    color:              white;
+    background-color:   black;
+    text-decoration:     none;
+    border-style:      groove;
+    border-color:     #cc9933;
+}
+.buttonlink:visited { color: white; }
+.buttonlink:hover   { color: white; border-color:     #ffcc00; }
+.buttonlink:active  { color: white; background-color: #003399; }
+/* This is for a "link" to the current page. */
+.buttonhere         { color: white; background-color: #003399; }
+.buttonhere:visited { color: white; }
+.buttonhere:hover   { color: white; }
+.buttonhere:active  { color: white; }
+/* This is for a placeholder "link". */
+.buttonnone         { color: white; background-color:inherit; border-style:hidden; margin-left: 3px; margin-right: 3px; }
+.buttonnone:visited { color: white; }
+.buttonnone:hover   { color: white; }
+.buttonnone:active  { color: white; }
+
+/* page layout */
+
+#menu {
+    width:          100%;
+    text-align:   center;
+    margin: 0ex auto 2ex;
+    float:          none;
+}
+.menuspacer {
+    margin: 0ex 0.75em;
+}
+
+.title {
+    display:       block;
+    text-align:   center;
+    margin: 0ex auto 1ex;
+}
+
+.subheading {
+    text-align:   center;
+    margin-top:    0.5ex;
+    margin-bottom: 2.5ex;
+}
+
+/* table layout */
+table {
+    width:                   80%;
+    margin-left:            auto;
+    margin-right:           auto;
+    margin-top:              2px;
+    margin-bottom:           2px;
+    border-collapse:    collapse;
+    border: medium inset #eeaa22;
+}
+
+th {
+    color:             #ffbb66;
+    background-color:  #444444;
+    text-align:         center;
+    font-weight:          bold;
+    padding:       0.5ex 0.5em;
+    border: thin solid #cc9933;
+}
+
+td {
+    color:               white;
+    background-color:    black;
+    text-align:           left;
+    border: thin solid #664933;
+    padding:       0.5ex 0.5em;
+}
+

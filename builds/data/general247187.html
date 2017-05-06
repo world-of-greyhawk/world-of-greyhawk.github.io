@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Divine Power, Haste, and extra attacks - Epic Character Builder's Guild</title>
+
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="../viewtopic.css" />
+    <style type="text/css" id="mystyle"><!-- Intentionally empty; set dynamically. --></style>
+
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript" src="../viewtopic.js"></script>
+</head>
+
+<body>
+    <noscript>
+        <p class="warn">Due to the lack of server-side scripting, javascript is required to view builds
+        with nice formatting here. Sorry.</p>
+    </noscript>
+
+    <script type="text/javascript"><!--
+        PrintPageTop("general", "Divine Power, Haste, and extra attacks", 24, 303);
+
+        PrintPostTop(0, 1763293, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:02PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Okay, so the theory is, the extra attacks granted by Divine Power and Haste are at the character's highest AB. However, I noticed something odd when testing a CLC-based build over the last day or so.<br><br>BAB was +15 by level 20, so only 3 natural attacks per round. Using a warhammer and shield for one build, and a club and shield for another. Here's the skinny on the 2 builds:<br><br><b>Build 1: CLC 26/CoT 10/Rogue 4</b><br><br>AB Buffed, unhasted, no DP: +51/+46/+41<br>AB Buffed, unhasted, with DP: +51/+46/+41/<b>+51</b><br>AB Buffed, hasted, without DP: +51/+46/+41/<b>+51</b><br>AB Buffed, hasted, with DP: +51/+46/+41/<b>+51/+46</b><br><br><b>Build 2: Cleric 40</b><br><br>AB Buffed, unhasted, no DP: +57/+52/+47<br>AB Buffed, unhasted, with DP: +57/+52/+47/<b>+57</b><br>AB Buffed, hasted, without DP: +57/+52/+47/<b>+57</b><br>AB Buffed, hasted, with DP: +57/+52/+47/<b>+57/+52</b><br><br>Note the extra attacks with both Haste and DP active. Obviously, this is not behaving the way I've always expected it would. The question is: was I incorrect in thinking the extra attacks were all at the highest AB, or has something changed in the latest patch? Anyone else notice this?<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(0, 1763293, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:02PM");
+
+        PrintPostTop(1, 1763317, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:24PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+My tests show me the expected results, that is two additional attacks at full AB when both hasted and divined powered. I tested it with a WIS based Cleric 26/RDD 10/Bard 4, fully buffed AB of 59, BAB 25, attack schedule <b>59, 54, 49, 59, 59</b>.<br><br><br>Cheers,<br>Kail<br>_________________<br>Heavy metal<br>Or no metal at all<br>Whimps and posers<br>Leave the hall!
+    <script type="text/javascript"><!--
+        PrintPostEnd(1, 1763317, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:24PM");
+
+        PrintPostTop(2, 1763319, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:26PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Damned odd, Kail. I think I'll test again with no buffs other than Haste and DP and see what occurs.<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(2, 1763319, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:26PM");
+
+        PrintPostTop(3, 1763324, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:31PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Odd indeed. Try emptying your override and hak folders, maybe something in there is responsible for the glitch. Or maybe you've got a glitchy installation ala TyrTemplar/Deborah Tyr with EP and Monk.<br><br>I just did a quick test to verify it for now, I'll test some more later anyhow. Let's see what comes out.<br><br><br>Cheers,<br>Kail<br>_________________<br>To hear the sound of Freedom, many gave their lives<br>They fought for you and me<br>Those memories will always live inside us, and now it's our time to be free
+    <script type="text/javascript"><!--
+        PrintPostEnd(3, 1763324, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:31PM");
+
+        PrintPostTop(4, 1763327, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:40PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+What mod were you using to test it? I was using Dawnwalker's Novice to Epic blah blah blah...<br><br>Anyway, I just retested and got the same results. With either DP or Haste, the extra attack was at full AB. With both it was full AB for the first extra attack and then full AB -5 for the second.<br><br>I'll empty the haks and overrides and see if it makes a difference.<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(4, 1763327, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:40PM");
+
+        PrintPostTop(5, 1763337, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:52PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Okay, haks and overrides emptied and no difference:<br><br>AB: +44/+39/+34<br><br>With Haste: +44/+39/+34/+44<br><br>With DP: +49/+44/+39/+49 (remember DP also adds to AB, so that's why it jumps to +49)<br><br>With DP and Haste: +49/+44/+39/+49/+44<br><br>I may try it in a different module to see if it's the Novice to Epic mod that's the culprit, but so far it's consistent with my characters fully buffed and using DP and Boots of Speed, or only using DP and Boots of Speed. Different characters and different weapon choices as well.<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(5, 1763337, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 05:52PM");
+
+        PrintPostTop(6, 1763340, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:53PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I tested in Novice to Epic blah-blah myself... who knows, maybe it's my haks/overrides to make it work as one would expect though <img src="../../images/smiles/icon_lol.gif">   I only empty those folders when I find out a "new" bug myself like it happened when I tested unarmed disarm. This game is getting glitchier as time goes by...<br><br><br>EDIT: btw if I keep getting one result and you another we definitely need someone else to help us understanding what's goin gon. I'll test online too on the PW where I play that Cleric/RDD<br><br><br>Cheers,<br>Kail<br>_________________<br>To hear the sound of Freedom, many gave their lives<br>They fought for you and me<br>Those memories will always live inside us, and now it's our time to be free<p><i><span class="editby">Edited By Kail Pendragon on 07/18/06 17:57</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(6, 1763340, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 05:53PM");
+
+        PrintPostTop(7, 1763352, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 06:03PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Cool, thanks Kail. I PMed Grizz to see if he's noticed anything (he's playing a Cleric build on WoG right now). Hopefully others will give it a test as well. I'm going to test in the Pretty Good Character Creator as well and see if I get a different result.<br><br>One thought occurs to me: are you using a Haste item to get your Haste attack, or the spell? I used Boots of Speed only. I may whip up a build and use the spell to see if it makes a difference (don't know why it would, but as you say, this game's getting buggier by the day it seems). Won't be able to get back again for a few hours, but I'll post results when I get the opportunity.<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(7, 1763352, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Tuesday, 18 July 2006 06:03PM");
+
+        PrintPostTop(8, 1763561, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 11:26PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Darn this is getting even more confusing. I tested on the PW I play on and I got <b>your</b> same results. I retested offline and I get <b>mine</b> results, which is what one would expect to happen. The PW I tested it on has got CEP; might it be a glitch related to it?<br><br>I'm using haste from an item (boots), btw. I dunno what to think. The issue needs further investigation, definitely.<br><br><br>Cheers,<br>Kail<br>_________________<br>To hear the sound of Freedom, many gave their lives<br>They fought for you and me<br>Those memories will always live inside us, and now it's our time to be free
+    <script type="text/javascript"><!--
+        PrintPostEnd(8, 1763561, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Tuesday, 18 July 2006 11:26PM");
+
+        PrintPostTop(9, 1763601, "Big Meph", "<span class=\"smallertext\">Joined: 24 Mar 2006<br>From: Victoria, Australia<br></span>", "Wednesday, 19 July 2006 12:43AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+I though you guys might like another opinion. Just moments ago, I made a shake'n'bake cleric and tested the results.<br><br>Divine power 24/19/14/24<br>Divine power and haste 24/19/14/24/24<br><br>I tested it in the OC prelude.
+    <script type="text/javascript"><!--
+        PrintPostEnd(9, 1763601, "Big Meph", "<span class=\"smallertext\">Joined: 24 Mar 2006<br>From: Victoria, Australia<br></span>", "Wednesday, 19 July 2006 12:43AM");
+
+        PrintPostTop(10, 1763606, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Wednesday, 19 July 2006 12:49AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Thanks Meph. Hmmm, perhaps it's a CEP thing. I'll test one of my previous Cleric builds in the OC as well and see what ensues.<br><br>*Edit* Okay, just tested, and I get the same odd results. With both Haste and DP, the attack schedule is:<br><br>+49/+44/+39/+49/+44<br><br>I'll test out a brand new character at some point with no Boots of Speed, but with the Haste spell and see what results I get that way.<br>_________________<br>This signature will self-destruct in 5 seconds...<p><i><span class="editby">Edited By Cinnabar Din on 07/19/06 00:53</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(10, 1763606, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Wednesday, 19 July 2006 12:49AM");
+
+        PrintPostTop(11, 1763709, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Wednesday, 19 July 2006 04:14AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Okay, tested with a brand new level 40 CLeric in the prelude and still the same results. With Haste (spell instead of Boots) and DP active, the attack schedule was:<br><br>+35/+30/+25/+35/+30.<br><br>I'm out of ideas.<br>_________________<br>This signature will self-destruct in 5 seconds...
+    <script type="text/javascript"><!--
+        PrintPostEnd(11, 1763709, "Cinnabar Din", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 15 Mar 2004<br>From: Some backwater in the Orion Arm<br></span>", "Wednesday, 19 July 2006 04:14AM");
+
+        PrintPostTop(12, 1763783, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:57AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+At least you get consistent results CD. I get one result offline and a different one (the same as you) online. It's driving me crazy. I'd like to know what's going on, maybe some script guru can explain it?<br><br>Cheers,<br>Kail<br>_________________<br>Heavy metal<br>Or no metal at all<br>Whimps and posers<br>Leave the hall!
+    <script type="text/javascript"><!--
+        PrintPostEnd(12, 1763783, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:57AM");
+
+        PrintPostTop(13, 1763822, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Wednesday, 19 July 2006 10:09AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+interesting tests. My suggestion would be to DL both the CEP and the non-CEP version of -novice to epic- and check the results of those two.<br>_________________<br>I see the fear you have inside, you can run but never hide.<br>I will hunt you down and tear you limb from limb.<br><br>I run the <script type="text/javascript">PrintAnchor("viewguild.html", "13568", "", "", "", "", ' target="_blank"');</script>Pre-Epic Builders</a> guild. Join and share your experience.
+    <script type="text/javascript"><!--
+        PrintPostEnd(13, 1763822, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Wednesday, 19 July 2006 10:09AM");
+
+        PrintPostTop(14, 1763877, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 12:30PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Did as you suggested Grim, I got the expected results, that is two additional attacks at full AB both with the normal version that with the CEP version.<br><br>The only place where I got CD's results was Dragonlance RoH server with Keeira, check it out yourself when you get a chance. They could have changed how things work there for sure, what perplexes me is CD getting those odd results offline. I'll try testing on some other PWs.<br><br><br>Cheers,<br>Kail<br>_________________<br>Heavy metal<br>Or no metal at all<br>Whimps and posers<br>Leave the hall!
+    <script type="text/javascript"><!--
+        PrintPostEnd(14, 1763877, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 12:30PM");
+
+        PrintPostTop(15, 1764133, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Wednesday, 19 July 2006 06:54PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+<!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 07/19/06 12:30:46 (GMT) -- Kail Pendragon<br><br>Did as you suggested Grim, I got the expected results, that is two additional attacks at full AB both with the normal version that with the CEP version.<br><br>The only place where I got CD's results was Dragonlance RoH server with Keeira, check it out yourself when you get a chance. They could have changed how things work there for sure, what perplexes me is CD getting those odd results offline. I'll try testing on some other PWs.<br><br><br>Cheers,<br>Kail</div></blockquote><!-- BBCode Quote End --><br>But they haven't changed very many spells on DLROH. They have done something to durations, but and I know they have must have done something to Storm of Vengeance, but that's how far I have seen it go. I have a build with 15 pre-Epic BAB there, so I'll do the run if I can find a good time for it alone. <br><br>All these resutls here confuse me. We need a script guru.<br>_________________<br><a href="http://dlrealmofheros.freeforums.org/" target="_blank"> Dragonlance ROH</a> is back, better than before! and I spend a little time here <a href="http://worldofgreyhawk.10.forumer.com/" target="_blank"> WoG</a>
+    <script type="text/javascript"><!--
+        PrintPostEnd(15, 1764133, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Wednesday, 19 July 2006 06:54PM");
+
+        PrintPostTop(16, 1764148, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:10PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Yeah, where's GhostNWN? Maybe he can shed light on these oddities.<br>_________________<br>To hear the sound of Freedom, many gave their lives<br>They fought for you and me<br>Those memories will always live inside us, and now it's our time to be free
+    <script type="text/javascript"><!--
+        PrintPostEnd(16, 1764148, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:10PM");
+
+        PrintPostTop(17, 1764168, "FinneousPJ", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Feb 2005<br>From: Le Royaume Glacial du Nord<br></span>", "Wednesday, 19 July 2006 07:27PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+This issue cannot be solved from the scripts.<br>_________________<br>"With Europe liberated, the people of the world turned their attention to that old devil, the United States of America [...] We taught that monster of old the true meaning of freedom."<br><a href="http://www.starwreck.com/trailer.php" target="_blank">Star Wreck</a>
+    <script type="text/javascript"><!--
+        PrintPostEnd(17, 1764168, "FinneousPJ", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Feb 2005<br>From: Le Royaume Glacial du Nord<br></span>", "Wednesday, 19 July 2006 07:27PM");
+
+        PrintPostTop(18, 1764184, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:43PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Why? Can't it be that the second extra attack not getting full AB is the result of a modified spell script?<br><br>I get normal results offline (2 extra attacks at full AB) but not online on the PW where I tested it, where the second extra attack is at full AB -5. I get the idea they scripted something there.<br><br><br>Cheers,<br>Kail<br>_________________<br>Looking for a realm of adventure? Check out <a href="http://worldofgreyhawk.10.forumer.com/index.php" target="_blank">World of Greyhawk</a>, you won't regret it.
+    <script type="text/javascript"><!--
+        PrintPostEnd(18, 1764184, "Kail Pendragon", "<span class=\"posttitle\">Officer</span><br><br><span class=\"smallertext\">Joined: 19 Feb 2005</span>", "Wednesday, 19 July 2006 07:43PM");
+
+        PrintPostTop(19, 1764313, "Mithdradates", "<span class=\"smallertext\">Joined: 04 Jul 2002</span>", "Wednesday, 19 July 2006 10:19PM"); // -->
+    </script>
+    <noscript><hr></noscript>
+Haste uses the spell script nw_s0_haste.nss, and applies an EffectHaste() to the target of the spell.  DivinePower uses the spell scripts nw_s0_divpower.nss, and uses an EffectModifyAttacks(int) command to increase the number of attacks.  Niether of these commands allows for the specification of an attack bonus modification (hence the reason the extra attack from divine power is at the max AB in the first place).  Both of the attacks should be at the max AB, if they aren't I have no idea why.<br>_________________<br>Two wrongs don't make a right but three lefts do.
+    <script type="text/javascript"><!--
+        PrintPostEnd(19, 1764313, "Mithdradates", "<span class=\"smallertext\">Joined: 04 Jul 2002</span>", "Wednesday, 19 July 2006 10:19PM");
+
+        PrintPostTop(20, 1764562, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Thursday, 20 July 2006 05:21AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+<!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 07/19/06 22:19:18 (GMT) -- Mithdradates<br><br>Haste uses the spell script nw_s0_haste.nss, and applies an EffectHaste() to the target of the spell.  DivinePower uses the spell scripts nw_s0_divpower.nss, and uses an EffectModifyAttacks(int) command to increase the number of attacks.  Niether of these commands allows for the specification of an attack bonus modification (hence the reason the extra attack from divine power is at the max AB in the first place).  Both of the attacks should be at the max AB, if they aren't I have no idea why.</div></blockquote><!-- BBCode Quote End --><br>If that is true about Divine power, how come shifted forms with monk using unarmed attacks (like Dragonshape) with 5 base attacks add their DP attack at the lowest bonus? Not at the highest like everyone else?<br><br>Monk AB 15/12/9/6/3. Cast divine power and you get an extra attack at +15. Shift to bear, and your extra attack will be at +0.<br>_________________<br><a href="http://dlrealmofheros.freeforums.org/" target="_blank"> Dragonlance ROH</a> is back, better than before! and I spend a little time here <a href="http://worldofgreyhawk.10.forumer.com/" target="_blank"> WoG</a>
+    <script type="text/javascript"><!--
+        PrintPostEnd(20, 1764562, "Grimnir77", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 14 Jan 2005</span>", "Thursday, 20 July 2006 05:21AM");
+
+        PrintPostTop(21, 1766872, "Thaxll'ssyllia", "<span class=\"smallertext\">Joined: 05 Oct 2005<br>From: You really don't want to know...<br></span>", "Monday, 24 July 2006 03:27AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+<!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;I get normal results offline (2 extra attacks at full AB) but not online on the PW where I tested it, where the second extra attack is at full AB -5. I get the idea they scripted something there.</div></blockquote><!-- BBCode Quote End --><br>The strangest thing is that you can get different results... it should be consistent, I have no idea on what's happening there. It is possible somebody moved something on your PW I think... just as a thought, can you test it further with Flurry of Blows? if your second extra APR (FoB) goes at -10 then it's not necesarilly the spell itself but another sort of command for extra APRs (also count to notice if it decreases -3 and -6 instead of -5 and -10, or only -5, or whatever, you know what occurs with Monk AB progression, if it does go down -3/-6 there could be something scripted there for extra APRs independetly of what gives them).<br><br>BTW, it has always been max AB for me, every single time, no matter how many ridiculous extra APR I've gotten (even with 9 BAB exploiting Divine Power) that's why I don't know how to test that change to tell you myself.<p><i><span class="editby">Edited By Thaxll'ssyllia on 07/24/06 03:31</span></i></p>
+    <script type="text/javascript"><!--
+        PrintPostEnd(21, 1766872, "Thaxll'ssyllia", "<span class=\"smallertext\">Joined: 05 Oct 2005<br>From: You really don't want to know...<br></span>", "Monday, 24 July 2006 03:27AM");
+
+        PrintPostTop(22, 1766995, "FinneousPJ", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Feb 2005<br>From: Le Royaume Glacial du Nord<br></span>", "Monday, 24 July 2006 09:30AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+<!-- BBCode Quote Start --><blockquote><div class="quote">Quote:&nbsp;Posted 07/19/06 22:19:18 (GMT) -- Mithdradates<br><br>Haste uses the spell script nw_s0_haste.nss, and applies an EffectHaste() to the target of the spell.  DivinePower uses the spell scripts nw_s0_divpower.nss, and uses an EffectModifyAttacks(int) command to increase the number of attacks.  Niether of these commands allows for the specification of an attack bonus modification (hence the reason the extra attack from divine power is at the max AB in the first place).  Both of the attacks should be at the max AB, if they aren't I have no idea why.</div></blockquote><!-- BBCode Quote End --><br>To further expand this, <i>we cannot view the actual code of those two functions</i>. That's why this problem cannot be solved from the scripts.<br>_________________<br>"With Europe liberated, the people of the world turned their attention to that old devil, the United States of America [...] We taught that monster of old the true meaning of freedom."<br><a href="http://www.starwreck.com/trailer.php" target="_blank">Star Wreck</a>
+    <script type="text/javascript"><!--
+        PrintPostEnd(22, 1766995, "FinneousPJ", "<span class=\"posttitle\">Moderator's Forum</span><br> <span class=\"posttitle\">Moderator</span><br><br><span class=\"smallertext\">Joined: 24 Feb 2005<br>From: Le Royaume Glacial du Nord<br></span>", "Monday, 24 July 2006 09:30AM");
+
+        PrintPostTop(23, 1770241, "Okembour", "<span class=\"smallertext\">Joined: 19 May 2006</span>", "Sunday, 30 July 2006 12:12AM"); // -->
+    </script>
+    <noscript><hr></noscript>
+When I take a shower, sometimes I forget to use the right conditioner, and then my hair is all frizzy.
+    <script type="text/javascript"><!--
+        PrintPostEnd(23, 1770241, "Okembour", "<span class=\"smallertext\">Joined: 19 May 2006</span>", "Sunday, 30 July 2006 12:12AM");
+
+        PrintPageEnd("general", "Divine Power, Haste, and extra attacks", 24, 303); // -->
+    </script>
+
+</body>
+
+</html>
