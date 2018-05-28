@@ -61,6 +61,11 @@ main
 	position: relative;
 }
 
+a:link    { color: #ddd; }
+a:active  { color: #039; }
+a:hover   { color: #05f; }
+a:visited { color: white; }
+
 
 /* main area */
 
@@ -103,9 +108,7 @@ nav > a
 	vertical-align:  middle;
 	text-decoration: none;
 
-	background-color: inherit;
 	border: thin groove #000;
-	color:  inherit;
 	border-radius: 5px;
 	font-size: 1.2em;
 
@@ -114,13 +117,26 @@ nav > a
 	-ms-user-select:  none;
 	user-select: none
 }
-nav > a.target
+nav > a.target:link, nav > a.target:visited
 {
 	background-color: #039;
 	border-color: #039;
+	color: inherit;
 	cursor: default;
 	font-weight: bolder;
-	mouse-events:none;
+	pointer-events: none;
+}
+nav > a:link, nav > a:visited
+{
+	background-color: inherit;
+	border-color: #000;
+	color:  inherit;
+}
+nav > a:active
+{
+	background-color: #05f;
+	border-color: #fc1;
+	color:  #fff;
 }
 nav > a:hover
 {
@@ -160,7 +176,17 @@ h3
 	margin:  1em 0 0;
 }
 h3:first-child { margin-top: 0; }
-h3 + p, h3 + dl
+
+/* h4 = heading within a subsection */
+h4
+{
+	font-size:  1.1em;
+	color:  white;
+	margin:  1em 0 0;
+}
+
+/* Remove space between a heading and its paragraph. */
+h2 + p, h3 + p, h3 + h4, h4 + p
 {
 	margin-top: 0;
 }
