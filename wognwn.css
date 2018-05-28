@@ -90,7 +90,38 @@ nav
 	overflow:  auto;
 }
 
-.sectionheader
+/* text formatting */
+
+/* h1 = page heading */
+/* h2 = section heading */
+/* h3 = heading within a section */
+h3
 {
+	font-size:  1.2em;
 	color:  #cc9933;
+	margin:  1em 0 0;
 }
+h3:first-child { margin-top: 0; }
+h3 + p, h3 + dl
+{
+	margin-top: 0;
+}
+
+dl
+{
+	display: grid;
+	grid:  auto-flow / auto auto;
+	grid-column-gap: 1.5em;
+	justify-content: start;
+}
+dt
+{
+	grid-column: 1
+	margin: 0;
+}
+dd
+{
+	font-weight: bolder;
+	margin: 0;
+}
+
