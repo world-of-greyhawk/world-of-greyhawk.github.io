@@ -1,21 +1,24 @@
 /*zero code*/
-
-/*site base*/
 *
 {
+	box-sizing:  inherit;
 }
-
-html
+html, body
 {
 	box-sizing:  border-box;
+	height:  100vh;
+	margin:  0;
+	padding: 0;
 }
+
+/*site base*/
 
 body
 {
 	background-color:  black;
 	background-image:  url("darkerbattle.jpg");
 	color:  white;
-	font-size:  1em;
+	line-height:  1.5;
 }
 
 header, main, aside, section, nav, footer
