@@ -1,8 +1,10 @@
 /*zero code*/
+
 *
 {
 	box-sizing:  inherit;
 }
+
 html, body
 {
 	box-sizing:  border-box;
@@ -11,11 +13,12 @@ html, body
 	padding: 0;
 }
 
+
 /*site base*/
 
 body
 {
-	background-color:  black;
+	background-color:  #222;
 	background-image:  url("darkerbattle.jpg");
 	color:  white;
 	line-height:  1.5;
@@ -26,9 +29,11 @@ body
 	align-items: center;
 }
 
-header, main, aside, section, nav, footer
+section, nav, footer
 {
 	border-radius:  15px;
+	background-color: black;
+	color:  white;
 }
 
 header, main, footer
@@ -45,8 +50,6 @@ header
 
 footer
 {
-	background-color: black;
-	color:  white;
 	text-align: center;
 	margin-top:  1em;
 }
@@ -54,40 +57,38 @@ footer
 main
 {
 	flex-grow:  1;
-	display: flex;
-	justify-content: space-between;
 	min-height: 16em;
+	position: relative;
 }
 
-aside
-{
-	width: 10%;
-	background-color: black;
-	color: white;
-	text-align: left;
-	padding: 1em;
-	overflow:  auto;
-}
+
+/* main area */
 
 section
 {
-	width: 60%;
-	background-color: black;
-	color:  white;
+	width: calc(100% - 14em);
+	height: 100%;
 	text-align: left;
 	padding: 1em;
 	min-height: 1em;
 	overflow:  auto;
+	position: absolute;
+	z-index: -1;
+}
+section:target
+{
+	z-index: 1;
 }
 
 nav
 {
-	min-width:  10%;
-	background-color: black;
+	width: 12em;
+	height: 100%;
 	color:  #c93;
-	text-align: right;
 	padding: 1em 0em;
 	overflow:  auto;
+	position:  absolute;
+	right: 0;
 }
 
 nav > a
@@ -113,17 +114,18 @@ nav > a
 	-ms-user-select:  none;
 	user-select: none
 }
-nav > a.current-page
+nav > a.target
 {
 	background-color: #039;
 	border-color: #039;
 	cursor: default;
 	font-weight: bolder;
+	mouse-events:none;
 }
-nav > a:not(.current-page):hover
+nav > a:hover
 {
 	background-color: #039;
-	border: thin groove #fc1;
+	border-color: #fc1;
 	color:  #fff;
 }
 nav > a[disabled]
@@ -142,11 +144,19 @@ nav > a[disabled]
 
 /* h1 = page heading */
 /* h2 = section heading */
+h2
+{
+	font-size: 1.5em;
+	color:  #fc1;
+	margin: 0;
+	text-align: center;
+}
+
 /* h3 = heading within a section */
 h3
 {
 	font-size:  1.2em;
-	color:  #cc9933;
+	color:  #c93;
 	margin:  1em 0 0;
 }
 h3:first-child { margin-top: 0; }
