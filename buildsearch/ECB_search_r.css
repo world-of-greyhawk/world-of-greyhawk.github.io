@@ -1,12 +1,21 @@
 /* Formatting for the search results. */
 body {
-	padding: 10px 0.5em;
+	background: #222;
 }
 
+h3 {
+	text-align: center;
+	margin: 0;
+}
+
+p {
+	margin-bottom: 0;
+}
 
 /* The report on the number of matches (SPAN) */
 .matches {
 	font-size: smaller;
+	margin-top: -0.5ex;
 }
 
 

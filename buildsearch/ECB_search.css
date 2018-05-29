@@ -1,23 +1,8 @@
-/* Overall formatting */
-
-
-body {
-	font-size:     1.0em;
-	margin-top:    2.5ex;
-	margin-bottom: 2.0ex;
-}
-a         { color: #ffee88; }
-a:visited { color: #ffffcc; }
-a:hover   { color: #6282C5; }
-a:active  { color: #003399; }
-
-
 /* Menu and header */
-
 
 .buttonlink, .buttonhere, .buttonnone {
 	display:        inline-block;
-	font-size:              14px;
+	font-size:             1.2em;
 	width:                  10em;
 	margin:          0.2ex   0px;
 	padding:         0.8ex 0.2em;
@@ -32,15 +17,17 @@ a:active  { color: #003399; }
 .buttonlink:hover   { color: white; border-color:     #ffcc00; }
 .buttonlink:active  { color: white; background-color: #003399; }
 /* This is for a "link" to the current page. */
-.buttonhere         { color: white; background-color: #003399; }
-.buttonhere:visited { color: white; }
-.buttonhere:hover   { color: white; }
-.buttonhere:active  { color: white; }
+.buttonhere         { color: white; background-color: #003399; pointer-events: none; }
 /* This is for a placeholder "link". */
-.buttonnone         { color: white; background-color:inherit; border-style:hidden; margin-left: 3px; margin-right: 3px; }
-.buttonnone:visited { color: white; }
-.buttonnone:hover   { color: white; }
-.buttonnone:active  { color: white; }
+.buttonnone
+{
+	color: white;
+	background-color:inherit;
+	border-style:hidden;
+	margin-left: 3px;
+	margin-right: 3px;
+	pointer-events: none;
+}
 
 #menu {
 	width:          100%;
@@ -52,56 +39,26 @@ a:active  { color: #003399; }
 	margin: 0ex 0.75em;
 }
 
-.title {
-	display:       block;
-	text-align:   center;
-	margin: 0ex auto 1ex;
+main
+{
+	border-radius:  15px;
+	background-color: black;
+	color:  white;
+	line-height:  1.5;
 }
 
 
 /* Elements */
 
-
-h1 {
-	text-align:   center;
-	font-size:     2.0em;
-	margin-top:    0.0ex;
-	margin-bottom: 0.5ex;
-}
-
-h2 {
-	text-align:   center;
-	font-size:     1.4em;
-	margin-top:    0.0ex;
-	margin-bottom: 1.0ex;
-}
-
-h3 {
-	text-align:   center;
-	font-size:     1.2em;
-	margin-top:    0.0ex;
-	margin-bottom: 1.0ex;
-
-	color:       #ffcc00;
-}
-
 p {
 	text-align:   center;
-	margin-top:      2ex;
-	margin-bottom:   4ex;
-}
-
-div {
-	text-align: left;
-	margin:  1ex 1em;
+	margin-top:      1ex;
+	margin-bottom:   2ex;
 }
 
 button {
-	margin-left:          2em;
-	margin-right:         2em;
-	margin-top:           1ex;
-	margin-bottom:        1ex;
-	padding:              5px;
+	margin:  0 0.5em;
+	padding: 6px 2em;
 
 	color:              white;
 	background-color:   black;
@@ -115,77 +72,42 @@ button:active {
 	background-color: #003399;
 }
 
-iframe {
-	margin-left:    auto;
-	margin-right:   auto;
-	margin-top:    0.5ex;
-	margin-bottom: 1.0ex;
-}
-
 form {
-	text-align:   center;
 	padding:       0.5em;
 	margin-left:    auto;
 	margin-right:   auto;
 	margin-top:    1.0ex;
-	margin-bottom: 1.0ex;
+	margin-bottom: 2.0ex;
 
 	border: thick groove;
 }
 
 fieldset {
-	width:            90%;
-	margin-left:     auto;
-	margin-right:    auto;
-	padding-left:   0.5em;
-	padding-right:  0.5em;
-
-	margin-top:     1.0ex;
-	margin-bottom:  3.0ex;
-	padding-top:    0.0em;
-	padding-bottom: 0.5em;
-
 	border:    thin ridge;
 }
 
 legend {
 	text-align:   left;
-	margin-left:   0em;
-	margin-right:  0em;
-	margin-top:    0ex;
-	margin-bottom: 0ex;
-	padding:   0px 5px;
+	margin:  0;
+	padding: 0px 6px;
 
-	color:     #ffcc00;
+	color:     #fc1;
 }
 
 input  {
-	margin-left:   0.5em;
-	margin-right:  0.5em;
-	margin-top:    0.0ex;
-	margin-bottom: 0.0ex;
-	padding:       0.0em;
+	margin:  0 0.5em;
+	padding: 0;
 }
 
 select {
-	margin-left:   0.5em;
-	margin-right:  0.5em;
-	margin-top:    0.0ex;
-	margin-bottom: 0.0ex;
-	padding:       0.0em;
+	margin:  0 0.5em;
+	padding: 0;
 }
 
 label {
-	margin-left:   0.5em;
-	margin-right:  0.5em;
-	margin-top:    0.0ex;
-	margin-bottom: 0.0ex;
-	padding:       0.0em;
-}
-
-label input  {
-	margin-left:  0.0em;
-	padding:      0.0em;
+	display: inline-flex;
+	flex-flow: row nowrap;
+	align-items: start;
 }
 
 
