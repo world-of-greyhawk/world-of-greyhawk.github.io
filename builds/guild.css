@@ -19,7 +19,7 @@ h1 + p {
 }
 
 /* anchors that look like buttons */
-.buttonlink, .buttonhere, .buttonnone {
+.buttonlink, .buttonhere {
     display:        inline-block;
     font-size:             1.2em;
     width:                  10em;
@@ -40,11 +40,6 @@ h1 + p {
 .buttonhere:visited { color: white; }
 .buttonhere:hover   { color: white; }
 .buttonhere:active  { color: white; }
-/* This is for a placeholder "link". */
-.buttonnone         { color: white; background-color:inherit; border-style:hidden; margin-left: 3px; margin-right: 3px; }
-.buttonnone:visited { color: white; }
-.buttonnone:hover   { color: white; }
-.buttonnone:active  { color: white; }
 
 /* page layout */
 
