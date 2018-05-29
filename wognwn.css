@@ -31,7 +31,7 @@ p, dl, ol, ul
 body.main
 {
 	background-color:  #222;
-	background-image:  url("darkerbattle.jpg");
+	background-image:  url("images/darkerbattle.jpg");
 	color:  white;
 
 	display:  flex;
