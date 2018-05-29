@@ -73,10 +73,32 @@ main
 	position: relative;
 }
 
+
+/* Links */
+
 a:link    { color: #ddd; }
 a:active  { color: #039; }
 a:hover   { color: #05f; }
 a:visited { color: white; }
+
+a.applink::after, a.external::after
+{
+	content: " ";
+	display: inline-block;
+	height:  12px;
+	width:   12px;
+	background-position: center;
+	position: relative;
+	left: 0.4em;
+}
+a.applink::after
+{
+	background-image: url("images/icon-app.svg");
+}
+a.external::after
+{
+	background-image: url("images/icon-ext.svg");
+}
 
 
 /* main area */
