@@ -194,6 +194,19 @@ nav > a[disabled]
 /* text formatting */
 
 /* h1 = page heading */
+h1 {
+    font-size:      1.7em;
+	color:  #fc1;
+    text-align:    center;
+}
+h1 + .subheader
+{
+	font-size: 1.2em;
+	color:  white;
+	text-align: center;
+	margin-top: 0;
+}
+
 /* h2 = section heading */
 h2
 {

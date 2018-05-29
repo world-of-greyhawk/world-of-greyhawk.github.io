@@ -5,32 +5,8 @@
 
 /* general */
 
-body {
-    font-size:     1.0em;
-    margin-top:    2.5ex;
-    margin-bottom: 2.0ex;
-}
-a         { color: #ffee88; }
-a:visited { color: #ffffcc; }
-a:hover   { color: #6282C5; }
-a:active  { color: #003399; }
-
-h1 {
-    font-size:      1.5em;
-    text-align:    center;
-    margin-top:     1.0ex;
-    margin-bottom:  0.5ex;
-}
-
-h2 {
-    font-size:      1.2em;
-    text-align:    center;
-    margin-top:     1.0ex;
-    margin-bottom:  0.5ex;
-}
-
 p {
-    width:            80%;
+    width:            95%;
     text-align:   justify;
     margin-left:     auto;
     margin-right:    auto;
@@ -38,10 +14,14 @@ p {
     margin-bottom:  2.0ex;
 }
 
+h1 + p {
+    text-align: center;
+}
+
 /* anchors that look like buttons */
 .buttonlink, .buttonhere, .buttonnone {
     display:        inline-block;
-    font-size:              14px;
+    font-size:             1.2em;
     width:                  10em;
     margin:          0.2ex   0px;
     padding:         0.8ex 0.2em;
@@ -78,21 +58,18 @@ p {
     margin: 0ex 0.75em;
 }
 
-.title {
-    display:       block;
-    text-align:   center;
-    margin: 0ex auto 1ex;
-}
-
-.subheading {
-    text-align:   center;
-    margin-top:    0.5ex;
-    margin-bottom: 2.5ex;
+main
+{
+	border-radius:  15px;
+	background-color: black;
+	color:  white;
+	line-height:  1.5;
+	overflow: auto;
 }
 
 /* table layout */
 table {
-    width:                   80%;
+    width:                   95%;
     margin-left:            auto;
     margin-right:           auto;
     margin-top:              2px;
