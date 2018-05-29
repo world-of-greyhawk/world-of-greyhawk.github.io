@@ -1,212 +1,212 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="ISO-8859-1">
-    <title>Epic Character Search Engine (Neverwinter Nights)</title>
+	<meta charset="ISO-8859-1">
+	<title>Epic Character Search Engine (Neverwinter Nights)</title>
 
-    <meta http-equiv="Content-Style-Type" content="text/css">
-    <link href="../wognwn.css"    rel="stylesheet" type="text/css">
-    <link href="ECB_search.css"   rel="stylesheet" type="text/css">
-    <link href="ECB_search_s.css" rel="stylesheet" type="text/css">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<link href="../wognwn.css"    rel="stylesheet" type="text/css">
+	<link href="ECB_search.css"   rel="stylesheet" type="text/css">
+	<link href="ECB_search_s.css" rel="stylesheet" type="text/css">
 
-    <meta http-equiv="Content-Script-Type" content="text/javascript">
-    <script src="ECB_search.js" type="text/javascript"></script>
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<script src="ECB_search.js" type="text/javascript"></script>
 </head>
 
 <body>
-<div id="menu">
-    <a href="../builds/guild.html" class="buttonlink">Guild Archive</a>
-    <a href="../builds/index.html" class="buttonlink">Build Index</a>
-    <a class="buttonhere">Build Search</a>
-    <span class="menuspacer"></span>
-    <a href="../index.html" class="buttonlink">WoG Home</a>
-</div>
+	<div id="menu">
+		<a href="../builds/guild.html" class="buttonlink">Guild Archive</a>
+		<a href="../builds/index.html" class="buttonlink">Build Index</a>
+		<a class="buttonhere">Build Search</a>
+		<span class="menuspacer"></span>
+		<a href="../index.html" class="buttonlink">WoG Home</a>
+	</div>
 
-<img src="../images/build_title.png" alt="Epic character builds" class="title">
+	<img src="../images/build_title.png" alt="Epic character builds" class="title">
 
-<h1>NWN Character Build Search</h1>
-<h2>Powered by the Epic Character Builders Guild</h2>
+	<h1>NWN Character Build Search</h1>
+	<h2>Powered by the Epic Character Builders Guild</h2>
 
-<iframe id="resultsframe" name="resultsframe" src="about:blank">
-<div class="error">This browser is incapable of displaying the results of the search!</div>
-</iframe>
+	<iframe id="resultsframe" name="resultsframe" src="about:blank">
+	<div class="error">This browser is incapable of displaying the results of the search!</div>
+	</iframe>
 
-<p>This form will search a database of NWN builds posted in the
-  <i>Epic Character Builders guild</i> from the BioWare website.
-</p>
+	<p>This form will search a database of NWN builds posted in the
+		<em>Epic Character Builders guild</em> from the BioWare website.
+	</p>
 
-<form id="criteria" action="ECB_results.html" target="resultsframe" method="get" onSubmit="ValidateSearch()">
-  <center>Find builds that have:</center><br />
-  From <input id="min1" type="text" name="min1" value="1"  size="2" maxlength="2" onChange="LevelValidate(this);" />
-  to   <input id="max1" type="text" name="max1" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
-  levels of
-  <select id="class1" name="class1" onchange="ClassValidate(this);">
-    <option selected value="any">any class</option>
-    <optgroup label="base classes">
-      <option value="barbarian">barbarian</option>
-      <option value="bard"     >bard</option>
-      <option value="cleric"   >cleric</option>
-      <option value="druid"    >druid</option>
-      <option value="fighter"  >fighter</option>
-      <option value="monk"     >monk</option>
-      <option value="paladin"  >paladin</option>
-      <option value="ranger"   >ranger</option>
-      <option value="rogue"    >rogue</option>
-      <option value="sorcerer" >sorcerer</option>
-      <option value="wizard"   >wizard</option>
-    </optgroup>
-    <optgroup label="prestige classes">
-      <option value="arcane archer"       >arcane archer</option>
-      <option value="assassin"            >assassin</option>
-      <option value="blackguard"          >blackguard</option>
-      <option value="champion of Torm"    >champion of Torm</option>
-      <option value="dwarven defender"    >dwarven defender</option>
-      <option value="Harper scout"        >Harper scout</option>
-      <option value="pale master"         >pale master</option>
-      <option value="purple dragon knight">purple dragon knight</option>
-      <option value="red dragon disciple" >red dragon disciple</option>
-      <option value="shadowdancer"        >shadowdancer</option>
-      <option value="shifter"             >shifter</option>
-      <option value="weapon master"       >weapon master</option>
-    </optgroup>
-    <option value="selected">selected classes</option>
-  </select><br />
+	<form id="criteria" action="ECB_results.html" target="resultsframe" method="get" onSubmit="ValidateSearch()">
+		<center>Find builds that have:</center><br />
+		From <input id="min1" type="text" name="min1" value="1"  size="2" maxlength="2" onChange="LevelValidate(this);" />
+		to   <input id="max1" type="text" name="max1" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
+		levels of
+		<select id="class1" name="class1" onchange="ClassValidate(this);">
+			<option selected value="any">any class</option>
+			<optgroup label="base classes">
+				<option value="barbarian">barbarian</option>
+				<option value="bard"     >bard</option>
+				<option value="cleric"   >cleric</option>
+				<option value="druid"    >druid</option>
+				<option value="fighter"  >fighter</option>
+				<option value="monk"     >monk</option>
+				<option value="paladin"  >paladin</option>
+				<option value="ranger"   >ranger</option>
+				<option value="rogue"    >rogue</option>
+				<option value="sorcerer" >sorcerer</option>
+				<option value="wizard"   >wizard</option>
+			</optgroup>
+			<optgroup label="prestige classes">
+				<option value="arcane archer"       >arcane archer</option>
+				<option value="assassin"            >assassin</option>
+				<option value="blackguard"          >blackguard</option>
+				<option value="champion of Torm"    >champion of Torm</option>
+				<option value="dwarven defender"    >dwarven defender</option>
+				<option value="Harper scout"        >Harper scout</option>
+				<option value="pale master"         >pale master</option>
+				<option value="purple dragon knight">purple dragon knight</option>
+				<option value="red dragon disciple" >red dragon disciple</option>
+				<option value="shadowdancer"        >shadowdancer</option>
+				<option value="shifter"             >shifter</option>
+				<option value="weapon master"       >weapon master</option>
+			</optgroup>
+		<option value="selected">selected classes</option>
+		</select><br />
 
-  From <input id="min2" type="text" name="min2" value="0"  size="2" maxlength="2" onChange="LevelValidate(this);" />
-  to   <input id="max2" type="text" name="max2" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
-  levels of
-  <select id="class2" name="class2" onchange="ClassValidate(this);">
-    <option selected value="any">any class</option>
-    <optgroup label="base classes">
-      <option value="barbarian">barbarian</option>
-      <option value="bard"     >bard</option>
-      <option value="cleric"   >cleric</option>
-      <option value="druid"    >druid</option>
-      <option value="fighter"  >fighter</option>
-      <option value="monk"     >monk</option>
-      <option value="paladin"  >paladin</option>
-      <option value="ranger"   >ranger</option>
-      <option value="rogue"    >rogue</option>
-      <option value="sorcerer" >sorcerer</option>
-      <option value="wizard"   >wizard</option>
-    </optgroup>
-    <optgroup label="prestige classes">
-      <option value="arcane archer"       >arcane archer</option>
-      <option value="assassin"            >assassin</option>
-      <option value="blackguard"          >blackguard</option>
-      <option value="champion of Torm"    >champion of Torm</option>
-      <option value="dwarven defender"    >dwarven defender</option>
-      <option value="Harper scout"        >Harper scout</option>
-      <option value="pale master"         >pale master</option>
-      <option value="purple dragon knight">purple dragon knight</option>
-      <option value="red dragon disciple" >red dragon disciple</option>
-      <option value="shadowdancer"        >shadowdancer</option>
-      <option value="shifter"             >shifter</option>
-      <option value="weapon master"       >weapon master</option>
-    </optgroup>
-    <option value="selected">selected classes</option>
-    <option value="none">no other classes</option>
-  </select><br />
+		From <input id="min2" type="text" name="min2" value="0"  size="2" maxlength="2" onChange="LevelValidate(this);" />
+		to   <input id="max2" type="text" name="max2" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
+		levels of
+		<select id="class2" name="class2" onchange="ClassValidate(this);">
+			<option selected value="any">any class</option>
+			<optgroup label="base classes">
+				<option value="barbarian">barbarian</option>
+				<option value="bard"     >bard</option>
+				<option value="cleric"   >cleric</option>
+				<option value="druid"    >druid</option>
+				<option value="fighter"  >fighter</option>
+				<option value="monk"     >monk</option>
+				<option value="paladin"  >paladin</option>
+				<option value="ranger"   >ranger</option>
+				<option value="rogue"    >rogue</option>
+				<option value="sorcerer" >sorcerer</option>
+				<option value="wizard"   >wizard</option>
+			</optgroup>
+			<optgroup label="prestige classes">
+				<option value="arcane archer"       >arcane archer</option>
+				<option value="assassin"            >assassin</option>
+				<option value="blackguard"          >blackguard</option>
+				<option value="champion of Torm"    >champion of Torm</option>
+				<option value="dwarven defender"    >dwarven defender</option>
+				<option value="Harper scout"        >Harper scout</option>
+				<option value="pale master"         >pale master</option>
+				<option value="purple dragon knight">purple dragon knight</option>
+				<option value="red dragon disciple" >red dragon disciple</option>
+				<option value="shadowdancer"        >shadowdancer</option>
+				<option value="shifter"             >shifter</option>
+				<option value="weapon master"       >weapon master</option>
+			</optgroup>
+			<option value="selected">selected classes</option>
+			<option value="none">no other classes</option>
+		</select><br />
 
-  From <input id="min3" type="text" name="min3" value="0"  size="2" maxlength="2" onChange="LevelValidate(this);" />
-  to   <input id="max3" type="text" name="max3" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
-  levels of
-  <select id="class3" name="class3" onchange="ClassValidate(this);">
-    <option selected value="any">any class</option>
-    <optgroup label="base classes">
-      <option value="barbarian">barbarian</option>
-      <option value="bard"     >bard</option>
-      <option value="cleric"   >cleric</option>
-      <option value="druid"    >druid</option>
-      <option value="fighter"  >fighter</option>
-      <option value="monk"     >monk</option>
-      <option value="paladin"  >paladin</option>
-      <option value="ranger"   >ranger</option>
-      <option value="rogue"    >rogue</option>
-      <option value="sorcerer" >sorcerer</option>
-      <option value="wizard"   >wizard</option>
-    </optgroup>
-    <optgroup label="prestige classes">
-      <option value="arcane archer"       >arcane archer</option>
-      <option value="assassin"            >assassin</option>
-      <option value="blackguard"          >blackguard</option>
-      <option value="champion of Torm"    >champion of Torm</option>
-      <option value="dwarven defender"    >dwarven defender</option>
-      <option value="Harper scout"        >Harper scout</option>
-      <option value="pale master"         >pale master</option>
-      <option value="purple dragon knight">purple dragon knight</option>
-      <option value="red dragon disciple" >red dragon disciple</option>
-      <option value="shadowdancer"        >shadowdancer</option>
-      <option value="shifter"             >shifter</option>
-      <option value="weapon master"       >weapon master</option>
-    </optgroup>
-    <option value="selected">selected classes</option>
-    <option value="none">no other classes</option>
-  </select><br />
-  <span class="spacing">From</span> <input type="text" id="mintotal" value="1"   disabled size="2" class="feedback" />
-  <span class="spacing">to</span>   <input type="text" id="maxtotal" value="120" disabled size="2" class="feedback" />
-  <span class="spacing">levels of
-  <select disabled>
-    <optgroup label="prestige classes">
-      <option value="dk">purple dragon knight</option>
-    </optgroup>
-  </select></span>
+		From <input id="min3" type="text" name="min3" value="0"  size="2" maxlength="2" onChange="LevelValidate(this);" />
+		to   <input id="max3" type="text" name="max3" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
+		levels of
+		<select id="class3" name="class3" onchange="ClassValidate(this);">
+			<option selected value="any">any class</option>
+			<optgroup label="base classes">
+				<option value="barbarian">barbarian</option>
+				<option value="bard"     >bard</option>
+				<option value="cleric"   >cleric</option>
+				<option value="druid"    >druid</option>
+				<option value="fighter"  >fighter</option>
+				<option value="monk"     >monk</option>
+				<option value="paladin"  >paladin</option>
+				<option value="ranger"   >ranger</option>
+				<option value="rogue"    >rogue</option>
+				<option value="sorcerer" >sorcerer</option>
+				<option value="wizard"   >wizard</option>
+			</optgroup>
+			<optgroup label="prestige classes">
+				<option value="arcane archer"       >arcane archer</option>
+				<option value="assassin"            >assassin</option>
+				<option value="blackguard"          >blackguard</option>
+				<option value="champion of Torm"    >champion of Torm</option>
+				<option value="dwarven defender"    >dwarven defender</option>
+				<option value="Harper scout"        >Harper scout</option>
+				<option value="pale master"         >pale master</option>
+				<option value="purple dragon knight">purple dragon knight</option>
+				<option value="red dragon disciple" >red dragon disciple</option>
+				<option value="shadowdancer"        >shadowdancer</option>
+				<option value="shifter"             >shifter</option>
+				<option value="weapon master"       >weapon master</option>
+			</optgroup>
+			<option value="selected">selected classes</option>
+			<option value="none">no other classes</option>
+		</select><br />
+		<span class="spacing">From</span> <input type="text" id="mintotal" value="1"   disabled size="2" class="feedback" />
+		<span class="spacing">to</span>   <input type="text" id="maxtotal" value="120" disabled size="2" class="feedback" />
+		<span class="spacing">levels of
+		<select disabled>
+			<optgroup label="prestige classes">
+				<option value="dk">purple dragon knight</option>
+			</optgroup>
+		</select></span>
 
-  <fieldset id="classset"><legend>Selected classes</legend>
-    <label>Barbarian: <input id="barn_box" type="checkbox" name="selclass" value="barbarian"></label>
-    <label>Bard:      <input id="bard_box" type="checkbox" name="selclass" value="bard"     ></label>
-    <label>Cleric:    <input id="clec_box" type="checkbox" name="selclass" value="cleric"   ></label>
-    <label>Druid:     <input id="drud_box" type="checkbox" name="selclass" value="druid"    ></label>
-    <label>Fighter:   <input id="figr_box" type="checkbox" name="selclass" value="fighter"  ></label>
-    <label>Monk:      <input id="monk_box" type="checkbox" name="selclass" value="monk"     ></label><br />
-    <label>Paladin:   <input id="paln_box" type="checkbox" name="selclass" value="paladin" ></label>
-    <label>Ranger:    <input id="ranr_box" type="checkbox" name="selclass" value="ranger"  ></label>
-    <label>Rogue:     <input id="roge_box" type="checkbox" name="selclass" value="rogue"   ></label>
-    <label>Sorcerer:  <input id="sorr_box" type="checkbox" name="selclass" value="sorcerer"></label>
-    <label>Wizard:    <input id="wizd_box" type="checkbox" name="selclass" value="wizard"  ></label><br />
-    <br />
-    <label>Arcane archer:        <input id="arcr_box" type="checkbox" name="selclass" value="arcane archer"   ></label>
-    <label>Assassin:             <input id="assn_box" type="checkbox" name="selclass" value="assassin"        ></label>
-    <label>Blackguard:           <input id="blad_box" type="checkbox" name="selclass" value="blackguard"      ></label>
-    <label>Champion of Torm:     <input id="cham_box" type="checkbox" name="selclass" value="champion of Torm"></label><br />
-    <label>Dwarven defender:     <input id="dwar_box" type="checkbox" name="selclass" value="dwarven defender"    ></label>
-    <label>Harper scout:         <input id="Hart_box" type="checkbox" name="selclass" value="Harper scout"        ></label>
-    <label>Pale master:          <input id="palr_box" type="checkbox" name="selclass" value="pale master"         ></label>
-    <label>Purple dragon knight: <input id="purt_box" type="checkbox" name="selclass" value="purple dragon knight"></label><br />
-    <label>Red dragon disciple:  <input id="rede_box" type="checkbox" name="selclass" value="red dragon disciple"></label>
-    <label>Shadowdancer:         <input id="shar_box" type="checkbox" name="selclass" value="shadowdancer"       ></label>
-    <label>Shifter:              <input id="shir_box" type="checkbox" name="selclass" value="shifter"            ></label>
-    <label>Weapon master:        <input id="wear_box" type="checkbox" name="selclass" value="weapon master"      ></label>
-  </fieldset>
+		<fieldset id="classset"><legend>Selected classes</legend>
+			<label>Barbarian: <input id="barn_box" type="checkbox" name="selclass" value="barbarian"></label>
+			<label>Bard:      <input id="bard_box" type="checkbox" name="selclass" value="bard"></label>
+			<label>Cleric:    <input id="clec_box" type="checkbox" name="selclass" value="cleric"></label>
+			<label>Druid:     <input id="drud_box" type="checkbox" name="selclass" value="druid"></label>
+			<label>Fighter:   <input id="figr_box" type="checkbox" name="selclass" value="fighter"></label>
+			<label>Monk:      <input id="monk_box" type="checkbox" name="selclass" value="monk"></label><br />
+			<label>Paladin:   <input id="paln_box" type="checkbox" name="selclass" value="paladin"></label>
+			<label>Ranger:    <input id="ranr_box" type="checkbox" name="selclass" value="ranger"></label>
+			<label>Rogue:     <input id="roge_box" type="checkbox" name="selclass" value="rogue"></label>
+			<label>Sorcerer:  <input id="sorr_box" type="checkbox" name="selclass" value="sorcerer"></label>
+			<label>Wizard:    <input id="wizd_box" type="checkbox" name="selclass" value="wizard"></label><br />
+			<br />
+			<label>Arcane archer:        <input id="arcr_box" type="checkbox" name="selclass" value="arcane archer"></label>
+			<label>Assassin:             <input id="assn_box" type="checkbox" name="selclass" value="assassin"></label>
+			<label>Blackguard:           <input id="blad_box" type="checkbox" name="selclass" value="blackguard"></label>
+			<label>Champion of Torm:     <input id="cham_box" type="checkbox" name="selclass" value="champion of Torm"></label><br />
+			<label>Dwarven defender:     <input id="dwar_box" type="checkbox" name="selclass" value="dwarven defender"></label>
+			<label>Harper scout:         <input id="Hart_box" type="checkbox" name="selclass" value="Harper scout"></label>
+			<label>Pale master:          <input id="palr_box" type="checkbox" name="selclass" value="pale master"></label>
+			<label>Purple dragon knight: <input id="purt_box" type="checkbox" name="selclass" value="purple dragon knight"></label><br />
+			<label>Red dragon disciple:  <input id="rede_box" type="checkbox" name="selclass" value="red dragon disciple"></label>
+			<label>Shadowdancer:         <input id="shar_box" type="checkbox" name="selclass" value="shadowdancer"></label>
+			<label>Shifter:              <input id="shir_box" type="checkbox" name="selclass" value="shifter"></label>
+			<label>Weapon master:        <input id="wear_box" type="checkbox" name="selclass" value="weapon master"></label>
+		</fieldset>
 
-  <fieldset id="raceset"><legend>Races</legend>
-    <label>Any race: <input id="allracebutton" type="checkbox" name="allrace" value="yes" checked onClick="AllRaces(this.checked);"></label>
-    <br /><br />
-    <label>Dwarf:    <input type="checkbox" name="selrace" value="dwarf" onClick="AllRaces(false);"></label>
-    <label>Elf:      <input type="checkbox" name="selrace" value="elf"   onClick="AllRaces(false);"></label>
-    <label>Gnome:    <input type="checkbox" name="selrace" value="gnome" onClick="AllRaces(false);"></label>
-    <br />
-    <label>Half-elf: <input type="checkbox" name="selrace" value="half-elf" onClick="AllRaces(false);"></label>
-    <label>Half-orc: <input type="checkbox" name="selrace" value="half-orc" onClick="AllRaces(false);"></label>
-    <label>Halfling: <input type="checkbox" name="selrace" value="halfling" onClick="AllRaces(false);"></label>
-    <br />
-    <label>Human:    <input type="checkbox" name="selrace" value="human" onClick="AllRaces(false);"></label>
-    <br />
-    <label>Unspecified/unknown races: <input type="checkbox" name="selrace" value="unknown" onClick="AllRaces(false);"></label>
-  </fieldset>
+		<fieldset id="raceset"><legend>Races</legend>
+			<label>Any race: <input id="allracebutton" type="checkbox" name="allrace" value="yes" checked onClick="AllRaces(this.checked);"></label>
+			<br /><br />
+			<label>Dwarf:    <input type="checkbox" name="selrace" value="dwarf" onClick="AllRaces(false);"></label>
+			<label>Elf:      <input type="checkbox" name="selrace" value="elf"   onClick="AllRaces(false);"></label>
+			<label>Gnome:    <input type="checkbox" name="selrace" value="gnome" onClick="AllRaces(false);"></label>
+			<br />
+			<label>Half-elf: <input type="checkbox" name="selrace" value="half-elf" onClick="AllRaces(false);"></label>
+			<label>Half-orc: <input type="checkbox" name="selrace" value="half-orc" onClick="AllRaces(false);"></label>
+			<label>Halfling: <input type="checkbox" name="selrace" value="halfling" onClick="AllRaces(false);"></label>
+			<br />
+			<label>Human:    <input type="checkbox" name="selrace" value="human" onClick="AllRaces(false);"></label>
+			<br />
+			<label>Unspecified/unknown races: <input type="checkbox" name="selrace" value="unknown" onClick="AllRaces(false);"></label>
+		</fieldset>
 
-  <button id="searchbutton" type="submit">Search</button>
+		<button id="searchbutton" type="submit">Search</button>
 
-  <fieldset id="sortset"><legend>Results by</legend>
-    <label>author&nbsp;<input type="radio" name="sortby" value="author"></label>
-    <label>classes&nbsp;<input type="radio" name="sortby" value="class" checked></label>
-    <br />
-    <label>class&nbsp;&amp;&nbsp;level&nbsp;<input type="radio" name="sortby" value="classlevel"></label>
-  </fieldset>
-</form>
+		<fieldset id="sortset"><legend>Results by</legend>
+			<label>author&nbsp;<input type="radio" name="sortby" value="author"></label>
+			<label>classes&nbsp;<input type="radio" name="sortby" value="class" checked></label>
+			<br />
+			<label>class&nbsp;&amp;&nbsp;level&nbsp;<input type="radio" name="sortby" value="classlevel"></label>
+		</fieldset>
+	</form>
 
-<iframe name="listsource" id="listsource" width="800" height="200"
- src="ECB_list.txt" style="display:none"></iframe>
+	<iframe name="listsource" id="listsource" width="800" height="200"
+	 src="ECB_list.txt" style="display:none"></iframe>
 
 </body>
 </html>

@@ -1,45 +1,45 @@
 /* Formatting for the search results. */
 body {
-    padding: 10px 0.5em;
+	padding: 10px 0.5em;
 }
 
 
 /* The report on the number of matches (SPAN) */
 .matches {
-    font-size: smaller;
+	font-size: smaller;
 }
 
 
 /* Alternating backgrounds (DIV) */
 .even {
-    background-color: #000000;
+	background-color: #000000;
 }
 
 .odd {
-    background-color: #181800;
+	background-color: #181800;
 }
 
 
 /* A build's display (DIV) */
 .build {
-    margin-left:      0em;
-    margin-right:     0em;
-    padding-left:   0.5em;
-    padding-right:  0.5em;
+	margin-left:      0em;
+	margin-right:     0em;
+	padding-left:   0.5em;
+	padding-right:  0.5em;
 
-    margin-top:       0px;
-    margin-bottom:   -1px;
-    padding-top:    1.5ex;
-    padding-bottom: 1.5ex;
+	margin-top:       0px;
+	margin-bottom:   -1px;
+	padding-top:    1.5ex;
+	padding-bottom: 1.5ex;
 
-    border-top:    thin solid grey;
-    border-bottom: thin solid grey;
+	border-top:    thin solid grey;
+	border-bottom: thin solid grey;
 }
 
 
 /* A build's description and link (A) */
 .buildlink {
-    font-weight: bolder;
+	font-weight: bolder;
 }
 .buildlink:link    { color: #ffcc00; }
 .buildlink:visited { color: #ffee88; }
@@ -49,7 +49,7 @@ body {
 
 /* A build's list of classes (SPAN) */
 .classinfo {
-    font-style: oblique;
+	font-style: oblique;
 }
 
 
@@ -60,5 +60,5 @@ body {
 
 /* A build's author (SPAN) */
 .authorinfo {
-    color: #ffff00
+	color: #ffff00
 }
