@@ -175,6 +175,12 @@ h2
 	color:  #fc1;
 	text-align: center;
 }
+h2 + .subheader
+{
+	font-size: 1.2em;
+	color:  #fc1;
+	text-align: center;
+}
 
 /* h3 = heading within a section */
 h3
