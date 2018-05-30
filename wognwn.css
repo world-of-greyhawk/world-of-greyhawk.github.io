@@ -40,7 +40,7 @@ body.main
 	align-items: center;
 }
 
-body:not(.main), iframe, nav, footer
+body:not(.main), iframe, nav, footer, .main-content
 {
 	border-radius:  15px;
 	background-color: black;
@@ -103,7 +103,7 @@ a.external::after
 
 /* main area */
 
-iframe
+iframe, .main-content
 {
 	width:  calc(100% - 14em);
 	height: 100%;
