@@ -12,7 +12,7 @@ html, body, iframe
 	margin:  0;
 	padding: 0;
 }
-html, body.main
+html, body:not(.subpage)
 {
 	height: 100%;
 }
@@ -28,7 +28,7 @@ p, dl, ol, ul
 
 /*site base*/
 
-body.main
+body:not(.subpage)
 {
 	background-color:  #222;
 	background-image:  url("images/darkerbattle.jpg");
@@ -40,7 +40,7 @@ body.main
 	align-items: center;
 }
 
-body:not(.main), iframe, nav, footer, .main-content
+body.subpage, iframe, nav, footer, .main-content
 {
 	border-radius:  15px;
 	background-color: black;

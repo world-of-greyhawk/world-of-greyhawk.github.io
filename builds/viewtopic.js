@@ -15,21 +15,30 @@ function PrintPageTop(ForumType, Build, NumPosts, NumViews)
     // Decide which "back" button to display.
     var ForumName = ForumType + " Forum";
     var ForumFile = ForumType + "forum.html";
+    var ForumIndex = "index.html";
+    var IndexName = "Build Index";
     if      ( ForumType == "build"    ) ForumName = "Build Forum";
     else if ( ForumType == "general"  ) ForumName = "General Forum";
-    else if ( ForumType == "prcbuild" ) ForumName = "PRC Build Forum";
     else if ( ForumType == "request"  ) ForumName = "Request Forum";
+    else if ( ForumType == "prcbuild" ) {
+        ForumName = "PRC Build Forum";
+        ForumIndex = "prcindex.html";
+        IndexName = "PRC Build Index";
+    }
 
+    document.writeln('  <header>');
+    document.writeln('    <img src="../../images/build_title.png" alt="Epic character builds">');
     document.writeln('    <div id="menu">');
     document.writeln('        <a href="../guild.html" class="buttonlink">Guild Archive</a>');
     document.writeln('        <a href="../' + ForumFile + '" class="buttonlink">' + ForumName + '</a>');
+    document.writeln('        <a href="../' + ForumIndex + '" class="buttonlink">' + IndexName + '</a>');
     document.writeln('        <a href="../../buildsearch/index.html" class="buttonlink">Build Search</a>');
     document.writeln('        <span class="menuspacer"></span>');
     document.writeln('        <a href="../../index.html" class="buttonlink">WoG Home</a>');
     document.writeln('    </div>');
+    document.writeln('  </header>');
     document.writeln('');
-    document.writeln('    <img src="../../images/build_title.png" alt="Epic character builds" class="title">');
-    document.writeln('');
+    document.writeln('  <main>');
 
     // Having this statement fail is bad for presentation, so just in case, catch exceptions.
     try { InitPage(NumPosts); } catch (e) { document.writeln('<p class="warn">Warning: an error may have ' +
@@ -75,6 +84,7 @@ function PrintPageEnd(ForumType, Build, NumPosts, NumViews)
 {
     document.writeln('    </table>');
     PrintNavBox(NumPosts);
+    document.writeln('  </main>');
 }
 
 // Outputs the HTML for the navigational box.
