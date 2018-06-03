@@ -1,15 +1,33 @@
 /* Elements */
 
+button {
+	border: medium solid #c93;
+	background: black;
+	color: white;
+	margin: 1em 0;
+	padding: 6px 12px;
+}
+button:hover {
+	background: #222;
+}
+button:active {
+	background: white;
+	color: black;
+}
 
 .main-content {
 	z-index: 0;
-	overflow: auto;
+	display: flex;
+	flex-direction: column;
 }
 
 fieldset {
 	border:  1px solid #c93;
 	padding: 1em;
-	margin:  1em;
+	margin:  6px 1em;
+	padding-bottom: 6px;
+
+	white-space: nowrap;
 }
 
 legend {
@@ -25,26 +43,24 @@ input  {
 	padding: 0;
 }
 
-label {
-	display: inline-flex;
-	flex-flow: row nowrap;
-	align-items: start;
-}
-
-#fsdeityselectrace, #fsdeityselectalignment {
-	width: 38%;
-	float: left;
+form {
+	display: flex;
 }
 
 #fsdeityselectdomain {
-	width: 38%;
-	float: right;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 
+
 #divsearchresults {
-	clear: both;
-	
 	overflow: auto;
+}
+
+#divsearchresults > fieldset {
+	white-space: normal;
+	margin-top: 0;
 }
 
 #divcontainerbtnsearchdeity {
