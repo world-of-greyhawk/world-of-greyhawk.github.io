@@ -1,33 +1,25 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-
+﻿<!doctype html>
 <html>
 <head>
-<title>Neverwinter Nights:  World of Greyhawk Server:  The Greyhawk Pantheon</title>
+	<meta charset="UTF-8">
+	<title>World of Greyhawk: The Greyhawk Pantheon Search</title>
 
-<meta name="description" content="name"/>
-<meta name="author" content=""/>
-<meta name="copyright" content="CopyrightŠ World of Greyhawk Server, 2010.  All Rights Reserved"/>
-<meta name="created" content="01.01.10">
-<meta name="revised" content="01.01.10">
+	<link rel="stylesheet" href="../wognwn.css">
+	<link rel="stylesheet" href="wogdeity.css">
 
-<link rel="shortcut icon" href="/favicon.ico"/>
-
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" href="iestylesheet.css" />
-<![endif]-->
-
-<![if !IE]>
-<link rel="stylesheet" type="text/css" href="/defaultstylesheet.css"/>
-<![endif]>
+	<meta name="description" content="name"/>
+	<meta name="author" content=""/>
+	<meta name="copyright" content="CopyrightŠ World of Greyhawk Server, 2010.  All Rights Reserved"/>
+	<meta name="created" content="01.01.10">
+	<meta name="revised" content="01.01.10">
 
 <script type="text/JavaScript">
 //global variables
 var strRaceSelected="Any";
 var strAlignmentSelected="Any";
 var strDomainSelected="Any";
-var intRaceSelected="0"
-var intAlignmentSelected="0"
+var intRaceSelected="0";
+var intAlignmentSelected="0";
 var strdisplay="";
 var intNumOfResults=0;
 
@@ -86,7 +78,7 @@ function Search()
 	strRaceSelected=getRadioSelection(document.frmMain.race);
 	strAlignmentSelected=getRadioSelection(document.frmMain.alignment);
 	strDomainSelected=getRadioSelection(document.frmMain.domain);
-	
+
 	for (y=12; y<21; y++)
 	{
 		if (strRaceSelected!="Any")
@@ -101,7 +93,7 @@ function Search()
 			intRaceSelected=0;
 		}
 	}
-	
+
 	for (y=3; y<12; y++)
 	{
 		if (strAlignmentSelected!="Any")
@@ -116,7 +108,7 @@ function Search()
 			intAlignmentSelected=0;
 		}
 	}
-	
+
 	strdisplay="<fieldset><legend>Search Results:  Alignment:  "+strAlignmentSelected+".  Race:  "+strRaceSelected+".  Domain:  "+strDomainSelected+".</legend>";
 	for (x=1; x<32; x++)
 	{
@@ -129,12 +121,12 @@ function Search()
 			}
 		}
 	}
-	
+
 	if (intNumOfResults==0)
 	{
 		strdisplay+="No Results Found";
 	}
-	
+
 	strdisplay+="</fieldset>";
 	document.getElementById("divsearchresults").innerHTML=strdisplay;
 }
@@ -143,13 +135,13 @@ function Display()
 {
 	//Deity Name
 	strdisplay+="<span class='header'>"+arrDeities[x][0]+"</span><br />";
-	
+
 	//Domain
 	strdisplay+="<span class='content'>Required Domains:  "
-	strdisplay+="<a href='https://web.archive.org/web/20140729152807/http://nwn.wikia.com/wiki/"+arrDeities[x][1]+"_domain' target='_blank'>"+arrDeities[x][1]+"</a>.  "
-	strdisplay+="<a href='https://web.archive.org/web/20140729152807/http://nwn.wikia.com/wiki/"+arrDeities[x][2]+"_domain' target='_blank'>"+arrDeities[x][2]+"</a>."
+	strdisplay+="<a href='http://nwn.wikia.com/wiki/"+arrDeities[x][1]+"_domain' target='_blank'>"+arrDeities[x][1]+"</a>.  "
+	strdisplay+="<a href='http://nwn.wikia.com/wiki/"+arrDeities[x][2]+"_domain' target='_blank'>"+arrDeities[x][2]+"</a>."
 	strdisplay+="</span><br />";
-		
+
 	//Race(s)
 	strdisplay+="<span class='content'>Race(s):  ";
 	for (y=12; y<20; y++)
@@ -160,7 +152,7 @@ function Display()
 		}
 	}
 	strdisplay+="</span><br />";
-		
+
 	//Alignments
 	strdisplay+="<span class='content'>Alignment(s):  ";
 	for (y=3; y<12; y++)
@@ -171,10 +163,10 @@ function Display()
 		}
 	}
 	strdisplay+="</span><br />";
-	
+
 	//Temple Locations
 	strdisplay+="<span class='content'>Temple Location:  "+arrDeities[x][20]+"</span><br />";
-	
+
 	//Description
 	strdisplay+="<span class='content'><br />"+arrDeities[x][21]+"</span><br /><br />";
 }
@@ -182,98 +174,105 @@ function Display()
 </head>
 
 <body>
-	<div id="wrap">
-		<div id="header">
-			<img src="/images/wog title.jpg">
-			<div class="header">Deity Search</div>
-		</div>
-		<div id="main" class="info">
-		<form name="frmMain">
-			<fieldset id="fsdeityselectrace">
-				<legend>Select Race</legend>
-				<input type="radio" name="race" value="Any" checked="checked"> Any
-				<br/><input type="radio" name="race" value="Dwarf"> Dwarf
-				<br/><input type="radio" name="race" value="Elf"> Elf
-				<br/><input type="radio" name="race" value="Elf (Drow)"> Elf (Drow)
-				<br/><input type="radio" name="race" value="Gnome"> Gnome
-				<br/><input type="radio" name="race" value="Halfling"> Halfling
-				<br/><input type="radio" name="race" value="Half-Elf"> Half-Elf
-				<br/><input type="radio" name="race" value="Half-Orc"> Half-Orc
-				<br/><input type="radio" name="race" value="Human"> Human
-			</fieldset>
-				
-			<fieldset id="fsdeityselectdomain">
-				<legend>Select Domain</legend>
-				<input type="radio" name="domain" value="Any" checked="checked"> Any
-				<br/><input type="radio" name="domain" value="Air"> Air
-				<br/><input type="radio" name="domain" value="Animal"> Animal
-				<br/><input type="radio" name="domain" value="Death"> Death
-				<br/><input type="radio" name="domain" value="Destruction"> Destruction
-				<br/><input type="radio" name="domain" value="Earth"> Earth
-				<br/><input type="radio" name="domain" value="Evil"> Evil
-				<br/><input type="radio" name="domain" value="Fire"> Fire
-				<br/><input type="radio" name="domain" value="Good"> Good
-				<br/><input type="radio" name="domain" value="Healing"> Healing
-				<br/><input type="radio" name="domain" value="Knowledge"> Knowledge
-				<br/><input type="radio" name="domain" value="Magic"> Magic
-				<br/><input type="radio" name="domain" value="Plant"> Plant
-				<br/><input type="radio" name="domain" value="Protection"> Protection
-				<br/><input type="radio" name="domain" value="Strength"> Strength
-				<br/><input type="radio" name="domain" value="Sun"> Sun
-				<br/><input type="radio" name="domain" value="Travel"> Travel
-				<br/><input type="radio" name="domain" value="Trickery"> Trickery
-				<br/><input type="radio" name="domain" value="War"> War
-				<br/><input type="radio" name="domain" value="Water"> Water
-				<span class="right"><button id="btnsearchdeity" class="lgbutton" type="button" onclick="window.open('http://nwn.wikia.com/wiki/Domain')">Compare Domains</button></span>
-			</fieldset>
+	<header>
+		<img src="../images/wog_title.jpg">
+		<h1>Deity Search</h1>
+	</header>
 
-			<fieldset id="fsdeityselectalignment">
-				<legend>Select Alignment</legend>
-				<input type="radio" name="alignment" value="Any" checked="checked"> Any
-				<br/><input type="radio" name="alignment" value="Lawful Good"> Lawful Good
-				<br/><input type="radio" name="alignment" value="Neutral Good"> Neutral Good
-				<br/><input type="radio" name="alignment" value="Chaotic Good"> Chaotic Good
-				<br/><input type="radio" name="alignment" value="Lawful Neutral"> Lawful Neutral
-				<br/><input type="radio" name="alignment" value="True Neutral"> True Neutral
-				<br/><input type="radio" name="alignment" value="Chaotic Neutral"> Chaotic Neutral
-				<br/><input type="radio" name="alignment" value="Lawful Evil"> Lawful Evil
-				<br/><input type="radio" name="alignment" value="Neutral Evil"> Neutral Evil
-				<br/><input type="radio" name="alignment" value="Chaotic Evil"> Chaotic Evil		
-			</fieldset>
+	<main>
+		<div id="main" class="main-content">
+			<form name="frmMain">
+				<fieldset id="fsdeityselectrace">
+					<legend>Select Race</legend>
+					<input type="radio" name="race" value="Any" checked="checked"> Any
+					<br/><input type="radio" name="race" value="Dwarf"> Dwarf
+					<br/><input type="radio" name="race" value="Elf"> Elf
+					<br/><input type="radio" name="race" value="Elf (Drow)"> Elf (Drow)
+					<br/><input type="radio" name="race" value="Gnome"> Gnome
+					<br/><input type="radio" name="race" value="Halfling"> Halfling
+					<br/><input type="radio" name="race" value="Half-Elf"> Half-Elf
+					<br/><input type="radio" name="race" value="Half-Orc"> Half-Orc
+					<br/><input type="radio" name="race" value="Human"> Human
+				</fieldset>
+
+				<fieldset id="fsdeityselectdomain">
+					<legend>Select Domain</legend>
+					<input type="radio" name="domain" value="Any" checked="checked"> Any
+					<br/><input type="radio" name="domain" value="Air"> Air
+					<br/><input type="radio" name="domain" value="Animal"> Animal
+					<br/><input type="radio" name="domain" value="Death"> Death
+					<br/><input type="radio" name="domain" value="Destruction"> Destruction
+					<br/><input type="radio" name="domain" value="Earth"> Earth
+					<br/><input type="radio" name="domain" value="Evil"> Evil
+					<br/><input type="radio" name="domain" value="Fire"> Fire
+					<br/><input type="radio" name="domain" value="Good"> Good
+					<br/><input type="radio" name="domain" value="Healing"> Healing
+					<br/><input type="radio" name="domain" value="Knowledge"> Knowledge
+					<br/><input type="radio" name="domain" value="Magic"> Magic
+					<br/><input type="radio" name="domain" value="Plant"> Plant
+					<br/><input type="radio" name="domain" value="Protection"> Protection
+					<br/><input type="radio" name="domain" value="Strength"> Strength
+					<br/><input type="radio" name="domain" value="Sun"> Sun
+					<br/><input type="radio" name="domain" value="Travel"> Travel
+					<br/><input type="radio" name="domain" value="Trickery"> Trickery
+					<br/><input type="radio" name="domain" value="War"> War
+					<br/><input type="radio" name="domain" value="Water"> Water
+					<span class="right"><button id="btnsearchdeity" class="lgbutton" type="button" onclick="window.open('http://nwn.wikia.com/wiki/Domain')">Compare Domains</button></span>
+				</fieldset>
+
+				<fieldset id="fsdeityselectalignment">
+					<legend>Select Alignment</legend>
+					<input type="radio" name="alignment" value="Any" checked="checked"> Any
+					<br/><input type="radio" name="alignment" value="Lawful Good"> Lawful Good
+					<br/><input type="radio" name="alignment" value="Neutral Good"> Neutral Good
+					<br/><input type="radio" name="alignment" value="Chaotic Good"> Chaotic Good
+					<br/><input type="radio" name="alignment" value="Lawful Neutral"> Lawful Neutral
+					<br/><input type="radio" name="alignment" value="True Neutral"> True Neutral
+					<br/><input type="radio" name="alignment" value="Chaotic Neutral"> Chaotic Neutral
+					<br/><input type="radio" name="alignment" value="Lawful Evil"> Lawful Evil
+					<br/><input type="radio" name="alignment" value="Neutral Evil"> Neutral Evil
+					<br/><input type="radio" name="alignment" value="Chaotic Evil"> Chaotic Evil
+				</fieldset>
 			</form>
 
 			<div id="divcontainerbtnsearchdeity">
 				<button id="btnsearchdeity" class="lgbutton" onclick="Search()">Search</button>
 			</div>
-			
-			<div id="divsearchresults">			
+
+			<div id="divsearchresults">
 			</div>
-
-		</div>	
-		<div id="menu">
-			<span>Server</span>
-			<button id="btnwogstart" class="lgbutton" onclick="parent.location='index.htm'">WoG Home</button>
-			<button id="btnfiles" class="lgbutton" onclick="parent.location='files.htm'">Server Files</button>
-			<button id="btnserverrules" class="lgbutton" onclick="parent.location='serverrules.htm'">Server Rules</button>
-			<br/><br/><span>Mechanics</span>
-			<button id="btnclassfeats" class="lgbutton" onclick="parent.location='classfeats.htm'">Feat Changes</button>
-			<button id="btnspells" class="lgbutton" onclick="parent.location='spells.htm'">Spell Changes</button>
-			<button id="btngreyhawkpantheon" class="lgbutton" onclick="parent.location='greyhawkpantheon.htm'">Greyhawk Pantheon</button>
-			<br/><br/><span>Apps</span>
-			<button id="btnsearchengine" class="lgbutton" onclick="parent.location='buildsearch/'">Builds Search Engine</button>
-			<button id="btncraftmagic" class="lgbutton" onclick="parent.location='craftmagic/craftmagic.htm'">Crafting Costs</button>
-			<button id="btndeitysearch" class="buttonselect" onclick="parent.location='deitysearch.htm'">Deity Search</button>			
-			<br/><br/><span>Players</span>
-			<button id="btnguide" class="lgbutton" onclick="parent.location='wogguide.htm'">Beginner's Guide</button>
-			<button id="btnacguide" class="lgbutton" onclick="parent.location='acguide.htm'">Armor Class Guide</button>
-			<button id="btnbestiary" class="lgbutton" onclick="parent.location='bestiary.htm'">Bestiary</button>
-			<button id="btnscreenshots" class="lgbutton" onclick="parent.location='screenshots.htm'">Screenshots</button>					
-			<button id="btnlinks" class="lgbutton" onclick="parent.location='links.htm'">Links</button>
 		</div>
 
-		<div id="footer">
-			<img src="/images/wog title.jpg">
-		</div>
-	</div>
+		<nav>
+			<!-- Server -->
+			<a href="../index.html#about" onclick="DoSelect(event.currentTarget)">About</a>
+			<a href="../index.html#files" onclick="DoSelect(event.currentTarget)">Downloads</a>
+			<a href="../index.html#rules" onclick="DoSelect(event.currentTarget)">Rules</a>
+			<div class="spacer"></div>
+			<!-- Mechanics -->
+			<a href="../index.html#feats" onclick="DoSelect(event.currentTarget)">Feat changes</a>
+			<a href="../index.html#spells" onclick="DoSelect(event.currentTarget)">Spell changes</a>
+			<a href="../index.html#pantheon" onclick="DoSelect(event.currentTarget)">Pantheon</a>
+			<div class="spacer"></div>
+			<!-- Apps -->
+			<a href="../buildsearch/index.html" class="applink">Builds</a>
+			<a href="" disabled=disabled class="applink">Crafting</a>
+			<a href="" disabled=disabled class="applink target">Deities</a>
+			<div class="spacer"></div>
+			<!-- Players -->
+			<a href="../index.html#primer" onclick="DoSelect(event.currentTarget)">Beginner's Guide</a>
+			<a href="../index.html#bestiary" onclick="DoSelect(event.currentTarget)">Bestiary</a>
+			<a href="" disabled=disabled>Screenshots</a>
+			<div class="spacer"></div>
+			<!-- Links -->
+			<a href="https://www.tapatalk.com/groups/worldofgreyhawkfr/" target="_blank" class="external">Forums</a>
+			<a href="http://nwnwiki.com" target="_blank" class="external">NWNWiki</a>
+		</nav>
+	</main>
+
+	<footer>
+		the greyhawk restoration society (look for bumper stickers, soon)
+		<br />last updated:  06.02.2018
+	</footer>
 </body>
 </html>
