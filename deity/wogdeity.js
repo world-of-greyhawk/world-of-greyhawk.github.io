@@ -1,6 +1,7 @@
 /**
  * Javascript behind Raine's World of Greyhawk's deity search page.
  */
+'use strict';
 
 
 /* ************************************************************************************ */
@@ -98,6 +99,13 @@ function getAlignmentNames(aryAligns)
 	return alignments;
 }
 
+// Convenience wrapper for returning the CSS class corresponding to a domain pair.
+// The point is that the domains are ordered within the class name.
+function getDomainPairClass(domain1, domain2)
+{
+	return domain1 < domain2 ? domain1 + "-" + domain2 : domain2 + "-" + domain1;
+}
+
 // Returns the classes corresponding to the given array of domains.
 // This is a space-separated list with a leading space.
 function getDomainClasses(aryDomains)
@@ -109,9 +117,7 @@ function getDomainClasses(aryDomains)
 	for ( let j = 0; j < count; ++j ) {
 		classes += " " + aryDomains[j];
 		for ( let k = j+1; k < count; ++k )
-			classes += " " + (aryDomains[j] < aryDomains[k] ?
-				aryDomains[j] + "-" + aryDomains[k] :
-				aryDomains[k] + "-" + aryDomains[j]);
+			classes += " " + getDomainPairClass(aryDomains[j], aryDomains[k]);
 	}
 
 	return classes;
@@ -188,6 +194,20 @@ function addDeities(event)
 		appendDeity(arrDeities[i], parent);
 }
 
+// Returns an array containing the values from the checked inputs in fieldset.
+function getSelectedValues(fieldset)
+{
+	let values = [];
+	let aryChecks = fieldset.getElementsByTagName("input");
+	let count = aryChecks.length;
+
+	for ( let i = 0; i < count; ++i )
+		if ( aryChecks[i].checked )
+			values.push(aryChecks[i].value);
+
+	return values;
+}
+
 // Returns the first ancestor of element that is a fieldset
 function myFieldset(element)
 {
@@ -202,18 +222,15 @@ function myFieldset(element)
 /* ************************************************************************************ */
 // Style manipulations
 
-// Returns the index of a rule in the CSSRuleList with the provided selector.
-// Returns -1 if not found.
-function findRule(rules, selector)
+// Removes the CSS rules whose selectors match the given regular expression.
+function removeRules(styleSheet, regexp)
 {
-	let count = rules.length;
-	for ( let i = 0; i < count; ++i )
-		if ( rules[i].type === CSSRule.STYLE_RULE  &&
-		     rules[i].selectorText === selector )
-			return i;
-
-	// Not found.
-	return -1;
+	let rules = styleSheet.cssRules;
+	let i = rules.length;
+	while ( i-- > 0 )
+		// Delete this?
+		if ( rules[i].type === CSSRule.STYLE_RULE  &&  regexp.test(rules[i].selectorText) )
+			styleSheet.deleteRule(i);
 }
 
 // Updates the list of deities based on the provided type and button.
@@ -224,14 +241,15 @@ function selectCriterion(type, button)
 	let styleSheet = document.getElementById("style-results").sheet;
 	let selector = "." + type + "." + button.value;
 
-	// Remove any existing rule for this code (even if adding, just in case).
-	let oldIndex = findRule(styleSheet.cssRules, selector);
-	if ( oldIndex >= 0 )
-		styleSheet.deleteRule(oldIndex);
-
-	// Add a rule if this alignment should be shown.
 	if ( button.checked )
-		styleSheet.insertRule(selector + " { display:inherit; }");
+		// Add a rule to show this criterion's matches.
+		styleSheet.insertRule(selector + "{ display:inherit; }");
+	else {
+		// Remove the rule that shows this criterion's matches.
+		// Well, rule*s*, just in case something goes screwy.
+		let pattern = new RegExp("^" + selector + "$");
+		removeRules(styleSheet, pattern);
+	}
 }
 
 // Updates the list of deities based on the event's current target.
@@ -245,7 +263,46 @@ function selectAlignment(event)
 // It is assumed that the current target is checkable and its value is a domain (Title Case).
 function selectDomain(event)
 {
-	selectCriterion("domain", event.currentTarget);
+	const SELECT = ".domain.";
+	const STYLE  = "{ display:inherit; }";
+
+	// NOTE: this stylesheet is used ONLY for these dynamic rules concerning domains.
+	let styleSheet = document.getElementById("style-domain-results").sheet;
+	let curButton = event.currentTarget;
+	let aryValues = getSelectedValues(myFieldset(curButton));
+	let count = aryValues.length;
+
+	if ( count < 3 ) {
+		// These cases are easiest to handle by removing all rules, then adding what we need.
+		let pattern = new RegExp(".*");
+		removeRules(styleSheet, pattern);
+
+		if ( count === 2 ) {
+			// Add a rule for both domains.
+			let selector = SELECT + getDomainPairClass(aryValues[0], aryValues[1]);
+			styleSheet.insertRule(selector + STYLE);
+		}
+		else if ( count === 1 ) {
+			// Add a rule for the solitary domain.
+			let selector = SELECT + aryValues[0];
+			styleSheet.insertRule(selector + STYLE);
+		}
+		// There is no rule to show something if there are no values selected.
+	}
+	else if ( !curButton.checked ) {
+		// Remove rules for pairs of domains that contain this one.
+		let pattern = new RegExp("[.-]" + curButton.value + "(?:[ -]|$)");
+		removeRules(styleSheet, pattern);
+	}
+	else {
+		let curValue = curButton.value;
+		// Add rules to show pairs of selected domains that include this one.
+		for ( let i = 0; i < count; ++i )
+			if ( aryValues[i] !== curValue ) {
+				let selector = SELECT + getDomainPairClass(aryValues[i], curValue);
+				styleSheet.insertRule(selector + STYLE);
+			}
+	}
 }
 
 // Updates the list of deities based on the event's current target.
@@ -284,6 +341,8 @@ function initCriteria(event)
 			case 'domain':    buttons[i].addEventListener("click", selectDomain);    break;
 			case 'race':      buttons[i].addEventListener("click", selectRace);      break;
 		}
+		// On reload, some browsers leave the checked state, but reset the style node.
+		buttons[i].checked = false;
 	}
 }
 
