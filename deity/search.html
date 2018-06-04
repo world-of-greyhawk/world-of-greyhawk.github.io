@@ -7,11 +7,8 @@
 	<link rel="stylesheet" href="../wognwn.css">
 	<link rel="stylesheet" href="wogdeity.css">
 
-	<meta name="description" content="name"/>
-	<meta name="author" content=""/>
-	<meta name="copyright" content="CopyrightŠ World of Greyhawk Server, 2010.  All Rights Reserved"/>
-	<meta name="created" content="01.01.10">
-	<meta name="revised" content="01.01.10">
+	<style id="style-results">
+	</style>
 
 	<script src="wogdeity.js" defer></script>
 </head>
@@ -23,83 +20,90 @@
 	</header>
 
 	<main>
-		<div id="main" class="main-content">
-			<form name="frmMain">
-				<fieldset id="fsdeityselectrace">
-					<legend>Select Race</legend>
-					<input type="radio" name="race" value="Any" checked="checked"> Any
-					<br/><input type="radio" name="race" value="Dwarf"> Dwarf
-					<br/><input type="radio" name="race" value="Elf"> Elf
-					<br/><input type="radio" name="race" value="Elf (Drow)"> Elf (Drow)
-					<br/><input type="radio" name="race" value="Gnome"> Gnome
-					<br/><input type="radio" name="race" value="Halfling"> Halfling
-					<br/><input type="radio" name="race" value="Half-Elf"> Half-Elf
-					<br/><input type="radio" name="race" value="Half-Orc"> Half-Orc
-					<br/><input type="radio" name="race" value="Human"> Human
-				</fieldset>
-
-				<fieldset id="fsdeityselectalignment">
-					<legend>Select Alignment</legend>
-					<input type="radio" name="alignment" value="Any" checked="checked"> Any
-					<br/><input type="radio" name="alignment" value="Lawful Good"> Lawful Good
-					<br/><input type="radio" name="alignment" value="Neutral Good"> Neutral Good
-					<br/><input type="radio" name="alignment" value="Chaotic Good"> Chaotic Good
-					<br/><input type="radio" name="alignment" value="Lawful Neutral"> Lawful Neutral
-					<br/><input type="radio" name="alignment" value="True Neutral"> True Neutral
-					<br/><input type="radio" name="alignment" value="Chaotic Neutral"> Chaotic Neutral
-					<br/><input type="radio" name="alignment" value="Lawful Evil"> Lawful Evil
-					<br/><input type="radio" name="alignment" value="Neutral Evil"> Neutral Evil
-					<br/><input type="radio" name="alignment" value="Chaotic Evil"> Chaotic Evil
-				</fieldset>
-
-				<fieldset id="fsdeityselectdomain">
-					<legend>Select Domain</legend>
+		<div class="main-content">
+			<div><form id="fromCriteria" name="Criteria"><!-- "Extra" div's are needed for formatting on some browsers -->
+				<fieldset><legend>Race</legend><div>
 					<div class="column">
-					<input type="radio" name="domain" value="Any" checked="checked"> Any
-					<br/><input type="radio" name="domain" value="Air"> Air
-					<br/><input type="radio" name="domain" value="Animal"> Animal
-					<br/><input type="radio" name="domain" value="Death"> Death
-					<br/><input type="radio" name="domain" value="Destruction"> Destruction
-					<br/><input type="radio" name="domain" value="Earth"> Earth
-					<br/><input type="radio" name="domain" value="Evil"> Evil
-					<br/><input type="radio" name="domain" value="Fire"> Fire
-					<br/><input type="radio" name="domain" value="Good"> Good
-					<br/><input type="radio" name="domain" value="Healing"> Healing
+						<label><input type="checkbox" name="race" value="Dw">Dwarf</label>
+						<label><input type="checkbox" name="race" value="El">Elf</label>
+						<label><input type="checkbox" name="race" value="Drow">Elf (Drow)</label>
+						<label><input type="checkbox" name="race" value="Gn">Gnome</label>
+						<label><input type="checkbox" name="race" value="He">Half-elf</label>
+						<label><input type="checkbox" name="race" value="Ho">Half-orc</label>
+						<label><input type="checkbox" name="race" value="Ha">Halfling</label>
+						<label><input type="checkbox" name="race" value="Hu">Human</label>
 					</div>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
+
+				<fieldset><legend>Alignment</legend><div>
 					<div class="column">
-					<input type="radio" name="domain" value="Knowledge"> Knowledge
-					<br/><input type="radio" name="domain" value="Magic"> Magic
-					<br/><input type="radio" name="domain" value="Plant"> Plant
-					<br/><input type="radio" name="domain" value="Protection"> Protection
-					<br/><input type="radio" name="domain" value="Strength"> Strength
-					<br/><input type="radio" name="domain" value="Sun"> Sun
-					<br/><input type="radio" name="domain" value="Travel"> Travel
-					<br/><input type="radio" name="domain" value="Trickery"> Trickery
-					<br/><input type="radio" name="domain" value="War"> War
-					<br/><input type="radio" name="domain" value="Water"> Water
+						<label><input type="checkbox" name="alignment" value="LG">Lawful Good</label>
+						<label><input type="checkbox" name="alignment" value="NG">Neutral Good</label>
+						<label><input type="checkbox" name="alignment" value="CG">Chaotic Good</label>
+						<label><input type="checkbox" name="alignment" value="LN">Lawful Neutral</label>
+						<label><input type="checkbox" name="alignment" value="TN">True Neutral</label>
+						<label><input type="checkbox" name="alignment" value="CN">Chaotic Neutral</label>
+						<label><input type="checkbox" name="alignment" value="LE">Lawful Evil</label>
+						<label><input type="checkbox" name="alignment" value="NE">Neutral Evil</label>
+						<label><input type="checkbox" name="alignment" value="CE">Chaotic Evil</label>
 					</div>
-					<button type="button" onclick="window.open('http://nwn.wikia.com/wiki/Domain')">Compare Domains</button>
-				</fieldset>
-			</form>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
 
-			<div id="divcontainerbtnsearchdeity">
-				<button id="btnsearchdeity" class="lgbutton" onclick="Search()">Search</button>
-			</div>
+				<fieldset><legend>Domain</legend><div>
+					<div class="multicol">
+						<div class="column">
+							<label><input type="checkbox" name="domain" value="Air">Air</label>
+							<label><input type="checkbox" name="domain" value="Animal">Animal</label>
+							<label><input type="checkbox" name="domain" value="Death">Death</label>
+							<label><input type="checkbox" name="domain" value="Destruction">Destruction</label>
+							<label><input type="checkbox" name="domain" value="Earth">Earth</label>
+							<label><input type="checkbox" name="domain" value="Evil">Evil</label>
+							<label><input type="checkbox" name="domain" value="Fire">Fire</label>
+							<label><input type="checkbox" name="domain" value="Good">Good</label>
+							<label><input type="checkbox" name="domain" value="Healing">Healing</label>
+							<label><input type="checkbox" name="domain" value="Knowledge">Knowledge</label>
+						</div>
+						<div class="column">
+							<label><input type="checkbox" name="domain" value="Magic">Magic</label>
+							<label><input type="checkbox" name="domain" value="Plant">Plant</label>
+							<label><input type="checkbox" name="domain" value="Protection">Protection</label>
+							<label><input type="checkbox" name="domain" value="Strength">Strength</label>
+							<label><input type="checkbox" name="domain" value="Sun">Sun</label>
+							<label><input type="checkbox" name="domain" value="Travel">Travel</label>
+							<label><input type="checkbox" name="domain" value="Trickery">Trickery</label>
+							<label><input type="checkbox" name="domain" value="War">War</label>
+							<label><input type="checkbox" name="domain" value="Water">Water</label>
+						</div>
+					</div>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
+			</form></div>
 
-			<div id="divsearchresults">
+			<div id="divResults">
 			</div>
 		</div>
 
 		<nav>
 			<!-- Server -->
-			<a href="../index.html#about" onclick="DoSelect(event.currentTarget)">About</a>
-			<a href="../index.html#files" onclick="DoSelect(event.currentTarget)">Downloads</a>
-			<a href="../index.html#rules" onclick="DoSelect(event.currentTarget)">Rules</a>
+			<a href="../index.html#about">About</a>
+			<a href="../index.html#files">Downloads</a>
+			<a href="../index.html#rules">Rules</a>
 			<div class="spacer"></div>
 			<!-- Mechanics -->
-			<a href="../index.html#feats" onclick="DoSelect(event.currentTarget)">Feat changes</a>
-			<a href="../index.html#spells" onclick="DoSelect(event.currentTarget)">Spell changes</a>
-			<a href="../index.html#pantheon" onclick="DoSelect(event.currentTarget)">Pantheon</a>
+			<a href="../index.html#feats">Feat changes</a>
+			<a href="../index.html#spells">Spell changes</a>
+			<a href="../index.html#pantheon">Pantheon</a>
 			<div class="spacer"></div>
 			<!-- Apps -->
 			<a href="../buildsearch/index.html" class="applink">Builds</a>
@@ -107,13 +111,13 @@
 			<a href="" disabled=disabled class="applink target">Deities</a>
 			<div class="spacer"></div>
 			<!-- Players -->
-			<a href="../index.html#primer" onclick="DoSelect(event.currentTarget)">Beginner's Guide</a>
-			<a href="../index.html#bestiary" onclick="DoSelect(event.currentTarget)">Bestiary</a>
+			<a href="../index.html#primer">Beginner's Guide</a>
+			<a href="../index.html#bestiary">Bestiary</a>
 			<a href="" disabled=disabled>Screenshots</a>
 			<div class="spacer"></div>
 			<!-- Links -->
-			<a href="https://www.tapatalk.com/groups/worldofgreyhawkfr/" target="_blank" class="external">Forums</a>
-			<a href="http://nwnwiki.com" target="_blank" class="external">NWNWiki</a>
+			<a href="https://www.tapatalk.com/groups/worldofgreyhawkfr/" target="_blank">Forums</a>
+			<a href="http://nwnwiki.com" target="_blank">NWNWiki</a>
 		</nav>
 	</main>
 
