@@ -1,14 +1,12 @@
 /*zero code*/
 
-*
-{
-	box-sizing:  inherit;
-}
+*, *:before, *:after	{ box-sizing: inherit; }
 
 html, body, iframe
 {
 	box-sizing:  border-box;
 	border:  none;
+	font-size:	14px;
 	margin:  0;
 	padding: 0;
 }
@@ -16,13 +14,19 @@ html, body:not(.subpage)
 {
 	height: 100%;
 }
-h1, h2, h3, h4, h5, h6
+
+h1, h2, h3, h4, h5, h6	{ margin: 8px 16px 0; }
+p, dl, ol, ul	{ margin: 8px 16px; }
+
+button, input, select
 {
-	margin: 8px 16px 0;
+	font:	inherit;
+	margin:	0;
+	overflow:	visible;
 }
-p, dl, ol, ul
+[type=checkbox], [type=radio]
 {
-	margin: 8px 16px;
+	padding:	0;
 }
 
 
@@ -50,8 +54,10 @@ body.subpage, iframe, nav, footer, .main-content
 
 header, main, footer
 {
+	display: block;
 	width: 90%;
 	max-width: 64em;
+	min-width: 28em;
 }
 
 header
@@ -81,7 +87,7 @@ a:active  { color: #039; }
 a:hover   { color: #05f; }
 a:visited { color: white; }
 
-a.applink::after, a.external::after
+a.applink::after, a[target='_blank']::after
 {
 	content: " ";
 	display: inline-block;
@@ -95,7 +101,7 @@ a.applink::after
 {
 	background-image: url("images/icon-app.svg");
 }
-a.external::after
+a[target='_blank']::after
 {
 	background-image: url("images/icon-ext.svg");
 }
@@ -107,17 +113,15 @@ iframe, .main-content
 {
 	width:  calc(100% - 14em);
 	height: 100%;
-	min-height: 1em;
+	min-height: 10em;
 	position: absolute;
+}
+iframe {
 	z-index: -1;
 }
 iframe:target
 {
 	z-index: 1;
-}
-iframe:not(:target):not(:last-of-type)
-{
-	display: none;
 }
 
 nav
@@ -145,7 +149,7 @@ nav > a
 
 	border: thin groove #000;
 	border-radius: 5px;
-	font-size: 1.2em;
+	font-size: 1.1em;
 
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -195,7 +199,7 @@ nav > a[disabled]
 
 /* h1 = page heading */
 h1 {
-    font-size:      1.7em;
+    font-size:      2.0em;
 	color:  #fc1;
     text-align:    center;
 }
