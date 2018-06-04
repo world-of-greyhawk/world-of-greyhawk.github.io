@@ -23,7 +23,7 @@
 		<div class="main-content">
 			<div><form id="fromCriteria" name="Criteria"><!-- "Extra" div's are needed for formatting on some browsers -->
 				<fieldset><legend>Race</legend><div>
-					<div class="column">
+					<div class="checks races">
 						<label><input type="checkbox" name="race" value="Dw">Dwarf</label>
 						<label><input type="checkbox" name="race" value="El">Elf</label>
 						<label><input type="checkbox" name="race" value="Drow">Elf (Drow)</label>
@@ -40,7 +40,7 @@
 				</div></fieldset>
 
 				<fieldset><legend>Alignment</legend><div>
-					<div class="column">
+					<div class="checks alignments">
 						<label><input type="checkbox" name="alignment" value="LG">Lawful Good</label>
 						<label><input type="checkbox" name="alignment" value="NG">Neutral Good</label>
 						<label><input type="checkbox" name="alignment" value="CG">Chaotic Good</label>
@@ -58,30 +58,26 @@
 				</div></fieldset>
 
 				<fieldset><legend>Domain</legend><div>
-					<div class="multicol">
-						<div class="column">
-							<label><input type="checkbox" name="domain" value="Air">Air</label>
-							<label><input type="checkbox" name="domain" value="Animal">Animal</label>
-							<label><input type="checkbox" name="domain" value="Death">Death</label>
-							<label><input type="checkbox" name="domain" value="Destruction">Destruction</label>
-							<label><input type="checkbox" name="domain" value="Earth">Earth</label>
-							<label><input type="checkbox" name="domain" value="Evil">Evil</label>
-							<label><input type="checkbox" name="domain" value="Fire">Fire</label>
-							<label><input type="checkbox" name="domain" value="Good">Good</label>
-							<label><input type="checkbox" name="domain" value="Healing">Healing</label>
-							<label><input type="checkbox" name="domain" value="Knowledge">Knowledge</label>
-						</div>
-						<div class="column">
-							<label><input type="checkbox" name="domain" value="Magic">Magic</label>
-							<label><input type="checkbox" name="domain" value="Plant">Plant</label>
-							<label><input type="checkbox" name="domain" value="Protection">Protection</label>
-							<label><input type="checkbox" name="domain" value="Strength">Strength</label>
-							<label><input type="checkbox" name="domain" value="Sun">Sun</label>
-							<label><input type="checkbox" name="domain" value="Travel">Travel</label>
-							<label><input type="checkbox" name="domain" value="Trickery">Trickery</label>
-							<label><input type="checkbox" name="domain" value="War">War</label>
-							<label><input type="checkbox" name="domain" value="Water">Water</label>
-						</div>
+					<div class="checks domains">
+						<label><input type="checkbox" name="domain" value="Air">Air</label>
+						<label><input type="checkbox" name="domain" value="Animal">Animal</label>
+						<label><input type="checkbox" name="domain" value="Death">Death</label>
+						<label><input type="checkbox" name="domain" value="Destruction">Destruction</label>
+						<label><input type="checkbox" name="domain" value="Earth">Earth</label>
+						<label><input type="checkbox" name="domain" value="Evil">Evil</label>
+						<label><input type="checkbox" name="domain" value="Fire">Fire</label>
+						<label><input type="checkbox" name="domain" value="Good">Good</label>
+						<label><input type="checkbox" name="domain" value="Healing">Healing</label>
+						<label><input type="checkbox" name="domain" value="Knowledge">Knowledge</label>
+						<label><input type="checkbox" name="domain" value="Magic">Magic</label>
+						<label><input type="checkbox" name="domain" value="Plant">Plant</label>
+						<label><input type="checkbox" name="domain" value="Protection">Protection</label>
+						<label><input type="checkbox" name="domain" value="Strength">Strength</label>
+						<label><input type="checkbox" name="domain" value="Sun">Sun</label>
+						<label><input type="checkbox" name="domain" value="Travel">Travel</label>
+						<label><input type="checkbox" name="domain" value="Trickery">Trickery</label>
+						<label><input type="checkbox" name="domain" value="War">War</label>
+						<label><input type="checkbox" name="domain" value="Water">Water</label>
 					</div>
 					<div class="buttons">
 						<button type="button" onclick="selectAll(event, true)">Any</button>

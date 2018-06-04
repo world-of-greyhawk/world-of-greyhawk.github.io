@@ -21,8 +21,8 @@ fieldset {
 	background: #222;
 	border:  none;
 	border-radius:  10px;
-	padding: 2ex 1em 2.5ex;
-	margin:  0px 1em;
+	padding: 2ex 1em 0.2ex;
+	margin:  0px 1em 1ex;
 
 	white-space: nowrap;
 }
@@ -50,6 +50,11 @@ label > input {
 
 /* Layout */
 
+header, main, footer
+{
+	max-width: 80em;
+}
+
 .main-content {
 	display:	flex;
 	flex-flow:	column nowrap;
@@ -58,36 +63,65 @@ label > input {
 form {
 	display:	flex;
 	flex-flow:	row nowrap;
+	justify-content:space-around;
+	height:	45ex;
+	width:	100%;
 }
 fieldset {
 	flex-grow:	1;
+	/* Chrome does not handle flex growth in fieldsets well: */
+	padding-bottom: 2.5ex;
 }
 fieldset > div {
 	display:	flex;
 	flex-flow:	column nowrap;
 	height:	100%;
 }
-.multicol {
-	display:	flex;
-	flex-flow:	row wrap;
-	flex-grow:	1;
-	justify-content:space-around;
-}
-.column {
+.checks {
 	display:	flex;
 	flex-flow:	column wrap;
 	flex-grow:	1;
 	justify-content:space-between;
+}
+.checks.domains {
+	display:	grid;
+	grid:	auto-flow / 1fr 1fr;
+	align-content:	space-between;
 }
 .buttons {
 	align-self:	center;
 }
 
 #divResults {
-	flex: auto;
+	flex: 1 1 auto;
 	overflow: auto;
 	margin-top:	1ex;
 	padding: 0.2em 1em;
+}
+
+@media (min-width:1150px) {
+	.main-content {
+		flex-direction:	row;
+	}
+	form {
+		flex-direction:	column;
+		height:	100%;
+		width:	32em;
+	}
+	fieldset {
+		width: 30em;
+		flex-grow:	0;
+		padding-bottom: 0;
+		margin-bottom:	1ex;
+	}
+	fieldset > div {
+		width: 100%;
+		height:auto;
+	}
+	.checks, .checks.domains {
+		display:grid;
+		grid:	auto-flow / 1fr 1fr 1fr;
+	}
 }
 
 
