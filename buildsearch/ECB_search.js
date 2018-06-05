@@ -261,5 +261,5 @@ function ValidateSearch()
 	}
 
 	// Show the results panel.
-	document.getElementById("resultsframe").style.display = "block";
+	document.getElementById("resultsparent").classList.add("results");
 }

@@ -19,7 +19,9 @@ main {
 	border: medium groove #000;
 	display: none;
 }
-
+.results #resultsframe {
+	display: block;
+}
 
 /* The search criteria form */
 
