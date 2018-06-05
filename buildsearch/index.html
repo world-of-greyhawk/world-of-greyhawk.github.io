@@ -33,11 +33,11 @@
 		</iframe>
 
 		<p>This form will search a database of NWN builds posted in the
-			<em>Epic Character Builders guild</em> from the BioWare website.
+			<em>Epic Character Builders Guild</em> from the BioWare website.
 		</p>
 
 		<form id="criteria" action="ECB_results.html" target="resultsframe" method="get" onSubmit="ValidateSearch()">
-			<fieldset id="levelset">
+			<fieldset id="levelset"><div>
 				<p>Find builds that have:</p>
 				<label for="min1">From</label><input id="min1" type="text" name="min1" value="1"  size="2" maxlength="2" onChange="LevelValidate(this);" />
 				<label for="max1">to</label>  <input id="max1" type="text" name="max1" value="40" size="2" maxlength="2" onChange="LevelValidate(this);" />
@@ -148,7 +148,7 @@
 
 				<label for="mintotal"></label><input type="text" id="mintotal" value="1"   disabled size="2" class="feedback" />
 				<label for="maxtotal"></label><input type="text" id="maxtotal" value="120" disabled size="2" class="feedback" />
-			</fieldset>
+			</div></fieldset>
 
 			<fieldset id="classset"><legend>Selected classes</legend>
 				<div class="base">
@@ -180,7 +180,7 @@
 				</div>
 			</fieldset>
 
-			<fieldset id="raceset"><legend>Races</legend>
+			<fieldset id="raceset"><legend>Races</legend><div>
 				<label class="meta">Any race<input id="allracebutton" type="checkbox" name="allrace" value="yes" checked onClick="AllRaces(this.checked);"></label>
 
 				<label>Dwarf   <input type="checkbox" name="selrace" value="dwarf" onClick="AllRaces(false);"></label>
@@ -192,13 +192,13 @@
 				<label>Human   <input type="checkbox" name="selrace" value="human" onClick="AllRaces(false);"></label>
 
 				<label class="meta">Unspecified/unknown races<input type="checkbox" name="selrace" value="unknown" onClick="AllRaces(false);"></label>
-			</fieldset>
+			</div></fieldset>
 
-			<fieldset id="sortset"><legend>Results by</legend>
+			<fieldset id="sortset"><legend>Results by</legend><div>
 				<label>author<input type="radio" name="sortby" value="author"></label>
 				<label>classes<input type="radio" name="sortby" value="class" checked></label>
 				<label>class level<input type="radio" name="sortby" value="classlevel"></label>
-			</fieldset>
+			</div></fieldset>
 
 			<button id="searchbutton" type="submit">Search</button>
 		</form>

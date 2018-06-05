@@ -1,12 +1,18 @@
 /* Formatting for specific elements */
 
+header, main, footer
+{
+	max-width: 128em;
+}
+
 main {
 	overflow: auto; /* stop-gap measure */
 }
 
 /* The search results frame */
 #resultsframe { /* iframe */
-	position: static;
+	position:	static;
+	z-index:	0;
 
 	height:       75ex;
 	margin-top:    2ex;
@@ -16,7 +22,7 @@ main {
 	margin-left:    5%;
 	margin-right:   5%;
 
-	border: medium groove #000;
+	border: medium groove #444;
 	display: none;
 }
 .results #resultsframe {
@@ -40,12 +46,13 @@ label {
 	padding:0;
 	margin: 0;
 	grid-column: 2/-2;
-
+}
+#levelset > div {
 	display: grid;
 	grid: auto-flow / repeat(6, max-content);
 	align-items: baseline;
 }
-#levelset > p {
+#levelset > div > p {
 	grid-column: 1/-1;
 	margin:	1ex 0 2ex;
 	padding: 0 1em;
@@ -73,24 +80,26 @@ label {
 
 #raceset { /* fieldset */
 	grid-column: 1 / 3;
-
+}
+#raceset > div {
 	display: grid;
 	grid: auto-flow / repeat(3, max-content);
 	grid-row-gap: 1ex;
 	justify-items: end;
 	justify-content: space-around;
 }
-#raceset > .meta:first-of-type {
+#raceset > div > .meta:first-of-type {
 	grid-column: 1/-1;
 	justify-self: center;
 }
-#raceset > .meta:last-of-type {
+#raceset > div > .meta:last-of-type {
 	grid-column: 2/-1;
 }
 
 #sortset { /* fieldset */
 	grid-column: 4;
-
+}
+#sortset > div {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: end;
@@ -100,5 +109,20 @@ label {
 #searchbutton { /* button */
 	grid-column: 5;
 	align-self:  end;
+}
+
+@media (min-width:1150px) {
+	main.results {
+		padding-right:	calc(90% - 50em); /* 90% is main's width; */
+	}	                                  /* 50em is a bit more than #criteria's width */
+	#resultsframe {
+		position:	absolute;
+		top:	0;
+		right:	0;
+		bottom:	0;
+		width:	calc(100% - 50em); /* Same subtraction as in main's padding-right */
+		height:	100%;
+		margin:	0;
+	}
 }
 
