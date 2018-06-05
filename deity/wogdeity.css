@@ -102,6 +102,13 @@ fieldset > div {
 @media (min-width:1150px) {
 	.main-content {
 		flex-direction:	row;
+		padding-top:4ex;
+	}
+	.main-content > h2 {
+		position:	absolute;
+		left:	0;
+		right:	0;
+		top:	0;
 	}
 	form {
 		flex-direction:	column;
