@@ -45,6 +45,7 @@ label {
 }
 label > input {
 	margin-right: 0.5em;
+	z-index:	2;
 }
 
 
